@@ -26,9 +26,9 @@ heterogenous across firms with different size and bargaining power?
 
 ## Data Sources
 
-1. Affirm merchant lists: <https://www.affirm.com/>
+1. Affirm merchant lists: <https://www.affirm.com/u/shop/browse?category=all&_branch_match_id=1579589828954149319&utm_medium=marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT0xLyyzK1UssKNDLyczL1q%2FyKCiKynV0Cy5Ksq8rSk1LLSrKzEuPTyrKLy9OLbJ1zijKz00FAOJ4b3g9AAAA>
 2. Klarna merchant list: <https://www.klarna.com/us/store/>
-3. Afterpay merchant list: <https://www.afterpay.com/en-US>
+3. Afterpay merchant list: Fashion: <https://www.afterpay.com/en-US](https://www.afterpay.com/en-US/categories/womens-clothing)>; Kids & Baby: <https://www.afterpay.com/en-US/categories/kids>; Home & Garden: <https://www.afterpay.com/en-US/categories/home>; Health & Beauty: <https://www.afterpay.com/en-US/categories/beauty>; Electronics & Devices:<https://www.afterpay.com/en-US/categories/tech>; Travel and Entertainment: <https://www.afterpay.com/en-US/categories/travel>
 4. Zip merchant list: <https://zip.co/us/shop/shop-all>
 5. Sezzle merchant list: <https://sezzle.com/>
 
