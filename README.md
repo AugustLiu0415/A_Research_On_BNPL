@@ -14,8 +14,10 @@ heterogenous across firms with different size and bargaining power?
 
 ## Hypothesis
 
-1. H1: Industry Heterogeneity Hypothesis: The BNPL effect is stronger in discretionary, high-ticket, high-margin, and e-commerce-intensive industries.
-2. H2: Firm Size Hypothesis: BNPL effects are more detectable among small- and mid-cap focused retailers than among large diversified merchants.
+1. H1:
+   **Industry Heterogeneity Hypothesis**: The BNPL effect is stronger in discretionary, high-ticket, high-margin, and e-commerce-intensive industries.
+3. H2:
+   **Firm Size Hypothesis**: BNPL effects are more detectable among small- and mid-cap focused retailers than among large diversified merchants.
 
 ## Current Progress
 
