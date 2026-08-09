@@ -1,0 +1,1 @@
+{"url": "https://www.bathandbodyworks.com", "retrieved_at": "2026-08-09T21:16:01+00:00", "status": "", "final_url": "", "headers": {}, "text": "", "error": "URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))"}

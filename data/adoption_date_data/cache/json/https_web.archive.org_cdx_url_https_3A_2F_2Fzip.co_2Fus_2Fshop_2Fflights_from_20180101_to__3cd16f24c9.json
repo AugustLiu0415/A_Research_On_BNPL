@@ -1,0 +1,1 @@
+{"error": "TimeoutError('The read operation timed out')", "url": "https://web.archive.org/cdx?url=https%3A%2F%2Fzip.co%2Fus%2Fshop%2Fflights&from=20180101&to=20260731&output=json&fl=timestamp,original,statuscode,mimetype,digest&filter=statuscode:200&collapse=digest"}

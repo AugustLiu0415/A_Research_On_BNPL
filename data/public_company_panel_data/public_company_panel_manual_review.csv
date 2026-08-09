@@ -1,0 +1,22 @@
+CIK,company,issue_type,notes,severity,ticker
+0000016988,CANON INC,no_revenue_coverage,No selected quarterly revenue observations.,WARNING,CAJPY
+0000016988,CANON INC,foreign_issuer_review,Foreign issuer or IFRS taxonomy/forms detected; review reporting frequency and concept mappings.,INFO,CAJPY
+0000041091,GEORGIA POWER CO,no_quarterly_panel_rows,No fiscal-quarter rows were extracted from standardized CompanyFacts.,WARNING,GPJA
+0000313838,Sony Group Corp,no_revenue_coverage,No selected quarterly revenue observations.,WARNING,SONY
+0000313838,Sony Group Corp,foreign_issuer_review,Foreign issuer or IFRS taxonomy/forms detected; review reporting frequency and concept mappings.,INFO,SONY
+0001269238,Trip.com Group Ltd,no_revenue_coverage,No selected quarterly revenue observations.,WARNING,TCOM
+0001269238,Trip.com Group Ltd,foreign_issuer_review,Foreign issuer or IFRS taxonomy/forms detected; review reporting frequency and concept mappings.,INFO,TCOM
+0001523836,"LightInTheBox Holding Co., Ltd.",no_revenue_coverage,No selected quarterly revenue observations.,WARNING,LITB
+0001523836,"LightInTheBox Holding Co., Ltd.",foreign_issuer_review,Foreign issuer or IFRS taxonomy/forms detected; review reporting frequency and concept mappings.,INFO,LITB
+0001560968,Samsonite International SA/ADR,missing_companyfacts,CompanyFacts unavailable: sec_user_agent_missing,ERROR,SMSGY
+0001577552,Alibaba Group Holding Ltd,no_revenue_coverage,No selected quarterly revenue observations.,WARNING,BABA
+0001577552,Alibaba Group Holding Ltd,foreign_issuer_review,Foreign issuer or IFRS taxonomy/forms detected; review reporting frequency and concept mappings.,INFO,BABA
+0001690511,Canada Goose Holdings Inc.,no_revenue_coverage,No selected quarterly revenue observations.,WARNING,GOOS
+0001690511,Canada Goose Holdings Inc.,foreign_issuer_review,Foreign issuer or IFRS taxonomy/forms detected; review reporting frequency and concept mappings.,INFO,GOOS
+0001762301,Fiverr International Ltd.,no_revenue_coverage,No selected quarterly revenue observations.,WARNING,FVRR
+0001762301,Fiverr International Ltd.,foreign_issuer_review,Foreign issuer or IFRS taxonomy/forms detected; review reporting frequency and concept mappings.,INFO,FVRR
+0001787117,Reformation Inc.,no_quarterly_panel_rows,No fiscal-quarter rows were extracted from standardized CompanyFacts.,WARNING,REF
+0001858985,On Holding AG,no_revenue_coverage,No selected quarterly revenue observations.,WARNING,ONON
+0001858985,On Holding AG,foreign_issuer_review,Foreign issuer or IFRS taxonomy/forms detected; review reporting frequency and concept mappings.,INFO,ONON
+0001957132,"SharkNinja, Inc.",foreign_issuer_review,Foreign issuer or IFRS taxonomy/forms detected; review reporting frequency and concept mappings.,INFO,SN
+0001977102,Birkenstock Holding plc,foreign_issuer_review,Foreign issuer or IFRS taxonomy/forms detected; review reporting frequency and concept mappings.,INFO,BIRK

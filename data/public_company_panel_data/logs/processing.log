@@ -1,0 +1,2193 @@
+2026-08-09 19:04:47,817 INFO Loading public-company sample from /Users/augustliu/Desktop/Research_On_Merchant_Side_Effect_Of_BNPL/data/merchant_ownership/merchant_ownership_rows.json
+2026-08-09 19:04:47,880 INFO INFO unique_cik_count Unique CIK count confirmed: 127.
+2026-08-09 19:04:47,880 INFO Smoke test mode: processing 5 companies
+2026-08-09 19:04:47,880 WARNING SEC_USER_AGENT is not configured. No new SEC requests will be made; local cache only.
+2026-08-09 19:04:47,880 INFO [1/5] Processing CIK0000320193 Apple Inc.
+2026-08-09 19:04:47,885 INFO Copied existing CompanyFacts cache for CIK0000320193
+2026-08-09 19:04:47,885 INFO SKIP CIK0000320193 submissions: SEC_USER_AGENT missing
+2026-08-09 19:04:47,980 INFO CIK0000320193 extracted rows=46 audit_facts=805
+2026-08-09 19:04:47,981 INFO [2/5] Processing CIK0000027419 TARGET CORP
+2026-08-09 19:04:47,985 INFO Copied existing CompanyFacts cache for CIK0000027419
+2026-08-09 19:04:47,986 INFO SKIP CIK0000027419 submissions: SEC_USER_AGENT missing
+2026-08-09 19:04:48,062 INFO CIK0000027419 extracted rows=45 audit_facts=562
+2026-08-09 19:04:48,063 INFO [3/5] Processing CIK0000039911 GAP INC
+2026-08-09 19:04:48,067 INFO Copied existing CompanyFacts cache for CIK0000039911
+2026-08-09 19:04:48,067 INFO SKIP CIK0000039911 submissions: SEC_USER_AGENT missing
+2026-08-09 19:04:48,151 INFO CIK0000039911 extracted rows=46 audit_facts=580
+2026-08-09 19:04:48,152 INFO [4/5] Processing CIK0000016988 CANON INC
+2026-08-09 19:04:48,155 INFO Copied existing CompanyFacts cache for CIK0000016988
+2026-08-09 19:04:48,155 INFO SKIP CIK0000016988 submissions: SEC_USER_AGENT missing
+2026-08-09 19:04:48,176 INFO CIK0000016988 extracted rows=8 audit_facts=56
+2026-08-09 19:04:48,177 INFO [5/5] Processing CIK0000006201 American Airlines Group Inc.
+2026-08-09 19:04:48,180 INFO Copied existing CompanyFacts cache for CIK0000006201
+2026-08-09 19:04:48,180 INFO SKIP CIK0000006201 submissions: SEC_USER_AGENT missing
+2026-08-09 19:04:48,268 INFO CIK0000006201 extracted rows=46 audit_facts=435
+2026-08-09 19:04:48,272 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,272 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,272 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,272 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,272 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,272 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,272 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,272 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,272 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,272 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,272 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,272 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,272 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,273 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,274 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:04:48,275 INFO INFO panel_row_count Panel rows: 191
+2026-08-09 19:04:48,294 INFO Wrote CSV/JSON outputs to /Users/augustliu/Desktop/Research_On_Merchant_Side_Effect_Of_BNPL/data/public_company_panel_data
+2026-08-09 19:05:04,807 INFO Workbook export complete
+2026-08-09 19:05:21,248 INFO Loading public-company sample from /Users/augustliu/Desktop/Research_On_Merchant_Side_Effect_Of_BNPL/data/merchant_ownership/merchant_ownership_rows.json
+2026-08-09 19:05:21,288 INFO INFO unique_cik_count Unique CIK count confirmed: 127.
+2026-08-09 19:05:21,288 WARNING SEC_USER_AGENT is not configured. No new SEC requests will be made; local cache only.
+2026-08-09 19:05:21,288 INFO [1/127] Processing CIK0000006201 American Airlines Group Inc.
+2026-08-09 19:05:21,288 INFO SKIP CIK0000006201 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:21,334 INFO CIK0000006201 extracted rows=46 audit_facts=435
+2026-08-09 19:05:21,334 INFO [2/127] Processing CIK0000016988 CANON INC
+2026-08-09 19:05:21,334 INFO SKIP CIK0000016988 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:21,349 INFO CIK0000016988 extracted rows=8 audit_facts=56
+2026-08-09 19:05:21,349 INFO [3/127] Processing CIK0000018255 CATO CORP
+2026-08-09 19:05:21,352 INFO Copied existing CompanyFacts cache for CIK0000018255
+2026-08-09 19:05:21,352 INFO SKIP CIK0000018255 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:21,417 INFO CIK0000018255 extracted rows=46 audit_facts=658
+2026-08-09 19:05:21,418 INFO [4/127] Processing CIK0000027419 TARGET CORP
+2026-08-09 19:05:21,418 INFO SKIP CIK0000027419 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:21,514 INFO CIK0000027419 extracted rows=45 audit_facts=562
+2026-08-09 19:05:21,514 INFO [5/127] Processing CIK0000028917 DILLARD'S, INC.
+2026-08-09 19:05:21,521 INFO Copied existing CompanyFacts cache for CIK0000028917
+2026-08-09 19:05:21,521 INFO SKIP CIK0000028917 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:21,594 INFO CIK0000028917 extracted rows=46 audit_facts=555
+2026-08-09 19:05:21,594 INFO [6/127] Processing CIK0000029534 DOLLAR GENERAL CORP
+2026-08-09 19:05:21,598 INFO Copied existing CompanyFacts cache for CIK0000029534
+2026-08-09 19:05:21,598 INFO SKIP CIK0000029534 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:21,653 INFO CIK0000029534 extracted rows=46 audit_facts=623
+2026-08-09 19:05:21,654 INFO [7/127] Processing CIK0000039911 GAP INC
+2026-08-09 19:05:21,654 INFO SKIP CIK0000039911 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:21,710 INFO CIK0000039911 extracted rows=46 audit_facts=580
+2026-08-09 19:05:21,710 INFO [8/127] Processing CIK0000041091 GEORGIA POWER CO
+2026-08-09 19:05:21,711 INFO Copied existing CompanyFacts cache for CIK0000041091
+2026-08-09 19:05:21,711 INFO SKIP CIK0000041091 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:21,711 INFO CIK0000041091 extracted rows=0 audit_facts=0
+2026-08-09 19:05:21,711 INFO [9/127] Processing CIK0000042582 GOODYEAR TIRE & RUBBER CO /OH/
+2026-08-09 19:05:21,715 INFO Copied existing CompanyFacts cache for CIK0000042582
+2026-08-09 19:05:21,715 INFO SKIP CIK0000042582 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:21,773 INFO CIK0000042582 extracted rows=46 audit_facts=765
+2026-08-09 19:05:21,773 INFO [10/127] Processing CIK0000047217 HP INC
+2026-08-09 19:05:21,777 INFO Copied existing CompanyFacts cache for CIK0000047217
+2026-08-09 19:05:21,777 INFO SKIP CIK0000047217 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:21,844 INFO CIK0000047217 extracted rows=46 audit_facts=688
+2026-08-09 19:05:21,844 INFO [11/127] Processing CIK0000060667 LOWES COMPANIES INC
+2026-08-09 19:05:21,848 INFO Copied existing CompanyFacts cache for CIK0000060667
+2026-08-09 19:05:21,848 INFO SKIP CIK0000060667 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:21,906 INFO CIK0000060667 extracted rows=46 audit_facts=706
+2026-08-09 19:05:21,906 INFO [12/127] Processing CIK0000086312 TRAVELERS COMPANIES, INC.
+2026-08-09 19:05:21,913 INFO Copied existing CompanyFacts cache for CIK0000086312
+2026-08-09 19:05:21,913 INFO SKIP CIK0000086312 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:21,957 INFO CIK0000086312 extracted rows=46 audit_facts=341
+2026-08-09 19:05:21,959 INFO [13/127] Processing CIK0000103379 V F CORP
+2026-08-09 19:05:21,973 INFO Copied existing CompanyFacts cache for CIK0000103379
+2026-08-09 19:05:21,974 INFO SKIP CIK0000103379 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,050 INFO CIK0000103379 extracted rows=45 audit_facts=704
+2026-08-09 19:05:22,050 INFO [14/127] Processing CIK0000104169 Walmart Inc.
+2026-08-09 19:05:22,054 INFO Copied existing CompanyFacts cache for CIK0000104169
+2026-08-09 19:05:22,054 INFO SKIP CIK0000104169 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,115 INFO CIK0000104169 extracted rows=46 audit_facts=710
+2026-08-09 19:05:22,116 INFO [15/127] Processing CIK0000106640 WHIRLPOOL CORP /DE/
+2026-08-09 19:05:22,119 INFO Copied existing CompanyFacts cache for CIK0000106640
+2026-08-09 19:05:22,119 INFO SKIP CIK0000106640 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,178 INFO CIK0000106640 extracted rows=46 audit_facts=756
+2026-08-09 19:05:22,178 INFO [16/127] Processing CIK0000109177 Spectrum Brands Holdings, Inc.
+2026-08-09 19:05:22,182 INFO Copied existing CompanyFacts cache for CIK0000109177
+2026-08-09 19:05:22,182 INFO SKIP CIK0000109177 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,236 INFO CIK0000109177 extracted rows=46 audit_facts=727
+2026-08-09 19:05:22,236 INFO [17/127] Processing CIK0000110471 WOLVERINE WORLD WIDE INC /DE/
+2026-08-09 19:05:22,242 INFO Copied existing CompanyFacts cache for CIK0000110471
+2026-08-09 19:05:22,242 INFO SKIP CIK0000110471 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,303 INFO CIK0000110471 extracted rows=45 audit_facts=720
+2026-08-09 19:05:22,303 INFO [18/127] Processing CIK0000313838 Sony Group Corp
+2026-08-09 19:05:22,306 INFO Copied existing CompanyFacts cache for CIK0000313838
+2026-08-09 19:05:22,306 INFO SKIP CIK0000313838 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,323 INFO CIK0000313838 extracted rows=11 audit_facts=81
+2026-08-09 19:05:22,324 INFO [19/127] Processing CIK0000320187 NIKE, Inc.
+2026-08-09 19:05:22,328 INFO Copied existing CompanyFacts cache for CIK0000320187
+2026-08-09 19:05:22,328 INFO SKIP CIK0000320187 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,374 INFO CIK0000320187 extracted rows=46 audit_facts=664
+2026-08-09 19:05:22,375 INFO [20/127] Processing CIK0000320193 Apple Inc.
+2026-08-09 19:05:22,375 INFO SKIP CIK0000320193 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,432 INFO CIK0000320193 extracted rows=46 audit_facts=805
+2026-08-09 19:05:22,432 INFO [21/127] Processing CIK0000354950 HOME DEPOT, INC.
+2026-08-09 19:05:22,435 INFO Copied existing CompanyFacts cache for CIK0000354950
+2026-08-09 19:05:22,435 INFO SKIP CIK0000354950 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,486 INFO CIK0000354950 extracted rows=46 audit_facts=718
+2026-08-09 19:05:22,486 INFO [22/127] Processing CIK0000701985 Bath & Body Works, Inc.
+2026-08-09 19:05:22,490 INFO Copied existing CompanyFacts cache for CIK0000701985
+2026-08-09 19:05:22,490 INFO SKIP CIK0000701985 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,549 INFO CIK0000701985 extracted rows=45 audit_facts=720
+2026-08-09 19:05:22,550 INFO [23/127] Processing CIK0000719955 WILLIAMS SONOMA INC
+2026-08-09 19:05:22,552 INFO Copied existing CompanyFacts cache for CIK0000719955
+2026-08-09 19:05:22,552 INFO SKIP CIK0000719955 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,599 INFO CIK0000719955 extracted rows=42 audit_facts=612
+2026-08-09 19:05:22,599 INFO [24/127] Processing CIK0000732717 AT&T INC.
+2026-08-09 19:05:22,605 INFO Copied existing CompanyFacts cache for CIK0000732717
+2026-08-09 19:05:22,605 INFO SKIP CIK0000732717 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,657 INFO CIK0000732717 extracted rows=45 audit_facts=548
+2026-08-09 19:05:22,658 INFO [25/127] Processing CIK0000764478 BEST BUY CO INC
+2026-08-09 19:05:22,661 INFO Copied existing CompanyFacts cache for CIK0000764478
+2026-08-09 19:05:22,661 INFO SKIP CIK0000764478 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,719 INFO CIK0000764478 extracted rows=42 audit_facts=621
+2026-08-09 19:05:22,720 INFO [26/127] Processing CIK0000769397 Autodesk, Inc.
+2026-08-09 19:05:22,732 INFO Copied existing CompanyFacts cache for CIK0000769397
+2026-08-09 19:05:22,732 INFO SKIP CIK0000769397 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,786 INFO CIK0000769397 extracted rows=46 audit_facts=651
+2026-08-09 19:05:22,786 INFO [27/127] Processing CIK0000789019 MICROSOFT CORP
+2026-08-09 19:05:22,790 INFO Copied existing CompanyFacts cache for CIK0000789019
+2026-08-09 19:05:22,790 INFO SKIP CIK0000789019 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,855 INFO CIK0000789019 extracted rows=46 audit_facts=756
+2026-08-09 19:05:22,855 INFO [28/127] Processing CIK0000793952 HARLEY-DAVIDSON, INC.
+2026-08-09 19:05:22,858 INFO Copied existing CompanyFacts cache for CIK0000793952
+2026-08-09 19:05:22,858 INFO SKIP CIK0000793952 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:22,946 INFO CIK0000793952 extracted rows=46 audit_facts=754
+2026-08-09 19:05:22,946 INFO [29/127] Processing CIK0000794367 Macy's, Inc.
+2026-08-09 19:05:22,954 INFO Copied existing CompanyFacts cache for CIK0000794367
+2026-08-09 19:05:22,954 INFO SKIP CIK0000794367 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,012 INFO CIK0000794367 extracted rows=46 audit_facts=697
+2026-08-09 19:05:23,014 INFO [30/127] Processing CIK0000799288 LANDS' END, INC.
+2026-08-09 19:05:23,047 INFO Copied existing CompanyFacts cache for CIK0000799288
+2026-08-09 19:05:23,047 INFO SKIP CIK0000799288 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,090 INFO CIK0000799288 extracted rows=45 audit_facts=770
+2026-08-09 19:05:23,091 INFO [31/127] Processing CIK0000814453 NEWELL BRANDS INC.
+2026-08-09 19:05:23,094 INFO Copied existing CompanyFacts cache for CIK0000814453
+2026-08-09 19:05:23,094 INFO SKIP CIK0000814453 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,148 INFO CIK0000814453 extracted rows=46 audit_facts=718
+2026-08-09 19:05:23,148 INFO [32/127] Processing CIK0000823768 WASTE MANAGEMENT INC
+2026-08-09 19:05:23,151 INFO Copied existing CompanyFacts cache for CIK0000823768
+2026-08-09 19:05:23,151 INFO SKIP CIK0000823768 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,201 INFO CIK0000823768 extracted rows=46 audit_facts=660
+2026-08-09 19:05:23,201 INFO [33/127] Processing CIK0000866729 SCHOLASTIC CORP
+2026-08-09 19:05:23,205 INFO Copied existing CompanyFacts cache for CIK0000866729
+2026-08-09 19:05:23,205 INFO SKIP CIK0000866729 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,256 INFO CIK0000866729 extracted rows=46 audit_facts=671
+2026-08-09 19:05:23,256 INFO [34/127] Processing CIK0000866787 AUTOZONE INC
+2026-08-09 19:05:23,262 INFO Copied existing CompanyFacts cache for CIK0000866787
+2026-08-09 19:05:23,262 INFO SKIP CIK0000866787 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,315 INFO CIK0000866787 extracted rows=46 audit_facts=676
+2026-08-09 19:05:23,316 INFO [35/127] Processing CIK0000883569 Fossil Group, Inc.
+2026-08-09 19:05:23,319 INFO Copied existing CompanyFacts cache for CIK0000883569
+2026-08-09 19:05:23,319 INFO SKIP CIK0000883569 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,370 INFO CIK0000883569 extracted rows=46 audit_facts=682
+2026-08-09 19:05:23,370 INFO [36/127] Processing CIK0000884887 ROYAL CARIBBEAN CRUISES LTD
+2026-08-09 19:05:23,373 INFO Copied existing CompanyFacts cache for CIK0000884887
+2026-08-09 19:05:23,374 INFO SKIP CIK0000884887 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,423 INFO CIK0000884887 extracted rows=45 audit_facts=684
+2026-08-09 19:05:23,424 INFO [37/127] Processing CIK0000885245 BUCKLE INC
+2026-08-09 19:05:23,431 INFO Copied existing CompanyFacts cache for CIK0000885245
+2026-08-09 19:05:23,431 INFO SKIP CIK0000885245 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,478 INFO CIK0000885245 extracted rows=46 audit_facts=669
+2026-08-09 19:05:23,478 INFO [38/127] Processing CIK0000885639 KOHLS Corp
+2026-08-09 19:05:23,488 INFO Copied existing CompanyFacts cache for CIK0000885639
+2026-08-09 19:05:23,488 INFO SKIP CIK0000885639 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,538 INFO CIK0000885639 extracted rows=46 audit_facts=637
+2026-08-09 19:05:23,539 INFO [39/127] Processing CIK0000899051 ALLSTATE CORP
+2026-08-09 19:05:23,544 INFO Copied existing CompanyFacts cache for CIK0000899051
+2026-08-09 19:05:23,544 INFO SKIP CIK0000899051 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,609 INFO CIK0000899051 extracted rows=46 audit_facts=392
+2026-08-09 19:05:23,609 INFO [40/127] Processing CIK0000908937 SIRIUS XM HOLDINGS INC.
+2026-08-09 19:05:23,614 INFO Copied existing CompanyFacts cache for CIK0000908937
+2026-08-09 19:05:23,614 INFO SKIP CIK0000908937 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,668 INFO CIK0000908937 extracted rows=46 audit_facts=659
+2026-08-09 19:05:23,668 INFO [41/127] Processing CIK0000909832 COSTCO WHOLESALE CORP /NEW
+2026-08-09 19:05:23,671 INFO Copied existing CompanyFacts cache for CIK0000909832
+2026-08-09 19:05:23,671 INFO SKIP CIK0000909832 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,733 INFO CIK0000909832 extracted rows=46 audit_facts=759
+2026-08-09 19:05:23,733 INFO [42/127] Processing CIK0000910521 DECKERS OUTDOOR CORP
+2026-08-09 19:05:23,743 INFO Copied existing CompanyFacts cache for CIK0000910521
+2026-08-09 19:05:23,743 INFO SKIP CIK0000910521 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,794 INFO CIK0000910521 extracted rows=46 audit_facts=698
+2026-08-09 19:05:23,795 INFO [43/127] Processing CIK0000912615 URBAN OUTFITTERS INC
+2026-08-09 19:05:23,797 INFO Copied existing CompanyFacts cache for CIK0000912615
+2026-08-09 19:05:23,797 INFO SKIP CIK0000912615 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,844 INFO CIK0000912615 extracted rows=42 audit_facts=676
+2026-08-09 19:05:23,844 INFO [44/127] Processing CIK0000916365 TRACTOR SUPPLY CO /DE/
+2026-08-09 19:05:23,847 INFO Copied existing CompanyFacts cache for CIK0000916365
+2026-08-09 19:05:23,847 INFO SKIP CIK0000916365 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:23,898 INFO CIK0000916365 extracted rows=46 audit_facts=736
+2026-08-09 19:05:23,899 INFO [45/127] Processing CIK0000919012 AMERICAN EAGLE OUTFITTERS INC
+2026-08-09 19:05:23,906 INFO Copied existing CompanyFacts cache for CIK0000919012
+2026-08-09 19:05:23,907 INFO SKIP CIK0000919012 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,000 INFO CIK0000919012 extracted rows=45 audit_facts=701
+2026-08-09 19:05:24,000 INFO [46/127] Processing CIK0001001250 ESTEE LAUDER COMPANIES INC
+2026-08-09 19:05:24,003 INFO Copied existing CompanyFacts cache for CIK0001001250
+2026-08-09 19:05:24,003 INFO SKIP CIK0001001250 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,060 INFO CIK0001001250 extracted rows=45 audit_facts=631
+2026-08-09 19:05:24,060 INFO [47/127] Processing CIK0001018724 AMAZON COM INC
+2026-08-09 19:05:24,064 INFO Copied existing CompanyFacts cache for CIK0001018724
+2026-08-09 19:05:24,064 INFO SKIP CIK0001018724 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,127 INFO CIK0001018724 extracted rows=46 audit_facts=675
+2026-08-09 19:05:24,128 INFO [48/127] Processing CIK0001018840 ABERCROMBIE & FITCH CO /DE/
+2026-08-09 19:05:24,131 INFO Copied existing CompanyFacts cache for CIK0001018840
+2026-08-09 19:05:24,131 INFO SKIP CIK0001018840 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,186 INFO CIK0001018840 extracted rows=46 audit_facts=621
+2026-08-09 19:05:24,186 INFO [49/127] Processing CIK0001032975 LOGITECH INTERNATIONAL S.A.
+2026-08-09 19:05:24,194 INFO Copied existing CompanyFacts cache for CIK0001032975
+2026-08-09 19:05:24,194 INFO SKIP CIK0001032975 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,244 INFO CIK0001032975 extracted rows=46 audit_facts=642
+2026-08-09 19:05:24,244 INFO [50/127] Processing CIK0001037038 RALPH LAUREN CORP
+2026-08-09 19:05:24,248 INFO Copied existing CompanyFacts cache for CIK0001037038
+2026-08-09 19:05:24,248 INFO SKIP CIK0001037038 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,310 INFO CIK0001037038 extracted rows=46 audit_facts=750
+2026-08-09 19:05:24,311 INFO [51/127] Processing CIK0001041859 Childrens Place, Inc.
+2026-08-09 19:05:24,314 INFO Copied existing CompanyFacts cache for CIK0001041859
+2026-08-09 19:05:24,314 INFO SKIP CIK0001041859 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,365 INFO CIK0001041859 extracted rows=45 audit_facts=634
+2026-08-09 19:05:24,365 INFO [52/127] Processing CIK0001045810 NVIDIA CORP
+2026-08-09 19:05:24,368 INFO Copied existing CompanyFacts cache for CIK0001045810
+2026-08-09 19:05:24,368 INFO SKIP CIK0001045810 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,426 INFO CIK0001045810 extracted rows=44 audit_facts=716
+2026-08-09 19:05:24,427 INFO [53/127] Processing CIK0001048286 MARRIOTT INTERNATIONAL INC /MD/
+2026-08-09 19:05:24,430 INFO Copied existing CompanyFacts cache for CIK0001048286
+2026-08-09 19:05:24,430 INFO SKIP CIK0001048286 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,477 INFO CIK0001048286 extracted rows=46 audit_facts=499
+2026-08-09 19:05:24,477 INFO [54/127] Processing CIK0001050797 COLUMBIA SPORTSWEAR CO
+2026-08-09 19:05:24,480 INFO Copied existing CompanyFacts cache for CIK0001050797
+2026-08-09 19:05:24,480 INFO SKIP CIK0001050797 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,554 INFO CIK0001050797 extracted rows=46 audit_facts=722
+2026-08-09 19:05:24,554 INFO [55/127] Processing CIK0001060822 CARTERS INC
+2026-08-09 19:05:24,561 INFO Copied existing CompanyFacts cache for CIK0001060822
+2026-08-09 19:05:24,561 INFO SKIP CIK0001060822 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,623 INFO CIK0001060822 extracted rows=47 audit_facts=700
+2026-08-09 19:05:24,623 INFO [56/127] Processing CIK0001065088 EBAY INC
+2026-08-09 19:05:24,627 INFO Copied existing CompanyFacts cache for CIK0001065088
+2026-08-09 19:05:24,627 INFO SKIP CIK0001065088 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,688 INFO CIK0001065088 extracted rows=46 audit_facts=692
+2026-08-09 19:05:24,688 INFO [57/127] Processing CIK0001075531 Booking Holdings Inc.
+2026-08-09 19:05:24,691 INFO Copied existing CompanyFacts cache for CIK0001075531
+2026-08-09 19:05:24,691 INFO SKIP CIK0001075531 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,741 INFO CIK0001075531 extracted rows=46 audit_facts=579
+2026-08-09 19:05:24,741 INFO [58/127] Processing CIK0001084869 1 800 FLOWERS COM INC
+2026-08-09 19:05:24,744 INFO Copied existing CompanyFacts cache for CIK0001084869
+2026-08-09 19:05:24,744 INFO SKIP CIK0001084869 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,786 INFO CIK0001084869 extracted rows=42 audit_facts=631
+2026-08-09 19:05:24,786 INFO [59/127] Processing CIK0001089063 DICK'S SPORTING GOODS, INC.
+2026-08-09 19:05:24,789 INFO Copied existing CompanyFacts cache for CIK0001089063
+2026-08-09 19:05:24,789 INFO SKIP CIK0001089063 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,839 INFO CIK0001089063 extracted rows=46 audit_facts=625
+2026-08-09 19:05:24,839 INFO [60/127] Processing CIK0001113809 BUILD-A-BEAR WORKSHOP INC
+2026-08-09 19:05:24,845 INFO Copied existing CompanyFacts cache for CIK0001113809
+2026-08-09 19:05:24,845 INFO SKIP CIK0001113809 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,885 INFO CIK0001113809 extracted rows=43 audit_facts=546
+2026-08-09 19:05:24,886 INFO [61/127] Processing CIK0001116132 TAPESTRY, INC.
+2026-08-09 19:05:24,889 INFO Copied existing CompanyFacts cache for CIK0001116132
+2026-08-09 19:05:24,890 INFO SKIP CIK0001116132 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:24,950 INFO CIK0001116132 extracted rows=45 audit_facts=785
+2026-08-09 19:05:24,951 INFO [62/127] Processing CIK0001121788 GARMIN LTD
+2026-08-09 19:05:24,954 INFO Copied existing CompanyFacts cache for CIK0001121788
+2026-08-09 19:05:24,954 INFO SKIP CIK0001121788 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,010 INFO CIK0001121788 extracted rows=45 audit_facts=690
+2026-08-09 19:05:25,010 INFO [63/127] Processing CIK0001130713 BED BATH & BEYOND, INC.
+2026-08-09 19:05:25,014 INFO Copied existing CompanyFacts cache for CIK0001130713
+2026-08-09 19:05:25,014 INFO SKIP CIK0001130713 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,068 INFO CIK0001130713 extracted rows=46 audit_facts=714
+2026-08-09 19:05:25,069 INFO [64/127] Processing CIK0001132105 SPORTSMAN'S WAREHOUSE HOLDINGS, INC.
+2026-08-09 19:05:25,071 INFO Copied existing CompanyFacts cache for CIK0001132105
+2026-08-09 19:05:25,071 INFO SKIP CIK0001132105 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,107 INFO CIK0001132105 extracted rows=44 audit_facts=699
+2026-08-09 19:05:25,107 INFO [65/127] Processing CIK0001158449 ADVANCE AUTO PARTS INC
+2026-08-09 19:05:25,117 INFO Copied existing CompanyFacts cache for CIK0001158449
+2026-08-09 19:05:25,117 INFO SKIP CIK0001158449 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,174 INFO CIK0001158449 extracted rows=46 audit_facts=758
+2026-08-09 19:05:25,174 INFO [66/127] Processing CIK0001177609 FIVE BELOW, INC
+2026-08-09 19:05:25,177 INFO Copied existing CompanyFacts cache for CIK0001177609
+2026-08-09 19:05:25,177 INFO SKIP CIK0001177609 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,222 INFO CIK0001177609 extracted rows=45 audit_facts=692
+2026-08-09 19:05:25,222 INFO [67/127] Processing CIK0001254699 QVC INC
+2026-08-09 19:05:25,225 INFO Copied existing CompanyFacts cache for CIK0001254699
+2026-08-09 19:05:25,225 INFO SKIP CIK0001254699 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,261 INFO CIK0001254699 extracted rows=46 audit_facts=563
+2026-08-09 19:05:25,262 INFO [68/127] Processing CIK0001258602 NELNET INC
+2026-08-09 19:05:25,265 INFO Copied existing CompanyFacts cache for CIK0001258602
+2026-08-09 19:05:25,265 INFO SKIP CIK0001258602 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,303 INFO CIK0001258602 extracted rows=46 audit_facts=377
+2026-08-09 19:05:25,304 INFO [69/127] Processing CIK0001269238 Trip.com Group Ltd
+2026-08-09 19:05:25,305 INFO Copied existing CompanyFacts cache for CIK0001269238
+2026-08-09 19:05:25,306 INFO SKIP CIK0001269238 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,323 INFO CIK0001269238 extracted rows=11 audit_facts=81
+2026-08-09 19:05:25,324 INFO [70/127] Processing CIK0001314727 Sonos Inc
+2026-08-09 19:05:25,350 INFO Copied existing CompanyFacts cache for CIK0001314727
+2026-08-09 19:05:25,350 INFO SKIP CIK0001314727 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,379 INFO CIK0001314727 extracted rows=33 audit_facts=513
+2026-08-09 19:05:25,381 INFO [71/127] Processing CIK0001315098 Roblox Corp
+2026-08-09 19:05:25,385 INFO Copied existing CompanyFacts cache for CIK0001315098
+2026-08-09 19:05:25,385 INFO SKIP CIK0001315098 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,403 INFO CIK0001315098 extracted rows=22 audit_facts=324
+2026-08-09 19:05:25,403 INFO [72/127] Processing CIK0001318008 Zumiez Inc
+2026-08-09 19:05:25,412 INFO Copied existing CompanyFacts cache for CIK0001318008
+2026-08-09 19:05:25,412 INFO SKIP CIK0001318008 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,460 INFO CIK0001318008 extracted rows=46 audit_facts=717
+2026-08-09 19:05:25,460 INFO [73/127] Processing CIK0001324424 Expedia Group, Inc.
+2026-08-09 19:05:25,463 INFO Copied existing CompanyFacts cache for CIK0001324424
+2026-08-09 19:05:25,463 INFO SKIP CIK0001324424 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,512 INFO CIK0001324424 extracted rows=46 audit_facts=594
+2026-08-09 19:05:25,512 INFO [74/127] Processing CIK0001326380 GameStop Corp.
+2026-08-09 19:05:25,515 INFO Copied existing CompanyFacts cache for CIK0001326380
+2026-08-09 19:05:25,515 INFO SKIP CIK0001326380 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,578 INFO CIK0001326380 extracted rows=46 audit_facts=737
+2026-08-09 19:05:25,578 INFO [75/127] Processing CIK0001334036 Crocs, Inc.
+2026-08-09 19:05:25,581 INFO Copied existing CompanyFacts cache for CIK0001334036
+2026-08-09 19:05:25,581 INFO SKIP CIK0001334036 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,639 INFO CIK0001334036 extracted rows=46 audit_facts=787
+2026-08-09 19:05:25,640 INFO [76/127] Processing CIK0001336917 Under Armour, Inc.
+2026-08-09 19:05:25,642 INFO Copied existing CompanyFacts cache for CIK0001336917
+2026-08-09 19:05:25,642 INFO SKIP CIK0001336917 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,700 INFO CIK0001336917 extracted rows=44 audit_facts=749
+2026-08-09 19:05:25,701 INFO [77/127] Processing CIK0001337634 StubHub Holdings, Inc.
+2026-08-09 19:05:25,702 INFO Copied existing CompanyFacts cache for CIK0001337634
+2026-08-09 19:05:25,702 INFO SKIP CIK0001337634 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,705 INFO CIK0001337634 extracted rows=3 audit_facts=38
+2026-08-09 19:05:25,705 INFO [78/127] Processing CIK0001368458 Sally Beauty Holdings, Inc.
+2026-08-09 19:05:25,708 INFO Copied existing CompanyFacts cache for CIK0001368458
+2026-08-09 19:05:25,708 INFO SKIP CIK0001368458 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,760 INFO CIK0001368458 extracted rows=46 audit_facts=783
+2026-08-09 19:05:25,760 INFO [79/127] Processing CIK0001370637 ETSY INC
+2026-08-09 19:05:25,763 INFO Copied existing CompanyFacts cache for CIK0001370637
+2026-08-09 19:05:25,763 INFO SKIP CIK0001370637 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,799 INFO CIK0001370637 extracted rows=46 audit_facts=690
+2026-08-09 19:05:25,799 INFO [80/127] Processing CIK0001378950 CarParts.com, Inc.
+2026-08-09 19:05:25,802 INFO Copied existing CompanyFacts cache for CIK0001378950
+2026-08-09 19:05:25,802 INFO SKIP CIK0001378950 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,848 INFO CIK0001378950 extracted rows=47 audit_facts=664
+2026-08-09 19:05:25,848 INFO [81/127] Processing CIK0001397187 lululemon athletica inc.
+2026-08-09 19:05:25,851 INFO Copied existing CompanyFacts cache for CIK0001397187
+2026-08-09 19:05:25,851 INFO SKIP CIK0001397187 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,903 INFO CIK0001397187 extracted rows=46 audit_facts=652
+2026-08-09 19:05:25,905 INFO [82/127] Processing CIK0001403568 Ulta Beauty, Inc.
+2026-08-09 19:05:25,908 INFO Copied existing CompanyFacts cache for CIK0001403568
+2026-08-09 19:05:25,908 INFO SKIP CIK0001403568 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,958 INFO CIK0001403568 extracted rows=45 audit_facts=658
+2026-08-09 19:05:25,958 INFO [83/127] Processing CIK0001428439 ROKU, INC
+2026-08-09 19:05:25,961 INFO Copied existing CompanyFacts cache for CIK0001428439
+2026-08-09 19:05:25,961 INFO SKIP CIK0001428439 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:25,991 INFO CIK0001428439 extracted rows=36 audit_facts=554
+2026-08-09 19:05:25,991 INFO [84/127] Processing CIK0001433195 APPFOLIO INC
+2026-08-09 19:05:25,994 INFO Copied existing CompanyFacts cache for CIK0001433195
+2026-08-09 19:05:25,994 INFO SKIP CIK0001433195 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,026 INFO CIK0001433195 extracted rows=45 audit_facts=604
+2026-08-09 19:05:26,026 INFO [85/127] Processing CIK0001484778 ThredUp Inc.
+2026-08-09 19:05:26,027 INFO Copied existing CompanyFacts cache for CIK0001484778
+2026-08-09 19:05:26,027 INFO SKIP CIK0001484778 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,044 INFO CIK0001484778 extracted rows=22 audit_facts=380
+2026-08-09 19:05:26,045 INFO [86/127] Processing CIK0001490281 Groupon, Inc.
+2026-08-09 19:05:26,048 INFO Copied existing CompanyFacts cache for CIK0001490281
+2026-08-09 19:05:26,048 INFO SKIP CIK0001490281 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,110 INFO CIK0001490281 extracted rows=46 audit_facts=703
+2026-08-09 19:05:26,111 INFO [87/127] Processing CIK0001493761 Turtle Beach Corp
+2026-08-09 19:05:26,113 INFO Copied existing CompanyFacts cache for CIK0001493761
+2026-08-09 19:05:26,113 INFO SKIP CIK0001493761 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,164 INFO CIK0001493761 extracted rows=46 audit_facts=738
+2026-08-09 19:05:26,164 INFO [88/127] Processing CIK0001495320 Vera Bradley, Inc.
+2026-08-09 19:05:26,167 INFO Copied existing CompanyFacts cache for CIK0001495320
+2026-08-09 19:05:26,167 INFO SKIP CIK0001495320 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,217 INFO CIK0001495320 extracted rows=46 audit_facts=759
+2026-08-09 19:05:26,217 INFO [89/127] Processing CIK0001500435 GoPro, Inc.
+2026-08-09 19:05:26,225 INFO Copied existing CompanyFacts cache for CIK0001500435
+2026-08-09 19:05:26,226 INFO SKIP CIK0001500435 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,306 INFO CIK0001500435 extracted rows=45 audit_facts=718
+2026-08-09 19:05:26,307 INFO [90/127] Processing CIK0001504776 Warby Parker Inc.
+2026-08-09 19:05:26,309 INFO Copied existing CompanyFacts cache for CIK0001504776
+2026-08-09 19:05:26,309 INFO SKIP CIK0001504776 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,352 INFO CIK0001504776 extracted rows=20 audit_facts=322
+2026-08-09 19:05:26,353 INFO [91/127] Processing CIK0001523836 LightInTheBox Holding Co., Ltd.
+2026-08-09 19:05:26,355 INFO Copied existing CompanyFacts cache for CIK0001523836
+2026-08-09 19:05:26,355 INFO SKIP CIK0001523836 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,380 INFO CIK0001523836 extracted rows=11 audit_facts=88
+2026-08-09 19:05:26,380 INFO [92/127] Processing CIK0001524025 TILLY'S, INC.
+2026-08-09 19:05:26,385 INFO Copied existing CompanyFacts cache for CIK0001524025
+2026-08-09 19:05:26,385 INFO SKIP CIK0001524025 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,486 INFO CIK0001524025 extracted rows=46 audit_facts=670
+2026-08-09 19:05:26,486 INFO [93/127] Processing CIK0001526520 TripAdvisor, Inc.
+2026-08-09 19:05:26,490 INFO Copied existing CompanyFacts cache for CIK0001526520
+2026-08-09 19:05:26,490 INFO SKIP CIK0001526520 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,548 INFO CIK0001526520 extracted rows=46 audit_facts=594
+2026-08-09 19:05:26,549 INFO [94/127] Processing CIK0001531152 BJ's Wholesale Club Holdings, Inc.
+2026-08-09 19:05:26,552 INFO Copied existing CompanyFacts cache for CIK0001531152
+2026-08-09 19:05:26,552 INFO SKIP CIK0001531152 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,592 INFO CIK0001531152 extracted rows=32 audit_facts=522
+2026-08-09 19:05:26,592 INFO [95/127] Processing CIK0001559720 Airbnb, Inc.
+2026-08-09 19:05:26,594 INFO Copied existing CompanyFacts cache for CIK0001559720
+2026-08-09 19:05:26,594 INFO SKIP CIK0001559720 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,614 INFO CIK0001559720 extracted rows=22 audit_facts=282
+2026-08-09 19:05:26,615 INFO [96/127] Processing CIK0001560968 Samsonite International SA/ADR
+2026-08-09 19:05:26,615 INFO SKIP CIK0001560968 companyfacts: SEC_USER_AGENT missing
+2026-08-09 19:05:26,615 INFO SKIP CIK0001560968 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,615 INFO CompanyFacts unavailable for CIK0001560968: sec_user_agent_missing
+2026-08-09 19:05:26,615 INFO [97/127] Processing CIK0001576942 Stitch Fix, Inc.
+2026-08-09 19:05:26,619 INFO Copied existing CompanyFacts cache for CIK0001576942
+2026-08-09 19:05:26,619 INFO SKIP CIK0001576942 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,672 INFO CIK0001576942 extracted rows=35 audit_facts=539
+2026-08-09 19:05:26,673 INFO [98/127] Processing CIK0001577552 Alibaba Group Holding Ltd
+2026-08-09 19:05:26,675 INFO Copied existing CompanyFacts cache for CIK0001577552
+2026-08-09 19:05:26,676 INFO SKIP CIK0001577552 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,704 INFO CIK0001577552 extracted rows=13 audit_facts=91
+2026-08-09 19:05:26,705 INFO [99/127] Processing CIK0001579157 VINCE HOLDING CORP.
+2026-08-09 19:05:26,707 INFO Copied existing CompanyFacts cache for CIK0001579157
+2026-08-09 19:05:26,707 INFO SKIP CIK0001579157 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,772 INFO CIK0001579157 extracted rows=46 audit_facts=691
+2026-08-09 19:05:26,772 INFO [100/127] Processing CIK0001579298 Burlington Stores, Inc.
+2026-08-09 19:05:26,776 INFO Copied existing CompanyFacts cache for CIK0001579298
+2026-08-09 19:05:26,776 INFO SKIP CIK0001579298 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,849 INFO CIK0001579298 extracted rows=44 audit_facts=635
+2026-08-09 19:05:26,850 INFO [101/127] Processing CIK0001616707 Wayfair Inc.
+2026-08-09 19:05:26,853 INFO Copied existing CompanyFacts cache for CIK0001616707
+2026-08-09 19:05:26,853 INFO SKIP CIK0001616707 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,913 INFO CIK0001616707 extracted rows=46 audit_facts=702
+2026-08-09 19:05:26,913 INFO [102/127] Processing CIK0001651562 Coursera, Inc.
+2026-08-09 19:05:26,915 INFO Copied existing CompanyFacts cache for CIK0001651562
+2026-08-09 19:05:26,915 INFO SKIP CIK0001651562 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,946 INFO CIK0001651562 extracted rows=22 audit_facts=290
+2026-08-09 19:05:26,947 INFO [103/127] Processing CIK0001670076 Frontier Group Holdings, Inc.
+2026-08-09 19:05:26,953 INFO Copied existing CompanyFacts cache for CIK0001670076
+2026-08-09 19:05:26,953 INFO SKIP CIK0001670076 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:26,982 INFO CIK0001670076 extracted rows=21 audit_facts=263
+2026-08-09 19:05:26,983 INFO [104/127] Processing CIK0001670592 YETI Holdings, Inc.
+2026-08-09 19:05:26,986 INFO Copied existing CompanyFacts cache for CIK0001670592
+2026-08-09 19:05:26,986 INFO SKIP CIK0001670592 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,035 INFO CIK0001670592 extracted rows=30 audit_facts=474
+2026-08-09 19:05:27,036 INFO [105/127] Processing CIK0001687229 Invitation Homes Inc.
+2026-08-09 19:05:27,039 INFO Copied existing CompanyFacts cache for CIK0001687229
+2026-08-09 19:05:27,039 INFO SKIP CIK0001687229 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,068 INFO CIK0001687229 extracted rows=38 audit_facts=324
+2026-08-09 19:05:27,069 INFO [106/127] Processing CIK0001687932 J.Jill, Inc.
+2026-08-09 19:05:27,071 INFO Copied existing CompanyFacts cache for CIK0001687932
+2026-08-09 19:05:27,071 INFO SKIP CIK0001687932 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,164 INFO CIK0001687932 extracted rows=36 audit_facts=587
+2026-08-09 19:05:27,165 INFO [107/127] Processing CIK0001690511 Canada Goose Holdings Inc.
+2026-08-09 19:05:27,168 INFO Copied existing CompanyFacts cache for CIK0001690511
+2026-08-09 19:05:27,169 INFO SKIP CIK0001690511 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,188 INFO CIK0001690511 extracted rows=8 audit_facts=64
+2026-08-09 19:05:27,189 INFO [108/127] Processing CIK0001691421 Lemonade, Inc.
+2026-08-09 19:05:27,191 INFO Copied existing CompanyFacts cache for CIK0001691421
+2026-08-09 19:05:27,191 INFO SKIP CIK0001691421 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,225 INFO CIK0001691421 extracted rows=25 audit_facts=205
+2026-08-09 19:05:27,226 INFO [109/127] Processing CIK0001701758 Lovesac Co
+2026-08-09 19:05:27,228 INFO Copied existing CompanyFacts cache for CIK0001701758
+2026-08-09 19:05:27,229 INFO SKIP CIK0001701758 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,291 INFO CIK0001701758 extracted rows=32 audit_facts=453
+2026-08-09 19:05:27,291 INFO [110/127] Processing CIK0001704711 Funko, Inc.
+2026-08-09 19:05:27,294 INFO Copied existing CompanyFacts cache for CIK0001704711
+2026-08-09 19:05:27,294 INFO SKIP CIK0001704711 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,346 INFO CIK0001704711 extracted rows=36 audit_facts=556
+2026-08-09 19:05:27,346 INFO [111/127] Processing CIK0001746618 Revolve Group, Inc.
+2026-08-09 19:05:27,348 INFO Copied existing CompanyFacts cache for CIK0001746618
+2026-08-09 19:05:27,348 INFO SKIP CIK0001746618 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,380 INFO CIK0001746618 extracted rows=29 audit_facts=425
+2026-08-09 19:05:27,381 INFO [112/127] Processing CIK0001762301 Fiverr International Ltd.
+2026-08-09 19:05:27,382 INFO Copied existing CompanyFacts cache for CIK0001762301
+2026-08-09 19:05:27,382 INFO SKIP CIK0001762301 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,393 INFO CIK0001762301 extracted rows=8 audit_facts=50
+2026-08-09 19:05:27,393 INFO [113/127] Processing CIK0001766502 Chewy, Inc.
+2026-08-09 19:05:27,395 INFO Copied existing CompanyFacts cache for CIK0001766502
+2026-08-09 19:05:27,395 INFO SKIP CIK0001766502 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,427 INFO CIK0001766502 extracted rows=29 audit_facts=438
+2026-08-09 19:05:27,427 INFO [114/127] Processing CIK0001787117 Reformation Inc.
+2026-08-09 19:05:27,428 INFO Copied existing CompanyFacts cache for CIK0001787117
+2026-08-09 19:05:27,428 INFO SKIP CIK0001787117 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,428 INFO CIK0001787117 extracted rows=0 audit_facts=0
+2026-08-09 19:05:27,428 INFO [115/127] Processing CIK0001792781 Torrid Holdings Inc.
+2026-08-09 19:05:27,430 INFO Copied existing CompanyFacts cache for CIK0001792781
+2026-08-09 19:05:27,430 INFO SKIP CIK0001792781 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,460 INFO CIK0001792781 extracted rows=20 audit_facts=322
+2026-08-09 19:05:27,460 INFO [116/127] Processing CIK0001792789 DoorDash, Inc.
+2026-08-09 19:05:27,462 INFO Copied existing CompanyFacts cache for CIK0001792789
+2026-08-09 19:05:27,462 INFO SKIP CIK0001792789 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,492 INFO CIK0001792789 extracted rows=23 audit_facts=281
+2026-08-09 19:05:27,492 INFO [117/127] Processing CIK0001817358 Academy Sports & Outdoors, Inc.
+2026-08-09 19:05:27,495 INFO Copied existing CompanyFacts cache for CIK0001817358
+2026-08-09 19:05:27,495 INFO SKIP CIK0001817358 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,533 INFO CIK0001817358 extracted rows=23 audit_facts=390
+2026-08-09 19:05:27,533 INFO [118/127] Processing CIK0001828962 Cricut, Inc.
+2026-08-09 19:05:27,535 INFO Copied existing CompanyFacts cache for CIK0001828962
+2026-08-09 19:05:27,535 INFO SKIP CIK0001828962 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,563 INFO CIK0001828962 extracted rows=21 audit_facts=299
+2026-08-09 19:05:27,564 INFO [119/127] Processing CIK0001846576 FIGS, Inc.
+2026-08-09 19:05:27,566 INFO Copied existing CompanyFacts cache for CIK0001846576
+2026-08-09 19:05:27,566 INFO SKIP CIK0001846576 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,599 INFO CIK0001846576 extracted rows=21 audit_facts=315
+2026-08-09 19:05:27,600 INFO [120/127] Processing CIK0001856031 Vivid Seats Inc.
+2026-08-09 19:05:27,602 INFO Copied existing CompanyFacts cache for CIK0001856031
+2026-08-09 19:05:27,602 INFO SKIP CIK0001856031 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,620 INFO CIK0001856031 extracted rows=20 audit_facts=197
+2026-08-09 19:05:27,621 INFO [121/127] Processing CIK0001856437 Victoria's Secret & Co.
+2026-08-09 19:05:27,623 INFO Copied existing CompanyFacts cache for CIK0001856437
+2026-08-09 19:05:27,623 INFO SKIP CIK0001856437 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,660 INFO CIK0001856437 extracted rows=20 audit_facts=340
+2026-08-09 19:05:27,661 INFO [122/127] Processing CIK0001858985 On Holding AG
+2026-08-09 19:05:27,662 INFO Copied existing CompanyFacts cache for CIK0001858985
+2026-08-09 19:05:27,662 INFO SKIP CIK0001858985 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,674 INFO CIK0001858985 extracted rows=8 audit_facts=57
+2026-08-09 19:05:27,675 INFO [123/127] Processing CIK0001866757 Brilliant Earth Group, Inc.
+2026-08-09 19:05:27,677 INFO Copied existing CompanyFacts cache for CIK0001866757
+2026-08-09 19:05:27,677 INFO SKIP CIK0001866757 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,705 INFO CIK0001866757 extracted rows=20 audit_facts=311
+2026-08-09 19:05:27,705 INFO [124/127] Processing CIK0001875444 Arhaus, Inc.
+2026-08-09 19:05:27,707 INFO Copied existing CompanyFacts cache for CIK0001875444
+2026-08-09 19:05:27,707 INFO SKIP CIK0001875444 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,741 INFO CIK0001875444 extracted rows=20 audit_facts=314
+2026-08-09 19:05:27,741 INFO [125/127] Processing CIK0001957132 SharkNinja, Inc.
+2026-08-09 19:05:27,745 INFO Copied existing CompanyFacts cache for CIK0001957132
+2026-08-09 19:05:27,745 INFO SKIP CIK0001957132 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,752 INFO CIK0001957132 extracted rows=5 audit_facts=61
+2026-08-09 19:05:27,753 INFO [126/127] Processing CIK0001977102 Birkenstock Holding plc
+2026-08-09 19:05:27,755 INFO Copied existing CompanyFacts cache for CIK0001977102
+2026-08-09 19:05:27,756 INFO SKIP CIK0001977102 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,766 INFO CIK0001977102 extracted rows=10 audit_facts=140
+2026-08-09 19:05:27,767 INFO [127/127] Processing CIK0002085187 Bob's Discount Furniture, Inc.
+2026-08-09 19:05:27,768 INFO Copied existing CompanyFacts cache for CIK0002085187
+2026-08-09 19:05:27,768 INFO SKIP CIK0002085187 submissions: SEC_USER_AGENT missing
+2026-08-09 19:05:27,772 INFO CIK0002085187 extracted rows=2 audit_facts=36
+2026-08-09 19:05:27,801 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,801 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,801 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,801 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,801 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,801 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,802 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,803 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,804 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,805 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,806 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,807 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,807 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,807 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,807 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,807 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,807 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,807 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,807 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,807 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,807 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,808 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,809 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,810 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,811 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,812 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 19:05:27,813 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 19:05:27,813 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,813 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,814 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 19:05:27,814 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 19:05:27,814 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 19:05:27,814 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 19:05:27,814 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 19:05:27,814 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 19:05:27,814 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 19:05:27,814 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 19:05:27,814 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 19:05:27,814 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 19:05:27,814 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 19:05:27,815 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 19:05:27,815 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 19:05:27,815 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 19:05:27,815 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 19:05:27,815 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 19:05:27,815 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,815 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,816 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,817 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,818 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,819 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,820 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,821 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,822 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,823 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,824 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,825 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,826 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,827 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,828 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,829 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,830 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,831 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,832 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,833 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,834 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,835 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,836 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,837 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO WARNING missing_core_outcomes Core outcome variables missing.
+2026-08-09 19:05:27,838 INFO INFO panel_row_count Panel rows: 4675
+2026-08-09 19:05:28,208 INFO Wrote CSV/JSON outputs to /Users/augustliu/Desktop/Research_On_Merchant_Side_Effect_Of_BNPL/data/public_company_panel_data
+2026-08-09 19:08:15,404 INFO Loading public-company sample from /Users/augustliu/Desktop/Research_On_Merchant_Side_Effect_Of_BNPL/data/merchant_ownership/merchant_ownership_rows.json
+2026-08-09 19:08:15,443 WARNING SEC_USER_AGENT is not configured. No new SEC requests will be made; local cache only.
+2026-08-09 19:08:15,443 INFO [1/127] Processing CIK0000006201 American Airlines Group Inc.
+2026-08-09 19:08:15,488 INFO CIK0000006201 extracted rows=46 audit_facts=435
+2026-08-09 19:08:15,488 INFO [2/127] Processing CIK0000016988 CANON INC
+2026-08-09 19:08:15,503 INFO CIK0000016988 extracted rows=8 audit_facts=56
+2026-08-09 19:08:15,503 INFO [3/127] Processing CIK0000018255 CATO CORP
+2026-08-09 19:08:15,548 INFO CIK0000018255 extracted rows=46 audit_facts=658
+2026-08-09 19:08:15,548 INFO [4/127] Processing CIK0000027419 TARGET CORP
+2026-08-09 19:08:15,605 INFO CIK0000027419 extracted rows=45 audit_facts=562
+2026-08-09 19:08:15,605 INFO [5/127] Processing CIK0000028917 DILLARD'S, INC.
+2026-08-09 19:08:15,651 INFO CIK0000028917 extracted rows=46 audit_facts=555
+2026-08-09 19:08:15,651 INFO [6/127] Processing CIK0000029534 DOLLAR GENERAL CORP
+2026-08-09 19:08:15,694 INFO CIK0000029534 extracted rows=46 audit_facts=623
+2026-08-09 19:08:15,695 INFO [7/127] Processing CIK0000039911 GAP INC
+2026-08-09 19:08:15,752 INFO CIK0000039911 extracted rows=46 audit_facts=580
+2026-08-09 19:08:15,753 INFO [8/127] Processing CIK0000041091 GEORGIA POWER CO
+2026-08-09 19:08:15,753 INFO CIK0000041091 extracted rows=0 audit_facts=0
+2026-08-09 19:08:15,753 INFO [9/127] Processing CIK0000042582 GOODYEAR TIRE & RUBBER CO /OH/
+2026-08-09 19:08:15,812 INFO CIK0000042582 extracted rows=46 audit_facts=765
+2026-08-09 19:08:15,812 INFO [10/127] Processing CIK0000047217 HP INC
+2026-08-09 19:08:15,874 INFO CIK0000047217 extracted rows=46 audit_facts=688
+2026-08-09 19:08:15,874 INFO [11/127] Processing CIK0000060667 LOWES COMPANIES INC
+2026-08-09 19:08:15,931 INFO CIK0000060667 extracted rows=46 audit_facts=706
+2026-08-09 19:08:15,931 INFO [12/127] Processing CIK0000086312 TRAVELERS COMPANIES, INC.
+2026-08-09 19:08:15,974 INFO CIK0000086312 extracted rows=46 audit_facts=341
+2026-08-09 19:08:15,974 INFO [13/127] Processing CIK0000103379 V F CORP
+2026-08-09 19:08:16,045 INFO CIK0000103379 extracted rows=45 audit_facts=704
+2026-08-09 19:08:16,045 INFO [14/127] Processing CIK0000104169 Walmart Inc.
+2026-08-09 19:08:16,130 INFO CIK0000104169 extracted rows=46 audit_facts=710
+2026-08-09 19:08:16,130 INFO [15/127] Processing CIK0000106640 WHIRLPOOL CORP /DE/
+2026-08-09 19:08:16,204 INFO CIK0000106640 extracted rows=46 audit_facts=756
+2026-08-09 19:08:16,204 INFO [16/127] Processing CIK0000109177 Spectrum Brands Holdings, Inc.
+2026-08-09 19:08:16,268 INFO CIK0000109177 extracted rows=46 audit_facts=727
+2026-08-09 19:08:16,268 INFO [17/127] Processing CIK0000110471 WOLVERINE WORLD WIDE INC /DE/
+2026-08-09 19:08:16,337 INFO CIK0000110471 extracted rows=45 audit_facts=720
+2026-08-09 19:08:16,337 INFO [18/127] Processing CIK0000313838 Sony Group Corp
+2026-08-09 19:08:16,358 INFO CIK0000313838 extracted rows=11 audit_facts=81
+2026-08-09 19:08:16,358 INFO [19/127] Processing CIK0000320187 NIKE, Inc.
+2026-08-09 19:08:16,411 INFO CIK0000320187 extracted rows=46 audit_facts=664
+2026-08-09 19:08:16,412 INFO [20/127] Processing CIK0000320193 Apple Inc.
+2026-08-09 19:08:16,477 INFO CIK0000320193 extracted rows=46 audit_facts=805
+2026-08-09 19:08:16,478 INFO [21/127] Processing CIK0000354950 HOME DEPOT, INC.
+2026-08-09 19:08:16,568 INFO CIK0000354950 extracted rows=46 audit_facts=718
+2026-08-09 19:08:16,569 INFO [22/127] Processing CIK0000701985 Bath & Body Works, Inc.
+2026-08-09 19:08:16,719 INFO CIK0000701985 extracted rows=45 audit_facts=720
+2026-08-09 19:08:16,719 INFO [23/127] Processing CIK0000719955 WILLIAMS SONOMA INC
+2026-08-09 19:08:16,812 INFO CIK0000719955 extracted rows=42 audit_facts=612
+2026-08-09 19:08:16,813 INFO [24/127] Processing CIK0000732717 AT&T INC.
+2026-08-09 19:08:16,874 INFO CIK0000732717 extracted rows=45 audit_facts=548
+2026-08-09 19:08:16,874 INFO [25/127] Processing CIK0000764478 BEST BUY CO INC
+2026-08-09 19:08:16,940 INFO CIK0000764478 extracted rows=42 audit_facts=621
+2026-08-09 19:08:16,941 INFO [26/127] Processing CIK0000769397 Autodesk, Inc.
+2026-08-09 19:08:17,003 INFO CIK0000769397 extracted rows=46 audit_facts=651
+2026-08-09 19:08:17,004 INFO [27/127] Processing CIK0000789019 MICROSOFT CORP
+2026-08-09 19:08:17,077 INFO CIK0000789019 extracted rows=46 audit_facts=756
+2026-08-09 19:08:17,078 INFO [28/127] Processing CIK0000793952 HARLEY-DAVIDSON, INC.
+2026-08-09 19:08:17,151 INFO CIK0000793952 extracted rows=46 audit_facts=754
+2026-08-09 19:08:17,152 INFO [29/127] Processing CIK0000794367 Macy's, Inc.
+2026-08-09 19:08:17,232 INFO CIK0000794367 extracted rows=46 audit_facts=697
+2026-08-09 19:08:17,233 INFO [30/127] Processing CIK0000799288 LANDS' END, INC.
+2026-08-09 19:08:17,280 INFO CIK0000799288 extracted rows=45 audit_facts=770
+2026-08-09 19:08:17,280 INFO [31/127] Processing CIK0000814453 NEWELL BRANDS INC.
+2026-08-09 19:08:17,342 INFO CIK0000814453 extracted rows=46 audit_facts=718
+2026-08-09 19:08:17,342 INFO [32/127] Processing CIK0000823768 WASTE MANAGEMENT INC
+2026-08-09 19:08:17,398 INFO CIK0000823768 extracted rows=46 audit_facts=660
+2026-08-09 19:08:17,399 INFO [33/127] Processing CIK0000866729 SCHOLASTIC CORP
+2026-08-09 19:08:17,458 INFO CIK0000866729 extracted rows=46 audit_facts=671
+2026-08-09 19:08:17,458 INFO [34/127] Processing CIK0000866787 AUTOZONE INC
+2026-08-09 19:08:17,519 INFO CIK0000866787 extracted rows=46 audit_facts=676
+2026-08-09 19:08:17,520 INFO [35/127] Processing CIK0000883569 Fossil Group, Inc.
+2026-08-09 19:08:17,589 INFO CIK0000883569 extracted rows=46 audit_facts=682
+2026-08-09 19:08:17,589 INFO [36/127] Processing CIK0000884887 ROYAL CARIBBEAN CRUISES LTD
+2026-08-09 19:08:17,692 INFO CIK0000884887 extracted rows=45 audit_facts=684
+2026-08-09 19:08:17,692 INFO [37/127] Processing CIK0000885245 BUCKLE INC
+2026-08-09 19:08:17,770 INFO CIK0000885245 extracted rows=46 audit_facts=669
+2026-08-09 19:08:17,771 INFO [38/127] Processing CIK0000885639 KOHLS Corp
+2026-08-09 19:08:17,829 INFO CIK0000885639 extracted rows=46 audit_facts=637
+2026-08-09 19:08:17,829 INFO [39/127] Processing CIK0000899051 ALLSTATE CORP
+2026-08-09 19:08:17,886 INFO CIK0000899051 extracted rows=46 audit_facts=392
+2026-08-09 19:08:17,887 INFO [40/127] Processing CIK0000908937 SIRIUS XM HOLDINGS INC.
+2026-08-09 19:08:17,944 INFO CIK0000908937 extracted rows=46 audit_facts=659
+2026-08-09 19:08:17,944 INFO [41/127] Processing CIK0000909832 COSTCO WHOLESALE CORP /NEW
+2026-08-09 19:08:18,014 INFO CIK0000909832 extracted rows=46 audit_facts=759
+2026-08-09 19:08:18,014 INFO [42/127] Processing CIK0000910521 DECKERS OUTDOOR CORP
+2026-08-09 19:08:18,071 INFO CIK0000910521 extracted rows=46 audit_facts=698
+2026-08-09 19:08:18,072 INFO [43/127] Processing CIK0000912615 URBAN OUTFITTERS INC
+2026-08-09 19:08:18,125 INFO CIK0000912615 extracted rows=42 audit_facts=676
+2026-08-09 19:08:18,126 INFO [44/127] Processing CIK0000916365 TRACTOR SUPPLY CO /DE/
+2026-08-09 19:08:18,185 INFO CIK0000916365 extracted rows=46 audit_facts=736
+2026-08-09 19:08:18,185 INFO [45/127] Processing CIK0000919012 AMERICAN EAGLE OUTFITTERS INC
+2026-08-09 19:08:18,246 INFO CIK0000919012 extracted rows=45 audit_facts=701
+2026-08-09 19:08:18,246 INFO [46/127] Processing CIK0001001250 ESTEE LAUDER COMPANIES INC
+2026-08-09 19:08:18,306 INFO CIK0001001250 extracted rows=45 audit_facts=631
+2026-08-09 19:08:18,306 INFO [47/127] Processing CIK0001018724 AMAZON COM INC
+2026-08-09 19:08:18,374 INFO CIK0001018724 extracted rows=46 audit_facts=675
+2026-08-09 19:08:18,374 INFO [48/127] Processing CIK0001018840 ABERCROMBIE & FITCH CO /DE/
+2026-08-09 19:08:18,430 INFO CIK0001018840 extracted rows=46 audit_facts=621
+2026-08-09 19:08:18,431 INFO [49/127] Processing CIK0001032975 LOGITECH INTERNATIONAL S.A.
+2026-08-09 19:08:18,486 INFO CIK0001032975 extracted rows=46 audit_facts=642
+2026-08-09 19:08:18,489 INFO [50/127] Processing CIK0001037038 RALPH LAUREN CORP
+2026-08-09 19:08:18,552 INFO CIK0001037038 extracted rows=46 audit_facts=750
+2026-08-09 19:08:18,553 INFO [51/127] Processing CIK0001041859 Childrens Place, Inc.
+2026-08-09 19:08:18,629 INFO CIK0001041859 extracted rows=45 audit_facts=634
+2026-08-09 19:08:18,630 INFO [52/127] Processing CIK0001045810 NVIDIA CORP
+2026-08-09 19:08:18,753 INFO CIK0001045810 extracted rows=44 audit_facts=716
+2026-08-09 19:08:18,753 INFO [53/127] Processing CIK0001048286 MARRIOTT INTERNATIONAL INC /MD/
+2026-08-09 19:08:18,827 INFO CIK0001048286 extracted rows=46 audit_facts=499
+2026-08-09 19:08:18,827 INFO [54/127] Processing CIK0001050797 COLUMBIA SPORTSWEAR CO
+2026-08-09 19:08:18,890 INFO CIK0001050797 extracted rows=46 audit_facts=722
+2026-08-09 19:08:18,891 INFO [55/127] Processing CIK0001060822 CARTERS INC
+2026-08-09 19:08:18,965 INFO CIK0001060822 extracted rows=47 audit_facts=700
+2026-08-09 19:08:18,966 INFO [56/127] Processing CIK0001065088 EBAY INC
+2026-08-09 19:08:19,031 INFO CIK0001065088 extracted rows=46 audit_facts=692
+2026-08-09 19:08:19,032 INFO [57/127] Processing CIK0001075531 Booking Holdings Inc.
+2026-08-09 19:08:19,087 INFO CIK0001075531 extracted rows=46 audit_facts=579
+2026-08-09 19:08:19,087 INFO [58/127] Processing CIK0001084869 1 800 FLOWERS COM INC
+2026-08-09 19:08:19,133 INFO CIK0001084869 extracted rows=42 audit_facts=631
+2026-08-09 19:08:19,134 INFO [59/127] Processing CIK0001089063 DICK'S SPORTING GOODS, INC.
+2026-08-09 19:08:19,187 INFO CIK0001089063 extracted rows=46 audit_facts=625
+2026-08-09 19:08:19,188 INFO [60/127] Processing CIK0001113809 BUILD-A-BEAR WORKSHOP INC
+2026-08-09 19:08:19,232 INFO CIK0001113809 extracted rows=43 audit_facts=546
+2026-08-09 19:08:19,233 INFO [61/127] Processing CIK0001116132 TAPESTRY, INC.
+2026-08-09 19:08:19,302 INFO CIK0001116132 extracted rows=45 audit_facts=785
+2026-08-09 19:08:19,302 INFO [62/127] Processing CIK0001121788 GARMIN LTD
+2026-08-09 19:08:19,362 INFO CIK0001121788 extracted rows=45 audit_facts=690
+2026-08-09 19:08:19,362 INFO [63/127] Processing CIK0001130713 BED BATH & BEYOND, INC.
+2026-08-09 19:08:19,421 INFO CIK0001130713 extracted rows=46 audit_facts=714
+2026-08-09 19:08:19,421 INFO [64/127] Processing CIK0001132105 SPORTSMAN'S WAREHOUSE HOLDINGS, INC.
+2026-08-09 19:08:19,460 INFO CIK0001132105 extracted rows=44 audit_facts=699
+2026-08-09 19:08:19,461 INFO [65/127] Processing CIK0001158449 ADVANCE AUTO PARTS INC
+2026-08-09 19:08:19,523 INFO CIK0001158449 extracted rows=46 audit_facts=758
+2026-08-09 19:08:19,524 INFO [66/127] Processing CIK0001177609 FIVE BELOW, INC
+2026-08-09 19:08:19,574 INFO CIK0001177609 extracted rows=45 audit_facts=692
+2026-08-09 19:08:19,574 INFO [67/127] Processing CIK0001254699 QVC INC
+2026-08-09 19:08:19,618 INFO CIK0001254699 extracted rows=46 audit_facts=563
+2026-08-09 19:08:19,623 INFO [68/127] Processing CIK0001258602 NELNET INC
+2026-08-09 19:08:19,698 INFO CIK0001258602 extracted rows=46 audit_facts=377
+2026-08-09 19:08:19,698 INFO [69/127] Processing CIK0001269238 Trip.com Group Ltd
+2026-08-09 19:08:19,741 INFO CIK0001269238 extracted rows=11 audit_facts=81
+2026-08-09 19:08:19,742 INFO [70/127] Processing CIK0001314727 Sonos Inc
+2026-08-09 19:08:19,799 INFO CIK0001314727 extracted rows=33 audit_facts=513
+2026-08-09 19:08:19,799 INFO [71/127] Processing CIK0001315098 Roblox Corp
+2026-08-09 19:08:19,819 INFO CIK0001315098 extracted rows=22 audit_facts=324
+2026-08-09 19:08:19,820 INFO [72/127] Processing CIK0001318008 Zumiez Inc
+2026-08-09 19:08:19,871 INFO CIK0001318008 extracted rows=46 audit_facts=717
+2026-08-09 19:08:19,872 INFO [73/127] Processing CIK0001324424 Expedia Group, Inc.
+2026-08-09 19:08:19,924 INFO CIK0001324424 extracted rows=46 audit_facts=594
+2026-08-09 19:08:19,925 INFO [74/127] Processing CIK0001326380 GameStop Corp.
+2026-08-09 19:08:19,991 INFO CIK0001326380 extracted rows=46 audit_facts=737
+2026-08-09 19:08:19,992 INFO [75/127] Processing CIK0001334036 Crocs, Inc.
+2026-08-09 19:08:20,054 INFO CIK0001334036 extracted rows=46 audit_facts=787
+2026-08-09 19:08:20,054 INFO [76/127] Processing CIK0001336917 Under Armour, Inc.
+2026-08-09 19:08:20,120 INFO CIK0001336917 extracted rows=44 audit_facts=749
+2026-08-09 19:08:20,120 INFO [77/127] Processing CIK0001337634 StubHub Holdings, Inc.
+2026-08-09 19:08:20,123 INFO CIK0001337634 extracted rows=3 audit_facts=38
+2026-08-09 19:08:20,124 INFO [78/127] Processing CIK0001368458 Sally Beauty Holdings, Inc.
+2026-08-09 19:08:20,180 INFO CIK0001368458 extracted rows=46 audit_facts=783
+2026-08-09 19:08:20,181 INFO [79/127] Processing CIK0001370637 ETSY INC
+2026-08-09 19:08:20,222 INFO CIK0001370637 extracted rows=46 audit_facts=690
+2026-08-09 19:08:20,222 INFO [80/127] Processing CIK0001378950 CarParts.com, Inc.
+2026-08-09 19:08:20,274 INFO CIK0001378950 extracted rows=47 audit_facts=664
+2026-08-09 19:08:20,275 INFO [81/127] Processing CIK0001397187 lululemon athletica inc.
+2026-08-09 19:08:20,331 INFO CIK0001397187 extracted rows=46 audit_facts=652
+2026-08-09 19:08:20,331 INFO [82/127] Processing CIK0001403568 Ulta Beauty, Inc.
+2026-08-09 19:08:20,389 INFO CIK0001403568 extracted rows=45 audit_facts=658
+2026-08-09 19:08:20,389 INFO [83/127] Processing CIK0001428439 ROKU, INC
+2026-08-09 19:08:20,426 INFO CIK0001428439 extracted rows=36 audit_facts=554
+2026-08-09 19:08:20,426 INFO [84/127] Processing CIK0001433195 APPFOLIO INC
+2026-08-09 19:08:20,464 INFO CIK0001433195 extracted rows=45 audit_facts=604
+2026-08-09 19:08:20,464 INFO [85/127] Processing CIK0001484778 ThredUp Inc.
+2026-08-09 19:08:20,486 INFO CIK0001484778 extracted rows=22 audit_facts=380
+2026-08-09 19:08:20,486 INFO [86/127] Processing CIK0001490281 Groupon, Inc.
+2026-08-09 19:08:20,551 INFO CIK0001490281 extracted rows=46 audit_facts=703
+2026-08-09 19:08:20,552 INFO [87/127] Processing CIK0001493761 Turtle Beach Corp
+2026-08-09 19:08:20,615 INFO CIK0001493761 extracted rows=46 audit_facts=738
+2026-08-09 19:08:20,616 INFO [88/127] Processing CIK0001495320 Vera Bradley, Inc.
+2026-08-09 19:08:20,705 INFO CIK0001495320 extracted rows=46 audit_facts=759
+2026-08-09 19:08:20,705 INFO [89/127] Processing CIK0001500435 GoPro, Inc.
+2026-08-09 19:08:20,781 INFO CIK0001500435 extracted rows=45 audit_facts=718
+2026-08-09 19:08:20,782 INFO [90/127] Processing CIK0001504776 Warby Parker Inc.
+2026-08-09 19:08:20,811 INFO CIK0001504776 extracted rows=20 audit_facts=322
+2026-08-09 19:08:20,812 INFO [91/127] Processing CIK0001523836 LightInTheBox Holding Co., Ltd.
+2026-08-09 19:08:20,834 INFO CIK0001523836 extracted rows=11 audit_facts=88
+2026-08-09 19:08:20,835 INFO [92/127] Processing CIK0001524025 TILLY'S, INC.
+2026-08-09 19:08:20,899 INFO CIK0001524025 extracted rows=46 audit_facts=670
+2026-08-09 19:08:20,900 INFO [93/127] Processing CIK0001526520 TripAdvisor, Inc.
+2026-08-09 19:08:20,946 INFO CIK0001526520 extracted rows=46 audit_facts=594
+2026-08-09 19:08:20,947 INFO [94/127] Processing CIK0001531152 BJ's Wholesale Club Holdings, Inc.
+2026-08-09 19:08:20,980 INFO CIK0001531152 extracted rows=32 audit_facts=522
+2026-08-09 19:08:20,981 INFO [95/127] Processing CIK0001559720 Airbnb, Inc.
+2026-08-09 19:08:21,000 INFO CIK0001559720 extracted rows=22 audit_facts=282
+2026-08-09 19:08:21,000 INFO [96/127] Processing CIK0001560968 Samsonite International SA/ADR
+2026-08-09 19:08:21,001 INFO [97/127] Processing CIK0001576942 Stitch Fix, Inc.
+2026-08-09 19:08:21,034 INFO CIK0001576942 extracted rows=35 audit_facts=539
+2026-08-09 19:08:21,035 INFO [98/127] Processing CIK0001577552 Alibaba Group Holding Ltd
+2026-08-09 19:08:21,052 INFO CIK0001577552 extracted rows=13 audit_facts=91
+2026-08-09 19:08:21,052 INFO [99/127] Processing CIK0001579157 VINCE HOLDING CORP.
+2026-08-09 19:08:21,093 INFO CIK0001579157 extracted rows=46 audit_facts=691
+2026-08-09 19:08:21,094 INFO [100/127] Processing CIK0001579298 Burlington Stores, Inc.
+2026-08-09 19:08:21,141 INFO CIK0001579298 extracted rows=44 audit_facts=635
+2026-08-09 19:08:21,141 INFO [101/127] Processing CIK0001616707 Wayfair Inc.
+2026-08-09 19:08:21,178 INFO CIK0001616707 extracted rows=46 audit_facts=702
+2026-08-09 19:08:21,178 INFO [102/127] Processing CIK0001651562 Coursera, Inc.
+2026-08-09 19:08:21,196 INFO CIK0001651562 extracted rows=22 audit_facts=290
+2026-08-09 19:08:21,196 INFO [103/127] Processing CIK0001670076 Frontier Group Holdings, Inc.
+2026-08-09 19:08:21,213 INFO CIK0001670076 extracted rows=21 audit_facts=263
+2026-08-09 19:08:21,213 INFO [104/127] Processing CIK0001670592 YETI Holdings, Inc.
+2026-08-09 19:08:21,242 INFO CIK0001670592 extracted rows=30 audit_facts=474
+2026-08-09 19:08:21,243 INFO [105/127] Processing CIK0001687229 Invitation Homes Inc.
+2026-08-09 19:08:21,271 INFO CIK0001687229 extracted rows=38 audit_facts=324
+2026-08-09 19:08:21,271 INFO [106/127] Processing CIK0001687932 J.Jill, Inc.
+2026-08-09 19:08:21,304 INFO CIK0001687932 extracted rows=36 audit_facts=587
+2026-08-09 19:08:21,305 INFO [107/127] Processing CIK0001690511 Canada Goose Holdings Inc.
+2026-08-09 19:08:21,312 INFO CIK0001690511 extracted rows=8 audit_facts=64
+2026-08-09 19:08:21,312 INFO [108/127] Processing CIK0001691421 Lemonade, Inc.
+2026-08-09 19:08:21,329 INFO CIK0001691421 extracted rows=25 audit_facts=205
+2026-08-09 19:08:21,329 INFO [109/127] Processing CIK0001701758 Lovesac Co
+2026-08-09 19:08:21,361 INFO CIK0001701758 extracted rows=32 audit_facts=453
+2026-08-09 19:08:21,361 INFO [110/127] Processing CIK0001704711 Funko, Inc.
+2026-08-09 19:08:21,394 INFO CIK0001704711 extracted rows=36 audit_facts=556
+2026-08-09 19:08:21,394 INFO [111/127] Processing CIK0001746618 Revolve Group, Inc.
+2026-08-09 19:08:21,417 INFO CIK0001746618 extracted rows=29 audit_facts=425
+2026-08-09 19:08:21,417 INFO [112/127] Processing CIK0001762301 Fiverr International Ltd.
+2026-08-09 19:08:21,424 INFO CIK0001762301 extracted rows=8 audit_facts=50
+2026-08-09 19:08:21,424 INFO [113/127] Processing CIK0001766502 Chewy, Inc.
+2026-08-09 19:08:21,446 INFO CIK0001766502 extracted rows=29 audit_facts=438
+2026-08-09 19:08:21,446 INFO [114/127] Processing CIK0001787117 Reformation Inc.
+2026-08-09 19:08:21,447 INFO CIK0001787117 extracted rows=0 audit_facts=0
+2026-08-09 19:08:21,447 INFO [115/127] Processing CIK0001792781 Torrid Holdings Inc.
+2026-08-09 19:08:21,469 INFO CIK0001792781 extracted rows=20 audit_facts=322
+2026-08-09 19:08:21,469 INFO [116/127] Processing CIK0001792789 DoorDash, Inc.
+2026-08-09 19:08:21,489 INFO CIK0001792789 extracted rows=23 audit_facts=281
+2026-08-09 19:08:21,489 INFO [117/127] Processing CIK0001817358 Academy Sports & Outdoors, Inc.
+2026-08-09 19:08:21,515 INFO CIK0001817358 extracted rows=23 audit_facts=390
+2026-08-09 19:08:21,516 INFO [118/127] Processing CIK0001828962 Cricut, Inc.
+2026-08-09 19:08:21,536 INFO CIK0001828962 extracted rows=21 audit_facts=299
+2026-08-09 19:08:21,536 INFO [119/127] Processing CIK0001846576 FIGS, Inc.
+2026-08-09 19:08:21,554 INFO CIK0001846576 extracted rows=21 audit_facts=315
+2026-08-09 19:08:21,555 INFO [120/127] Processing CIK0001856031 Vivid Seats Inc.
+2026-08-09 19:08:21,567 INFO CIK0001856031 extracted rows=20 audit_facts=197
+2026-08-09 19:08:21,567 INFO [121/127] Processing CIK0001856437 Victoria's Secret & Co.
+2026-08-09 19:08:21,588 INFO CIK0001856437 extracted rows=20 audit_facts=340
+2026-08-09 19:08:21,588 INFO [122/127] Processing CIK0001858985 On Holding AG
+2026-08-09 19:08:21,594 INFO CIK0001858985 extracted rows=8 audit_facts=57
+2026-08-09 19:08:21,595 INFO [123/127] Processing CIK0001866757 Brilliant Earth Group, Inc.
+2026-08-09 19:08:21,612 INFO CIK0001866757 extracted rows=20 audit_facts=311
+2026-08-09 19:08:21,613 INFO [124/127] Processing CIK0001875444 Arhaus, Inc.
+2026-08-09 19:08:21,635 INFO CIK0001875444 extracted rows=20 audit_facts=314
+2026-08-09 19:08:21,635 INFO [125/127] Processing CIK0001957132 SharkNinja, Inc.
+2026-08-09 19:08:21,641 INFO CIK0001957132 extracted rows=5 audit_facts=61
+2026-08-09 19:08:21,641 INFO [126/127] Processing CIK0001977102 Birkenstock Holding plc
+2026-08-09 19:08:21,649 INFO CIK0001977102 extracted rows=10 audit_facts=140
+2026-08-09 19:08:21,649 INFO [127/127] Processing CIK0002085187 Bob's Discount Furniture, Inc.
+2026-08-09 19:08:21,652 INFO CIK0002085187 extracted rows=2 audit_facts=36
+2026-08-09 19:08:22,060 INFO Wrote CSV/JSON outputs to /Users/augustliu/Desktop/Research_On_Merchant_Side_Effect_Of_BNPL/data/public_company_panel_data
+2026-08-09 19:08:51,281 INFO Workbook export complete
+2026-08-09 19:09:53,194 INFO Loading public-company sample from /Users/augustliu/Desktop/Research_On_Merchant_Side_Effect_Of_BNPL/data/merchant_ownership/merchant_ownership_rows.json
+2026-08-09 19:09:53,236 WARNING SEC_USER_AGENT is not configured. No new SEC requests will be made; local cache only.
+2026-08-09 19:09:53,237 INFO [1/127] Processing CIK0000006201 American Airlines Group Inc.
+2026-08-09 19:09:53,291 INFO CIK0000006201 extracted rows=46 audit_facts=435
+2026-08-09 19:09:53,291 INFO [2/127] Processing CIK0000016988 CANON INC
+2026-08-09 19:09:53,307 INFO CIK0000016988 extracted rows=8 audit_facts=56
+2026-08-09 19:09:53,307 INFO [3/127] Processing CIK0000018255 CATO CORP
+2026-08-09 19:09:53,365 INFO CIK0000018255 extracted rows=46 audit_facts=658
+2026-08-09 19:09:53,365 INFO [4/127] Processing CIK0000027419 TARGET CORP
+2026-08-09 19:09:53,426 INFO CIK0000027419 extracted rows=45 audit_facts=562
+2026-08-09 19:09:53,427 INFO [5/127] Processing CIK0000028917 DILLARD'S, INC.
+2026-08-09 19:09:53,480 INFO CIK0000028917 extracted rows=46 audit_facts=555
+2026-08-09 19:09:53,480 INFO [6/127] Processing CIK0000029534 DOLLAR GENERAL CORP
+2026-08-09 19:09:53,548 INFO CIK0000029534 extracted rows=46 audit_facts=623
+2026-08-09 19:09:53,548 INFO [7/127] Processing CIK0000039911 GAP INC
+2026-08-09 19:09:53,604 INFO CIK0000039911 extracted rows=46 audit_facts=580
+2026-08-09 19:09:53,605 INFO [8/127] Processing CIK0000041091 GEORGIA POWER CO
+2026-08-09 19:09:53,605 INFO CIK0000041091 extracted rows=0 audit_facts=0
+2026-08-09 19:09:53,605 INFO [9/127] Processing CIK0000042582 GOODYEAR TIRE & RUBBER CO /OH/
+2026-08-09 19:09:53,667 INFO CIK0000042582 extracted rows=46 audit_facts=765
+2026-08-09 19:09:53,667 INFO [10/127] Processing CIK0000047217 HP INC
+2026-08-09 19:09:53,729 INFO CIK0000047217 extracted rows=46 audit_facts=688
+2026-08-09 19:09:53,730 INFO [11/127] Processing CIK0000060667 LOWES COMPANIES INC
+2026-08-09 19:09:53,788 INFO CIK0000060667 extracted rows=46 audit_facts=706
+2026-08-09 19:09:53,788 INFO [12/127] Processing CIK0000086312 TRAVELERS COMPANIES, INC.
+2026-08-09 19:09:53,832 INFO CIK0000086312 extracted rows=46 audit_facts=341
+2026-08-09 19:09:53,832 INFO [13/127] Processing CIK0000103379 V F CORP
+2026-08-09 19:09:53,903 INFO CIK0000103379 extracted rows=45 audit_facts=704
+2026-08-09 19:09:53,903 INFO [14/127] Processing CIK0000104169 Walmart Inc.
+2026-08-09 19:09:53,969 INFO CIK0000104169 extracted rows=46 audit_facts=710
+2026-08-09 19:09:53,970 INFO [15/127] Processing CIK0000106640 WHIRLPOOL CORP /DE/
+2026-08-09 19:09:54,037 INFO CIK0000106640 extracted rows=46 audit_facts=756
+2026-08-09 19:09:54,037 INFO [16/127] Processing CIK0000109177 Spectrum Brands Holdings, Inc.
+2026-08-09 19:09:54,096 INFO CIK0000109177 extracted rows=46 audit_facts=727
+2026-08-09 19:09:54,096 INFO [17/127] Processing CIK0000110471 WOLVERINE WORLD WIDE INC /DE/
+2026-08-09 19:09:54,164 INFO CIK0000110471 extracted rows=45 audit_facts=720
+2026-08-09 19:09:54,165 INFO [18/127] Processing CIK0000313838 Sony Group Corp
+2026-08-09 19:09:54,184 INFO CIK0000313838 extracted rows=11 audit_facts=81
+2026-08-09 19:09:54,184 INFO [19/127] Processing CIK0000320187 NIKE, Inc.
+2026-08-09 19:09:54,264 INFO CIK0000320187 extracted rows=46 audit_facts=664
+2026-08-09 19:09:54,265 INFO [20/127] Processing CIK0000320193 Apple Inc.
+2026-08-09 19:09:54,380 INFO CIK0000320193 extracted rows=46 audit_facts=805
+2026-08-09 19:09:54,380 INFO [21/127] Processing CIK0000354950 HOME DEPOT, INC.
+2026-08-09 19:09:54,439 INFO CIK0000354950 extracted rows=46 audit_facts=718
+2026-08-09 19:09:54,440 INFO [22/127] Processing CIK0000701985 Bath & Body Works, Inc.
+2026-08-09 19:09:54,509 INFO CIK0000701985 extracted rows=45 audit_facts=720
+2026-08-09 19:09:54,510 INFO [23/127] Processing CIK0000719955 WILLIAMS SONOMA INC
+2026-08-09 19:09:54,563 INFO CIK0000719955 extracted rows=42 audit_facts=612
+2026-08-09 19:09:54,564 INFO [24/127] Processing CIK0000732717 AT&T INC.
+2026-08-09 19:09:54,621 INFO CIK0000732717 extracted rows=45 audit_facts=548
+2026-08-09 19:09:54,622 INFO [25/127] Processing CIK0000764478 BEST BUY CO INC
+2026-08-09 19:09:54,697 INFO CIK0000764478 extracted rows=42 audit_facts=621
+2026-08-09 19:09:54,697 INFO [26/127] Processing CIK0000769397 Autodesk, Inc.
+2026-08-09 19:09:54,759 INFO CIK0000769397 extracted rows=46 audit_facts=651
+2026-08-09 19:09:54,759 INFO [27/127] Processing CIK0000789019 MICROSOFT CORP
+2026-08-09 19:09:54,830 INFO CIK0000789019 extracted rows=46 audit_facts=756
+2026-08-09 19:09:54,831 INFO [28/127] Processing CIK0000793952 HARLEY-DAVIDSON, INC.
+2026-08-09 19:09:54,899 INFO CIK0000793952 extracted rows=46 audit_facts=754
+2026-08-09 19:09:54,899 INFO [29/127] Processing CIK0000794367 Macy's, Inc.
+2026-08-09 19:09:54,961 INFO CIK0000794367 extracted rows=46 audit_facts=697
+2026-08-09 19:09:54,961 INFO [30/127] Processing CIK0000799288 LANDS' END, INC.
+2026-08-09 19:09:55,007 INFO CIK0000799288 extracted rows=45 audit_facts=770
+2026-08-09 19:09:55,008 INFO [31/127] Processing CIK0000814453 NEWELL BRANDS INC.
+2026-08-09 19:09:55,066 INFO CIK0000814453 extracted rows=46 audit_facts=718
+2026-08-09 19:09:55,066 INFO [32/127] Processing CIK0000823768 WASTE MANAGEMENT INC
+2026-08-09 19:09:55,122 INFO CIK0000823768 extracted rows=46 audit_facts=660
+2026-08-09 19:09:55,122 INFO [33/127] Processing CIK0000866729 SCHOLASTIC CORP
+2026-08-09 19:09:55,180 INFO CIK0000866729 extracted rows=46 audit_facts=671
+2026-08-09 19:09:55,180 INFO [34/127] Processing CIK0000866787 AUTOZONE INC
+2026-08-09 19:09:55,241 INFO CIK0000866787 extracted rows=46 audit_facts=676
+2026-08-09 19:09:55,242 INFO [35/127] Processing CIK0000883569 Fossil Group, Inc.
+2026-08-09 19:09:55,341 INFO CIK0000883569 extracted rows=46 audit_facts=682
+2026-08-09 19:09:55,341 INFO [36/127] Processing CIK0000884887 ROYAL CARIBBEAN CRUISES LTD
+2026-08-09 19:09:55,439 INFO CIK0000884887 extracted rows=45 audit_facts=684
+2026-08-09 19:09:55,440 INFO [37/127] Processing CIK0000885245 BUCKLE INC
+2026-08-09 19:09:55,488 INFO CIK0000885245 extracted rows=46 audit_facts=669
+2026-08-09 19:09:55,488 INFO [38/127] Processing CIK0000885639 KOHLS Corp
+2026-08-09 19:09:55,545 INFO CIK0000885639 extracted rows=46 audit_facts=637
+2026-08-09 19:09:55,545 INFO [39/127] Processing CIK0000899051 ALLSTATE CORP
+2026-08-09 19:09:55,599 INFO CIK0000899051 extracted rows=46 audit_facts=392
+2026-08-09 19:09:55,600 INFO [40/127] Processing CIK0000908937 SIRIUS XM HOLDINGS INC.
+2026-08-09 19:09:55,656 INFO CIK0000908937 extracted rows=46 audit_facts=659
+2026-08-09 19:09:55,656 INFO [41/127] Processing CIK0000909832 COSTCO WHOLESALE CORP /NEW
+2026-08-09 19:09:55,724 INFO CIK0000909832 extracted rows=46 audit_facts=759
+2026-08-09 19:09:55,725 INFO [42/127] Processing CIK0000910521 DECKERS OUTDOOR CORP
+2026-08-09 19:09:55,780 INFO CIK0000910521 extracted rows=46 audit_facts=698
+2026-08-09 19:09:55,781 INFO [43/127] Processing CIK0000912615 URBAN OUTFITTERS INC
+2026-08-09 19:09:55,832 INFO CIK0000912615 extracted rows=42 audit_facts=676
+2026-08-09 19:09:55,833 INFO [44/127] Processing CIK0000916365 TRACTOR SUPPLY CO /DE/
+2026-08-09 19:09:55,890 INFO CIK0000916365 extracted rows=46 audit_facts=736
+2026-08-09 19:09:55,891 INFO [45/127] Processing CIK0000919012 AMERICAN EAGLE OUTFITTERS INC
+2026-08-09 19:09:55,951 INFO CIK0000919012 extracted rows=45 audit_facts=701
+2026-08-09 19:09:55,951 INFO [46/127] Processing CIK0001001250 ESTEE LAUDER COMPANIES INC
+2026-08-09 19:09:56,008 INFO CIK0001001250 extracted rows=45 audit_facts=631
+2026-08-09 19:09:56,008 INFO [47/127] Processing CIK0001018724 AMAZON COM INC
+2026-08-09 19:09:56,072 INFO CIK0001018724 extracted rows=46 audit_facts=675
+2026-08-09 19:09:56,072 INFO [48/127] Processing CIK0001018840 ABERCROMBIE & FITCH CO /DE/
+2026-08-09 19:09:56,127 INFO CIK0001018840 extracted rows=46 audit_facts=621
+2026-08-09 19:09:56,127 INFO [49/127] Processing CIK0001032975 LOGITECH INTERNATIONAL S.A.
+2026-08-09 19:09:56,180 INFO CIK0001032975 extracted rows=46 audit_facts=642
+2026-08-09 19:09:56,180 INFO [50/127] Processing CIK0001037038 RALPH LAUREN CORP
+2026-08-09 19:09:56,241 INFO CIK0001037038 extracted rows=46 audit_facts=750
+2026-08-09 19:09:56,242 INFO [51/127] Processing CIK0001041859 Childrens Place, Inc.
+2026-08-09 19:09:56,311 INFO CIK0001041859 extracted rows=45 audit_facts=634
+2026-08-09 19:09:56,311 INFO [52/127] Processing CIK0001045810 NVIDIA CORP
+2026-08-09 19:09:56,430 INFO CIK0001045810 extracted rows=44 audit_facts=716
+2026-08-09 19:09:56,431 INFO [53/127] Processing CIK0001048286 MARRIOTT INTERNATIONAL INC /MD/
+2026-08-09 19:09:56,502 INFO CIK0001048286 extracted rows=46 audit_facts=499
+2026-08-09 19:09:56,503 INFO [54/127] Processing CIK0001050797 COLUMBIA SPORTSWEAR CO
+2026-08-09 19:09:56,561 INFO CIK0001050797 extracted rows=46 audit_facts=722
+2026-08-09 19:09:56,561 INFO [55/127] Processing CIK0001060822 CARTERS INC
+2026-08-09 19:09:56,622 INFO CIK0001060822 extracted rows=47 audit_facts=700
+2026-08-09 19:09:56,623 INFO [56/127] Processing CIK0001065088 EBAY INC
+2026-08-09 19:09:56,687 INFO CIK0001065088 extracted rows=46 audit_facts=692
+2026-08-09 19:09:56,687 INFO [57/127] Processing CIK0001075531 Booking Holdings Inc.
+2026-08-09 19:09:56,741 INFO CIK0001075531 extracted rows=46 audit_facts=579
+2026-08-09 19:09:56,741 INFO [58/127] Processing CIK0001084869 1 800 FLOWERS COM INC
+2026-08-09 19:09:56,786 INFO CIK0001084869 extracted rows=42 audit_facts=631
+2026-08-09 19:09:56,787 INFO [59/127] Processing CIK0001089063 DICK'S SPORTING GOODS, INC.
+2026-08-09 19:09:56,841 INFO CIK0001089063 extracted rows=46 audit_facts=625
+2026-08-09 19:09:56,842 INFO [60/127] Processing CIK0001113809 BUILD-A-BEAR WORKSHOP INC
+2026-08-09 19:09:56,886 INFO CIK0001113809 extracted rows=43 audit_facts=546
+2026-08-09 19:09:56,887 INFO [61/127] Processing CIK0001116132 TAPESTRY, INC.
+2026-08-09 19:09:56,953 INFO CIK0001116132 extracted rows=45 audit_facts=785
+2026-08-09 19:09:56,958 INFO [62/127] Processing CIK0001121788 GARMIN LTD
+2026-08-09 19:09:57,031 INFO CIK0001121788 extracted rows=45 audit_facts=690
+2026-08-09 19:09:57,031 INFO [63/127] Processing CIK0001130713 BED BATH & BEYOND, INC.
+2026-08-09 19:09:57,090 INFO CIK0001130713 extracted rows=46 audit_facts=714
+2026-08-09 19:09:57,090 INFO [64/127] Processing CIK0001132105 SPORTSMAN'S WAREHOUSE HOLDINGS, INC.
+2026-08-09 19:09:57,129 INFO CIK0001132105 extracted rows=44 audit_facts=699
+2026-08-09 19:09:57,130 INFO [65/127] Processing CIK0001158449 ADVANCE AUTO PARTS INC
+2026-08-09 19:09:57,194 INFO CIK0001158449 extracted rows=46 audit_facts=758
+2026-08-09 19:09:57,195 INFO [66/127] Processing CIK0001177609 FIVE BELOW, INC
+2026-08-09 19:09:57,244 INFO CIK0001177609 extracted rows=45 audit_facts=692
+2026-08-09 19:09:57,245 INFO [67/127] Processing CIK0001254699 QVC INC
+2026-08-09 19:09:57,283 INFO CIK0001254699 extracted rows=46 audit_facts=563
+2026-08-09 19:09:57,284 INFO [68/127] Processing CIK0001258602 NELNET INC
+2026-08-09 19:09:57,329 INFO CIK0001258602 extracted rows=46 audit_facts=377
+2026-08-09 19:09:57,330 INFO [69/127] Processing CIK0001269238 Trip.com Group Ltd
+2026-08-09 19:09:57,368 INFO CIK0001269238 extracted rows=11 audit_facts=81
+2026-08-09 19:09:57,368 INFO [70/127] Processing CIK0001314727 Sonos Inc
+2026-08-09 19:09:57,419 INFO CIK0001314727 extracted rows=33 audit_facts=513
+2026-08-09 19:09:57,419 INFO [71/127] Processing CIK0001315098 Roblox Corp
+2026-08-09 19:09:57,465 INFO CIK0001315098 extracted rows=22 audit_facts=324
+2026-08-09 19:09:57,466 INFO [72/127] Processing CIK0001318008 Zumiez Inc
+2026-08-09 19:09:57,531 INFO CIK0001318008 extracted rows=46 audit_facts=717
+2026-08-09 19:09:57,532 INFO [73/127] Processing CIK0001324424 Expedia Group, Inc.
+2026-08-09 19:09:57,584 INFO CIK0001324424 extracted rows=46 audit_facts=594
+2026-08-09 19:09:57,584 INFO [74/127] Processing CIK0001326380 GameStop Corp.
+2026-08-09 19:09:57,651 INFO CIK0001326380 extracted rows=46 audit_facts=737
+2026-08-09 19:09:57,652 INFO [75/127] Processing CIK0001334036 Crocs, Inc.
+2026-08-09 19:09:57,713 INFO CIK0001334036 extracted rows=46 audit_facts=787
+2026-08-09 19:09:57,714 INFO [76/127] Processing CIK0001336917 Under Armour, Inc.
+2026-08-09 19:09:57,780 INFO CIK0001336917 extracted rows=44 audit_facts=749
+2026-08-09 19:09:57,780 INFO [77/127] Processing CIK0001337634 StubHub Holdings, Inc.
+2026-08-09 19:09:57,783 INFO CIK0001337634 extracted rows=3 audit_facts=38
+2026-08-09 19:09:57,783 INFO [78/127] Processing CIK0001368458 Sally Beauty Holdings, Inc.
+2026-08-09 19:09:57,842 INFO CIK0001368458 extracted rows=46 audit_facts=783
+2026-08-09 19:09:57,842 INFO [79/127] Processing CIK0001370637 ETSY INC
+2026-08-09 19:09:57,882 INFO CIK0001370637 extracted rows=46 audit_facts=690
+2026-08-09 19:09:57,883 INFO [80/127] Processing CIK0001378950 CarParts.com, Inc.
+2026-08-09 19:09:57,934 INFO CIK0001378950 extracted rows=47 audit_facts=664
+2026-08-09 19:09:57,935 INFO [81/127] Processing CIK0001397187 lululemon athletica inc.
+2026-08-09 19:09:57,992 INFO CIK0001397187 extracted rows=46 audit_facts=652
+2026-08-09 19:09:57,993 INFO [82/127] Processing CIK0001403568 Ulta Beauty, Inc.
+2026-08-09 19:09:58,050 INFO CIK0001403568 extracted rows=45 audit_facts=658
+2026-08-09 19:09:58,050 INFO [83/127] Processing CIK0001428439 ROKU, INC
+2026-08-09 19:09:58,084 INFO CIK0001428439 extracted rows=36 audit_facts=554
+2026-08-09 19:09:58,084 INFO [84/127] Processing CIK0001433195 APPFOLIO INC
+2026-08-09 19:09:58,123 INFO CIK0001433195 extracted rows=45 audit_facts=604
+2026-08-09 19:09:58,123 INFO [85/127] Processing CIK0001484778 ThredUp Inc.
+2026-08-09 19:09:58,144 INFO CIK0001484778 extracted rows=22 audit_facts=380
+2026-08-09 19:09:58,144 INFO [86/127] Processing CIK0001490281 Groupon, Inc.
+2026-08-09 19:09:58,210 INFO CIK0001490281 extracted rows=46 audit_facts=703
+2026-08-09 19:09:58,211 INFO [87/127] Processing CIK0001493761 Turtle Beach Corp
+2026-08-09 19:09:58,279 INFO CIK0001493761 extracted rows=46 audit_facts=738
+2026-08-09 19:09:58,279 INFO [88/127] Processing CIK0001495320 Vera Bradley, Inc.
+2026-08-09 19:09:58,337 INFO CIK0001495320 extracted rows=46 audit_facts=759
+2026-08-09 19:09:58,337 INFO [89/127] Processing CIK0001500435 GoPro, Inc.
+2026-08-09 19:09:58,409 INFO CIK0001500435 extracted rows=45 audit_facts=718
+2026-08-09 19:09:58,410 INFO [90/127] Processing CIK0001504776 Warby Parker Inc.
+2026-08-09 19:09:58,436 INFO CIK0001504776 extracted rows=20 audit_facts=322
+2026-08-09 19:09:58,437 INFO [91/127] Processing CIK0001523836 LightInTheBox Holding Co., Ltd.
+2026-08-09 19:09:58,451 INFO CIK0001523836 extracted rows=11 audit_facts=88
+2026-08-09 19:09:58,452 INFO [92/127] Processing CIK0001524025 TILLY'S, INC.
+2026-08-09 19:09:58,543 INFO CIK0001524025 extracted rows=46 audit_facts=670
+2026-08-09 19:09:58,545 INFO [93/127] Processing CIK0001526520 TripAdvisor, Inc.
+2026-08-09 19:09:58,598 INFO CIK0001526520 extracted rows=46 audit_facts=594
+2026-08-09 19:09:58,598 INFO [94/127] Processing CIK0001531152 BJ's Wholesale Club Holdings, Inc.
+2026-08-09 19:09:58,633 INFO CIK0001531152 extracted rows=32 audit_facts=522
+2026-08-09 19:09:58,634 INFO [95/127] Processing CIK0001559720 Airbnb, Inc.
+2026-08-09 19:09:58,653 INFO CIK0001559720 extracted rows=22 audit_facts=282
+2026-08-09 19:09:58,653 INFO [96/127] Processing CIK0001560968 Samsonite International SA/ADR
+2026-08-09 19:09:58,654 INFO [97/127] Processing CIK0001576942 Stitch Fix, Inc.
+2026-08-09 19:09:58,687 INFO CIK0001576942 extracted rows=35 audit_facts=539
+2026-08-09 19:09:58,688 INFO [98/127] Processing CIK0001577552 Alibaba Group Holding Ltd
+2026-08-09 19:09:58,704 INFO CIK0001577552 extracted rows=13 audit_facts=91
+2026-08-09 19:09:58,705 INFO [99/127] Processing CIK0001579157 VINCE HOLDING CORP.
+2026-08-09 19:09:58,747 INFO CIK0001579157 extracted rows=46 audit_facts=691
+2026-08-09 19:09:58,747 INFO [100/127] Processing CIK0001579298 Burlington Stores, Inc.
+2026-08-09 19:09:58,795 INFO CIK0001579298 extracted rows=44 audit_facts=635
+2026-08-09 19:09:58,795 INFO [101/127] Processing CIK0001616707 Wayfair Inc.
+2026-08-09 19:09:58,832 INFO CIK0001616707 extracted rows=46 audit_facts=702
+2026-08-09 19:09:58,833 INFO [102/127] Processing CIK0001651562 Coursera, Inc.
+2026-08-09 19:09:58,850 INFO CIK0001651562 extracted rows=22 audit_facts=290
+2026-08-09 19:09:58,850 INFO [103/127] Processing CIK0001670076 Frontier Group Holdings, Inc.
+2026-08-09 19:09:58,866 INFO CIK0001670076 extracted rows=21 audit_facts=263
+2026-08-09 19:09:58,866 INFO [104/127] Processing CIK0001670592 YETI Holdings, Inc.
+2026-08-09 19:09:58,895 INFO CIK0001670592 extracted rows=30 audit_facts=474
+2026-08-09 19:09:58,896 INFO [105/127] Processing CIK0001687229 Invitation Homes Inc.
+2026-08-09 19:09:58,923 INFO CIK0001687229 extracted rows=38 audit_facts=324
+2026-08-09 19:09:58,924 INFO [106/127] Processing CIK0001687932 J.Jill, Inc.
+2026-08-09 19:09:58,956 INFO CIK0001687932 extracted rows=36 audit_facts=587
+2026-08-09 19:09:58,957 INFO [107/127] Processing CIK0001690511 Canada Goose Holdings Inc.
+2026-08-09 19:09:58,964 INFO CIK0001690511 extracted rows=8 audit_facts=64
+2026-08-09 19:09:58,964 INFO [108/127] Processing CIK0001691421 Lemonade, Inc.
+2026-08-09 19:09:58,981 INFO CIK0001691421 extracted rows=25 audit_facts=205
+2026-08-09 19:09:58,982 INFO [109/127] Processing CIK0001701758 Lovesac Co
+2026-08-09 19:09:59,012 INFO CIK0001701758 extracted rows=32 audit_facts=453
+2026-08-09 19:09:59,012 INFO [110/127] Processing CIK0001704711 Funko, Inc.
+2026-08-09 19:09:59,045 INFO CIK0001704711 extracted rows=36 audit_facts=556
+2026-08-09 19:09:59,045 INFO [111/127] Processing CIK0001746618 Revolve Group, Inc.
+2026-08-09 19:09:59,067 INFO CIK0001746618 extracted rows=29 audit_facts=425
+2026-08-09 19:09:59,067 INFO [112/127] Processing CIK0001762301 Fiverr International Ltd.
+2026-08-09 19:09:59,074 INFO CIK0001762301 extracted rows=8 audit_facts=50
+2026-08-09 19:09:59,075 INFO [113/127] Processing CIK0001766502 Chewy, Inc.
+2026-08-09 19:09:59,097 INFO CIK0001766502 extracted rows=29 audit_facts=438
+2026-08-09 19:09:59,097 INFO [114/127] Processing CIK0001787117 Reformation Inc.
+2026-08-09 19:09:59,097 INFO CIK0001787117 extracted rows=0 audit_facts=0
+2026-08-09 19:09:59,097 INFO [115/127] Processing CIK0001792781 Torrid Holdings Inc.
+2026-08-09 19:09:59,117 INFO CIK0001792781 extracted rows=20 audit_facts=322
+2026-08-09 19:09:59,117 INFO [116/127] Processing CIK0001792789 DoorDash, Inc.
+2026-08-09 19:09:59,147 INFO CIK0001792789 extracted rows=23 audit_facts=281
+2026-08-09 19:09:59,148 INFO [117/127] Processing CIK0001817358 Academy Sports & Outdoors, Inc.
+2026-08-09 19:09:59,173 INFO CIK0001817358 extracted rows=23 audit_facts=390
+2026-08-09 19:09:59,173 INFO [118/127] Processing CIK0001828962 Cricut, Inc.
+2026-08-09 19:09:59,194 INFO CIK0001828962 extracted rows=21 audit_facts=299
+2026-08-09 19:09:59,194 INFO [119/127] Processing CIK0001846576 FIGS, Inc.
+2026-08-09 19:09:59,210 INFO CIK0001846576 extracted rows=21 audit_facts=315
+2026-08-09 19:09:59,211 INFO [120/127] Processing CIK0001856031 Vivid Seats Inc.
+2026-08-09 19:09:59,221 INFO CIK0001856031 extracted rows=20 audit_facts=197
+2026-08-09 19:09:59,221 INFO [121/127] Processing CIK0001856437 Victoria's Secret & Co.
+2026-08-09 19:09:59,241 INFO CIK0001856437 extracted rows=20 audit_facts=340
+2026-08-09 19:09:59,241 INFO [122/127] Processing CIK0001858985 On Holding AG
+2026-08-09 19:09:59,247 INFO CIK0001858985 extracted rows=8 audit_facts=57
+2026-08-09 19:09:59,247 INFO [123/127] Processing CIK0001866757 Brilliant Earth Group, Inc.
+2026-08-09 19:09:59,262 INFO CIK0001866757 extracted rows=20 audit_facts=311
+2026-08-09 19:09:59,263 INFO [124/127] Processing CIK0001875444 Arhaus, Inc.
+2026-08-09 19:09:59,281 INFO CIK0001875444 extracted rows=20 audit_facts=314
+2026-08-09 19:09:59,281 INFO [125/127] Processing CIK0001957132 SharkNinja, Inc.
+2026-08-09 19:09:59,285 INFO CIK0001957132 extracted rows=5 audit_facts=61
+2026-08-09 19:09:59,285 INFO [126/127] Processing CIK0001977102 Birkenstock Holding plc
+2026-08-09 19:09:59,292 INFO CIK0001977102 extracted rows=10 audit_facts=140
+2026-08-09 19:09:59,292 INFO [127/127] Processing CIK0002085187 Bob's Discount Furniture, Inc.
+2026-08-09 19:09:59,294 INFO CIK0002085187 extracted rows=2 audit_facts=36
+2026-08-09 19:09:59,594 INFO Wrote CSV/JSON outputs to /Users/augustliu/Desktop/Research_On_Merchant_Side_Effect_Of_BNPL/data/public_company_panel_data

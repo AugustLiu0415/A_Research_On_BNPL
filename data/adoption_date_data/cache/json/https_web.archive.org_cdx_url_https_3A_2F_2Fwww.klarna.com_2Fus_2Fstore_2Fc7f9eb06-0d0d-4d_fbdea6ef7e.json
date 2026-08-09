@@ -1,0 +1,1 @@
+{"error": "URLError(ConnectionRefusedError(61, 'Connection refused'))", "url": "https://web.archive.org/cdx?url=https%3A%2F%2Fwww.klarna.com%2Fus%2Fstore%2Fc7f9eb06-0d0d-4ded-8fbb-e1e10e7c6595%2Facademy-sports%2Fpay-with-klarna%2F&from=20180101&to=20260731&output=json&fl=timestamp,original,statuscode,mimetype,digest&filter=statuscode:200&collapse=digest"}

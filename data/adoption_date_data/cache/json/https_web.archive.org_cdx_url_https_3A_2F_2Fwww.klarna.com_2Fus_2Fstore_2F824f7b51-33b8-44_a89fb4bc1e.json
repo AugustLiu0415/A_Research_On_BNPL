@@ -1,0 +1,1 @@
+{"error": "URLError(ConnectionRefusedError(61, 'Connection refused'))", "url": "https://web.archive.org/cdx?url=https%3A%2F%2Fwww.klarna.com%2Fus%2Fstore%2F824f7b51-33b8-44c7-9409-0961965d8f48%2Fmacy-s%2Fpay-with-klarna%2F&from=20180101&to=20260731&output=json&fl=timestamp,original,statuscode,mimetype,digest&filter=statuscode:200&collapse=digest"}

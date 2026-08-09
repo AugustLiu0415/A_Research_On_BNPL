@@ -1,0 +1,29 @@
+{
+  "retrieved_at": "2026-08-09T21:28:28+00:00",
+  "total_public_merchants": 144,
+  "merchant_provider_rows": 278,
+  "evidence_log_rows": 1007,
+  "manual_review_rows": 676,
+  "confidence_distribution_provider_level": {
+    "UNKNOWN": 278
+  },
+  "date_precision_distribution_provider_level": {
+    "unknown": 278
+  },
+  "provider_distribution": {
+    "Affirm": 38,
+    "Afterpay": 39,
+    "Klarna": 93,
+    "Sezzle": 41,
+    "Zip": 67
+  },
+  "merchant_first_confidence_distribution": {
+    "UNKNOWN": 144
+  },
+  "merchant_first_precision_distribution": {
+    "unknown": 144
+  },
+  "multi_platform_merchants": 81,
+  "earlier_external_bnpl_rows": 69,
+  "main_regression_eligible_merchants": 0
+}

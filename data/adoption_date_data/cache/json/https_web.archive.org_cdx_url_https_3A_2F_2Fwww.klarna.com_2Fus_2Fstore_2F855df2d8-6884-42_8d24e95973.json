@@ -1,0 +1,1 @@
+{"error": "URLError(ConnectionRefusedError(61, 'Connection refused'))", "url": "https://web.archive.org/cdx?url=https%3A%2F%2Fwww.klarna.com%2Fus%2Fstore%2F855df2d8-6884-42a2-8159-e99d7df65a65%2Fcarter-s%2Fpay-with-klarna%2F&from=20180101&to=20260731&output=json&fl=timestamp,original,statuscode,mimetype,digest&filter=statuscode:200&collapse=digest"}

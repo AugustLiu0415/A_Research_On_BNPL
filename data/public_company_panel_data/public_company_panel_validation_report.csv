@@ -1,0 +1,1073 @@
+CIK,check_name,company,details,fiscal_quarter,fiscal_year,message,severity
+,unique_cik_count,,,,,Unique CIK count confirmed: 127.,INFO
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q1,2015,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q2,2015,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q3,2015,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q4,2015,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q1,2016,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q2,2016,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q3,2016,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q4,2016,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q1,2017,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q2,2017,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q3,2017,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q4,2017,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q1,2018,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q2,2018,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q3,2018,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,revenue; gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q1,2019,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q2,2019,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q3,2019,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q4,2019,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q1,2020,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q2,2020,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q3,2020,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q4,2020,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q1,2021,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q2,2021,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q3,2021,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q4,2021,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q1,2022,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q2,2022,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q3,2022,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q4,2022,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q1,2023,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q2,2023,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q3,2023,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q4,2023,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q1,2024,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q2,2024,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q3,2024,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q4,2024,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q1,2025,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q2,2025,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q3,2025,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q4,2025,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q1,2026,Core outcome variables missing.,WARNING
+0000006201,missing_core_outcomes,American Airlines Group Inc.,gross_profit,Q2,2026,Core outcome variables missing.,WARNING
+0000016988,missing_core_outcomes,CANON INC,revenue; gross_profit; operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0000016988,missing_core_outcomes,CANON INC,revenue; gross_profit; operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0000016988,missing_core_outcomes,CANON INC,revenue; gross_profit; operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0000016988,missing_core_outcomes,CANON INC,revenue; gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0000016988,missing_core_outcomes,CANON INC,revenue; gross_profit; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0000016988,missing_core_outcomes,CANON INC,revenue; gross_profit; operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0000016988,missing_core_outcomes,CANON INC,revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0000016988,missing_core_outcomes,CANON INC,revenue; gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0000018255,missing_core_outcomes,THE CATO CORPORATION,operating_income,Q4,2014,Core outcome variables missing.,WARNING
+0000018255,missing_core_outcomes,THE CATO CORPORATION,operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0000018255,missing_core_outcomes,THE CATO CORPORATION,operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0000018255,missing_core_outcomes,THE CATO CORPORATION,operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0000018255,missing_core_outcomes,THE CATO CORPORATION,revenue; gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,operating_income,Q4,2014,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,operating_income,Q1,2018,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,operating_income,Q2,2018,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,operating_income,Q3,2018,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,gross_profit,Q1,2020,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,gross_profit,Q2,2020,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,gross_profit,Q3,2020,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,gross_profit,Q4,2020,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,gross_profit,Q1,2021,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,gross_profit,Q2,2021,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,gross_profit,Q3,2021,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,gross_profit,Q4,2021,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,gross_profit,Q1,2022,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,gross_profit,Q2,2022,Core outcome variables missing.,WARNING
+0000027419,missing_core_outcomes,TARGET CORPORATION,revenue; gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q4,2014,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q1,2015,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q2,2015,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q3,2015,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q1,2016,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q2,2016,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q3,2016,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q1,2017,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q2,2017,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q3,2017,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q1,2018,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q2,2018,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q3,2018,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q1,2019,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q2,2019,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q3,2019,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q1,2020,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q2,2020,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q3,2020,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q1,2021,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q2,2021,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q3,2021,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q1,2022,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q2,2022,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q3,2022,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q1,2023,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q2,2023,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q3,2023,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",revenue; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q1,2024,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q2,2024,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q3,2024,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q1,2025,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q2,2025,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q3,2025,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0000028917,missing_core_outcomes,"DILLARD’S, INC.",operating_income,Q1,2026,Core outcome variables missing.,WARNING
+0000039911,missing_core_outcomes,"GAP, INC",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q1,2017,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q2,2017,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q3,2017,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q1,2018,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q2,2018,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q3,2018,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q1,2019,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q2,2019,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q3,2019,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q1,2020,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q2,2020,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q3,2020,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q1,2021,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q2,2021,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q3,2021,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q1,2022,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q2,2022,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q3,2022,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q1,2023,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q2,2023,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q3,2023,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q1,2024,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q2,2024,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q3,2024,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q1,2025,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q2,2025,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q3,2025,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q1,2026,Core outcome variables missing.,WARNING
+0000042582,missing_core_outcomes,THE GOODYEAR TIRE & RUBBER COMPANY,operating_income,Q2,2026,Core outcome variables missing.,WARNING
+0000047217,missing_core_outcomes,HP INC.,gross_profit,Q4,2016,Core outcome variables missing.,WARNING
+0000060667,missing_core_outcomes,"LOWE’S COMPANIES, INC.",operating_income,Q4,2014,Core outcome variables missing.,WARNING
+0000060667,missing_core_outcomes,"LOWE’S COMPANIES, INC.",operating_income,Q1,2015,Core outcome variables missing.,WARNING
+0000060667,missing_core_outcomes,"LOWE’S COMPANIES, INC.",operating_income,Q2,2015,Core outcome variables missing.,WARNING
+0000060667,missing_core_outcomes,"LOWE’S COMPANIES, INC.",operating_income,Q3,2015,Core outcome variables missing.,WARNING
+0000060667,missing_core_outcomes,"LOWE’S COMPANIES, INC.",operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0000060667,missing_core_outcomes,"LOWE’S COMPANIES, INC.",operating_income,Q1,2016,Core outcome variables missing.,WARNING
+0000060667,missing_core_outcomes,"LOWE’S COMPANIES, INC.",operating_income,Q2,2016,Core outcome variables missing.,WARNING
+0000060667,missing_core_outcomes,"LOWE’S COMPANIES, INC.",operating_income,Q3,2016,Core outcome variables missing.,WARNING
+0000060667,missing_core_outcomes,"LOWE’S COMPANIES, INC.",operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0000060667,missing_core_outcomes,"LOWE’S COMPANIES, INC.",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit,Q1,2015,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit,Q2,2015,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit,Q3,2015,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q1,2016,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q2,2016,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q3,2016,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q1,2017,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q2,2017,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q3,2017,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q1,2018,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q2,2018,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q3,2018,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q1,2019,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q2,2019,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q3,2019,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q1,2020,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q2,2020,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q3,2020,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q1,2021,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q2,2021,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q3,2021,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q1,2022,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q2,2022,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q3,2022,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q1,2023,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q2,2023,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q3,2023,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q1,2024,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q2,2024,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q3,2024,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q1,2025,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q2,2025,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q3,2025,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q1,2026,Core outcome variables missing.,WARNING
+0000086312,missing_core_outcomes,"TRAVELERS COMPANIES, INC.",gross_profit; operating_income,Q2,2026,Core outcome variables missing.,WARNING
+0000104169,missing_core_outcomes,WALMART INC.,revenue; gross_profit,Q4,2019,Core outcome variables missing.,WARNING
+0000109177,missing_core_outcomes,"Spectrum Brands Holdings, Inc.",gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0000109177,missing_core_outcomes,"Spectrum Brands Holdings, Inc.",revenue,Q2,2019,Core outcome variables missing.,WARNING
+0000109177,missing_core_outcomes,"Spectrum Brands Holdings, Inc.",revenue,Q3,2019,Core outcome variables missing.,WARNING
+0000109177,missing_core_outcomes,"Spectrum Brands Holdings, Inc.",revenue,Q4,2019,Core outcome variables missing.,WARNING
+0000109177,missing_core_outcomes,"Spectrum Brands Holdings, Inc.",revenue,Q1,2020,Core outcome variables missing.,WARNING
+0000109177,missing_core_outcomes,"Spectrum Brands Holdings, Inc.",revenue,Q2,2020,Core outcome variables missing.,WARNING
+0000109177,missing_core_outcomes,"Spectrum Brands Holdings, Inc.",revenue,Q4,2020,Core outcome variables missing.,WARNING
+0000109177,negative_revenue,"Spectrum Brands Holdings, Inc.",,Q4,2021,Negative revenue flagged for review.,WARNING
+0000110471,missing_core_outcomes,"WOLVERINE WORLD WIDE, INC.",revenue,Q4,2014,Core outcome variables missing.,WARNING
+0000110471,missing_core_outcomes,"WOLVERINE WORLD WIDE, INC.",revenue,Q4,2015,Core outcome variables missing.,WARNING
+0000110471,missing_core_outcomes,"WOLVERINE WORLD WIDE, INC.",revenue,Q4,2016,Core outcome variables missing.,WARNING
+0000110471,missing_core_outcomes,"WOLVERINE WORLD WIDE, INC.",revenue,Q4,2017,Core outcome variables missing.,WARNING
+0000110471,missing_core_outcomes,"WOLVERINE WORLD WIDE, INC.",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0000313838,missing_core_outcomes,Sony Group Corp,revenue; gross_profit; operating_income,Q4,2014,Core outcome variables missing.,WARNING
+0000313838,missing_core_outcomes,Sony Group Corp,revenue; gross_profit; operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0000313838,missing_core_outcomes,Sony Group Corp,revenue; gross_profit; operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0000313838,missing_core_outcomes,Sony Group Corp,revenue; gross_profit; operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0000313838,missing_core_outcomes,Sony Group Corp,revenue; gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0000313838,missing_core_outcomes,Sony Group Corp,revenue; gross_profit; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0000313838,missing_core_outcomes,Sony Group Corp,revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0000313838,missing_core_outcomes,Sony Group Corp,revenue; gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0000313838,missing_core_outcomes,Sony Group Corp,revenue; gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0000313838,missing_core_outcomes,Sony Group Corp,revenue; gross_profit; operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0000313838,missing_core_outcomes,Sony Group Corp,revenue; gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q3,2015,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q1,2016,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q2,2016,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q3,2016,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q1,2017,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q2,2017,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q3,2017,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q1,2018,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q2,2018,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q3,2018,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q1,2019,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q2,2019,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q3,2019,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",revenue; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q1,2020,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q2,2020,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q3,2020,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q1,2021,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q2,2021,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q3,2021,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q1,2022,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q2,2022,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q3,2022,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q1,2023,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q2,2023,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q3,2023,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q1,2024,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q2,2024,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q3,2024,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q1,2025,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q2,2025,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q3,2025,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q1,2026,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q2,2026,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q3,2026,Core outcome variables missing.,WARNING
+0000320187,missing_core_outcomes,"NIKE, Inc.",operating_income,Q4,2026,Core outcome variables missing.,WARNING
+0000320193,missing_core_outcomes,Apple Inc.,revenue,Q4,2018,Core outcome variables missing.,WARNING
+0000354950,missing_core_outcomes,"HOME DEPOT, INC.",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0000701985,negative_revenue,"BATH & BODY WORKS, INC.",,Q4,2021,Negative revenue flagged for review.,WARNING
+0000701985,suspicious_operating_margin,"BATH & BODY WORKS, INC.",-3.0425531914893615,Q4,2021,Operating margin outside expected review bounds.,WARNING
+0000701985,extreme_revenue_growth_yoy,"BATH & BODY WORKS, INC.",-21.4822695035461,Q4,2022,Extreme YoY revenue growth flagged.,WARNING
+0000719955,missing_core_outcomes,"WILLIAMS-SONOMA, INC.",revenue; gross_profit; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q3,2015,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q4,2015,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q1,2016,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q2,2016,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q3,2016,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q4,2016,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q1,2017,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q2,2017,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q3,2017,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q4,2017,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q1,2018,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q2,2018,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,revenue; gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q1,2019,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q2,2019,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q3,2019,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q4,2019,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q1,2020,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q2,2020,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q3,2020,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q4,2020,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q1,2021,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q2,2021,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q1,2022,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q2,2022,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q3,2022,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q4,2022,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q1,2023,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q2,2023,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q4,2023,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q1,2024,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q2,2024,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q3,2024,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q4,2024,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q1,2025,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q2,2025,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q3,2025,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q4,2025,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q1,2026,Core outcome variables missing.,WARNING
+0000732717,missing_core_outcomes,AT&T INC.,gross_profit,Q2,2026,Core outcome variables missing.,WARNING
+0000764478,missing_core_outcomes,"BEST BUY CO., INC.",revenue; gross_profit; operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0000764478,missing_core_outcomes,"BEST BUY CO., INC.",revenue,Q4,2019,Core outcome variables missing.,WARNING
+0000764478,missing_core_outcomes,"BEST BUY CO., INC.",revenue; gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0000764478,missing_core_outcomes,"BEST BUY CO., INC.",revenue,Q2,2026,Core outcome variables missing.,WARNING
+0000764478,missing_core_outcomes,"BEST BUY CO., INC.",revenue,Q3,2026,Core outcome variables missing.,WARNING
+0000764478,missing_core_outcomes,"BEST BUY CO., INC.",revenue,Q4,2026,Core outcome variables missing.,WARNING
+0000764478,missing_core_outcomes,"BEST BUY CO., INC.",revenue,Q1,2027,Core outcome variables missing.,WARNING
+0000789019,missing_core_outcomes,MICROSOFT CORPORATION,revenue,Q4,2018,Core outcome variables missing.,WARNING
+0000793952,missing_core_outcomes,"Harley-Davidson, Inc.",gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0000793952,missing_core_outcomes,"Harley-Davidson, Inc.",revenue; gross_profit,Q4,2019,Core outcome variables missing.,WARNING
+0000793952,missing_core_outcomes,"Harley-Davidson, Inc.",revenue; gross_profit,Q4,2022,Core outcome variables missing.,WARNING
+0000794367,missing_core_outcomes,"Macy's, Inc.",revenue; gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0000799288,missing_core_outcomes,"LANDS' END, INC.",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0000814453,suspicious_operating_margin,NEWELL BRANDS INC.,-3.470841384155981,Q3,2018,Operating margin outside expected review bounds.,WARNING
+0000823768,missing_core_outcomes,WASTE MANAGEMENT INC,revenue; gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0000866729,missing_core_outcomes,SCHOLASTIC CORPORATION,revenue; gross_profit; operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0000866729,missing_core_outcomes,SCHOLASTIC CORPORATION,gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0000866729,missing_core_outcomes,SCHOLASTIC CORPORATION,revenue; gross_profit,Q4,2019,Core outcome variables missing.,WARNING
+0000866729,missing_core_outcomes,SCHOLASTIC CORPORATION,revenue; gross_profit,Q4,2020,Core outcome variables missing.,WARNING
+0000866787,missing_core_outcomes,AUTOZONE INC,revenue,Q4,2018,Core outcome variables missing.,WARNING
+0000884887,missing_core_outcomes,ROYAL CARIBBEAN CRUISES LTD,gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0000884887,suspicious_gross_margin,ROYAL CARIBBEAN CRUISES LTD,-2.874718829190513,Q2,2020,Gross margin outside expected review bounds.,WARNING
+0000884887,suspicious_operating_margin,ROYAL CARIBBEAN CRUISES LTD,-7.303248768543037,Q2,2020,Operating margin outside expected review bounds.,WARNING
+0000884887,negative_revenue,ROYAL CARIBBEAN CRUISES LTD,,Q3,2020,Negative revenue flagged for review.,WARNING
+0000884887,suspicious_gross_margin,ROYAL CARIBBEAN CRUISES LTD,10.16079909760152,Q3,2020,Gross margin outside expected review bounds.,WARNING
+0000884887,suspicious_operating_margin,ROYAL CARIBBEAN CRUISES LTD,29.56880788411304,Q3,2020,Operating margin outside expected review bounds.,WARNING
+0000884887,suspicious_gross_margin,ROYAL CARIBBEAN CRUISES LTD,-6.770226726814693,Q4,2020,Gross margin outside expected review bounds.,WARNING
+0000884887,suspicious_operating_margin,ROYAL CARIBBEAN CRUISES LTD,-29.777637822953892,Q4,2020,Operating margin outside expected review bounds.,WARNING
+0000884887,suspicious_gross_margin,ROYAL CARIBBEAN CRUISES LTD,-5.747441329080782,Q1,2021,Gross margin outside expected review bounds.,WARNING
+0000884887,suspicious_operating_margin,ROYAL CARIBBEAN CRUISES LTD,-19.260984433760175,Q1,2021,Operating margin outside expected review bounds.,WARNING
+0000884887,suspicious_gross_margin,ROYAL CARIBBEAN CRUISES LTD,-7.344070393212083,Q2,2021,Gross margin outside expected review bounds.,WARNING
+0000884887,suspicious_operating_margin,ROYAL CARIBBEAN CRUISES LTD,-20.103193620615155,Q2,2021,Operating margin outside expected review bounds.,WARNING
+0000884887,suspicious_operating_margin,ROYAL CARIBBEAN CRUISES LTD,-2.2011300819768995,Q3,2021,Operating margin outside expected review bounds.,WARNING
+0000884887,extreme_revenue_growth_yoy,ROYAL CARIBBEAN CRUISES LTD,-14.56441462835431,Q3,2021,Extreme YoY revenue growth flagged.,WARNING
+0000884887,extreme_revenue_growth_yoy,ROYAL CARIBBEAN CRUISES LTD,27.772833792254964,Q4,2021,Extreme YoY revenue growth flagged.,WARNING
+0000884887,extreme_revenue_growth_yoy,ROYAL CARIBBEAN CRUISES LTD,24.211381920312277,Q1,2022,Extreme YoY revenue growth flagged.,WARNING
+0000884887,extreme_revenue_growth_yoy,ROYAL CARIBBEAN CRUISES LTD,41.90061672624425,Q2,2022,Extreme YoY revenue growth flagged.,WARNING
+0000884887,extreme_revenue_growth_yoy,ROYAL CARIBBEAN CRUISES LTD,5.550000218838493,Q3,2022,Extreme YoY revenue growth flagged.,WARNING
+0000885245,missing_core_outcomes,"BUCKLE, INC",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0000885639,missing_core_outcomes,KOHL'S CORP,revenue; gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q1,2015,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q2,2015,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q3,2015,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q1,2016,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q2,2016,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q3,2016,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q1,2017,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q2,2017,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q3,2017,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q1,2018,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q2,2018,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q3,2018,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q1,2019,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q2,2019,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q3,2019,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q1,2020,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q2,2020,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q3,2020,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q1,2021,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q2,2021,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q3,2021,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q1,2022,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q2,2022,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q3,2022,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q1,2023,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q2,2023,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q3,2023,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q1,2024,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q2,2024,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q3,2024,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q1,2025,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q2,2025,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q3,2025,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q1,2026,Core outcome variables missing.,WARNING
+0000899051,missing_core_outcomes,ALLSTATE CORP,gross_profit; operating_income,Q2,2026,Core outcome variables missing.,WARNING
+0000908937,missing_core_outcomes,SIRIUS XM HOLDINGS INC.,gross_profit,Q2,2018,Core outcome variables missing.,WARNING
+0000908937,missing_core_outcomes,SIRIUS XM HOLDINGS INC.,gross_profit,Q3,2018,Core outcome variables missing.,WARNING
+0000908937,missing_core_outcomes,SIRIUS XM HOLDINGS INC.,gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0000909832,missing_core_outcomes,COSTCO WHOLESALE CORP /NEW,revenue; gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0000912615,missing_core_outcomes,"Urban Outfitters, Inc.",revenue; gross_profit; operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0000912615,missing_core_outcomes,"Urban Outfitters, Inc.",revenue; gross_profit; operating_income,Q4,2026,Core outcome variables missing.,WARNING
+0001018724,missing_core_outcomes,AMAZON COM INC,revenue; gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0001018840,missing_core_outcomes,Abercrombie & Fitch Co.,gross_profit,Q4,2024,Core outcome variables missing.,WARNING
+0001018840,missing_core_outcomes,Abercrombie & Fitch Co.,gross_profit,Q4,2025,Core outcome variables missing.,WARNING
+0001032975,missing_core_outcomes,LOGITECH INTERNATIONAL S.A.,revenue,Q4,2019,Core outcome variables missing.,WARNING
+0001041859,missing_core_outcomes,"THE CHILDREN’S PLACE, INC.",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001041859,missing_core_outcomes,"THE CHILDREN’S PLACE, INC.",revenue,Q4,2019,Core outcome variables missing.,WARNING
+0001041859,missing_core_outcomes,"THE CHILDREN’S PLACE, INC.",revenue,Q4,2020,Core outcome variables missing.,WARNING
+0001041859,missing_core_outcomes,"THE CHILDREN’S PLACE, INC.",revenue,Q4,2021,Core outcome variables missing.,WARNING
+0001045810,missing_core_outcomes,NVIDIA CORP,revenue; gross_profit; operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0001045810,missing_core_outcomes,NVIDIA CORP,revenue,Q4,2019,Core outcome variables missing.,WARNING
+0001045810,missing_core_outcomes,NVIDIA CORP,revenue,Q4,2020,Core outcome variables missing.,WARNING
+0001045810,missing_core_outcomes,NVIDIA CORP,revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001045810,missing_core_outcomes,NVIDIA CORP,revenue,Q4,2022,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q1,2015,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q2,2015,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q3,2015,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q4,2015,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q1,2016,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q2,2016,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q3,2016,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q4,2016,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q1,2017,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q2,2017,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q3,2017,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q4,2017,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q1,2018,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q2,2018,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q3,2018,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q1,2019,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q2,2019,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q3,2019,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q4,2019,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q1,2020,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q2,2020,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q3,2020,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q4,2020,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q1,2021,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q2,2021,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q3,2021,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q4,2021,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q1,2022,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q2,2022,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q3,2022,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q4,2022,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q1,2023,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q2,2023,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q3,2023,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q4,2023,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q1,2024,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q2,2024,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q3,2024,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q4,2024,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q1,2025,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q2,2025,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q3,2025,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q4,2025,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q1,2026,Core outcome variables missing.,WARNING
+0001048286,missing_core_outcomes,MARRIOTT INTERNATIONAL INC /MD/,gross_profit,Q2,2026,Core outcome variables missing.,WARNING
+0001065088,negative_revenue,eBay Inc.,,Q4,2015,Negative revenue flagged for review.,WARNING
+0001065088,missing_core_outcomes,eBay Inc.,revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q1,2019,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q2,2019,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q3,2019,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,revenue; gross_profit,Q4,2019,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q1,2020,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q2,2020,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q3,2020,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q4,2020,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q1,2021,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q2,2021,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q3,2021,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q4,2021,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q1,2022,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q2,2022,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q3,2022,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q4,2022,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q1,2023,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q2,2023,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q3,2023,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q4,2023,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q1,2024,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q2,2024,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q3,2024,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q4,2024,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q1,2025,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q2,2025,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q3,2025,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q4,2025,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q1,2026,Core outcome variables missing.,WARNING
+0001075531,missing_core_outcomes,Booking Holdings Inc.,gross_profit,Q2,2026,Core outcome variables missing.,WARNING
+0001084869,missing_core_outcomes,1 800 FLOWERS COM INC,revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001084869,missing_core_outcomes,1 800 FLOWERS COM INC,revenue; gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0001089063,missing_core_outcomes,"DICK'S Sporting Goods, Inc.",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q4,2014,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,gross_profit; operating_income,Q1,2015,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,gross_profit; operating_income,Q2,2015,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,gross_profit; operating_income,Q3,2015,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,gross_profit; operating_income,Q1,2016,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,gross_profit; operating_income,Q2,2016,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,gross_profit; operating_income,Q3,2016,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,gross_profit; operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,gross_profit; operating_income,Q1,2017,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,gross_profit; operating_income,Q2,2017,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,gross_profit; operating_income,Q3,2017,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,revenue; gross_profit; operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q1,2018,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q3,2018,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,revenue; gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q1,2019,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q2,2019,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q3,2019,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q1,2020,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q2,2020,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q3,2020,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q1,2021,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q2,2021,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q3,2021,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q1,2022,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q2,2022,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q3,2022,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q1,2023,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q2,2023,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q3,2023,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q1,2024,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q2,2024,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q3,2024,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q1,2025,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q2,2025,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q3,2025,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,revenue; gross_profit; operating_income,Q4,2026,Core outcome variables missing.,WARNING
+0001113809,missing_core_outcomes,BUILD-A-BEAR WORKSHOP INC,operating_income,Q1,2027,Core outcome variables missing.,WARNING
+0001116132,missing_core_outcomes,"Tapestry, Inc.",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001121788,missing_core_outcomes,GARMIN LTD,revenue,Q2,2018,Core outcome variables missing.,WARNING
+0001121788,missing_core_outcomes,GARMIN LTD,revenue,Q3,2018,Core outcome variables missing.,WARNING
+0001121788,missing_core_outcomes,GARMIN LTD,revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001121788,missing_core_outcomes,GARMIN LTD,revenue,Q1,2019,Core outcome variables missing.,WARNING
+0001121788,missing_core_outcomes,GARMIN LTD,revenue,Q2,2019,Core outcome variables missing.,WARNING
+0001121788,missing_core_outcomes,GARMIN LTD,revenue,Q3,2019,Core outcome variables missing.,WARNING
+0001121788,missing_core_outcomes,GARMIN LTD,revenue,Q4,2019,Core outcome variables missing.,WARNING
+0001130713,missing_core_outcomes,"Bed, Bath & Beyond, Inc.",revenue,Q4,2019,Core outcome variables missing.,WARNING
+0001132105,missing_core_outcomes,"SPORTSMAN’S WAREHOUSE HOLDINGS, INC.",revenue; gross_profit; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0001132105,negative_revenue,"SPORTSMAN’S WAREHOUSE HOLDINGS, INC.",,Q4,2020,Negative revenue flagged for review.,WARNING
+0001158449,missing_core_outcomes,"ADVANCE AUTO PARTS, INC.",revenue; gross_profit; operating_income,Q4,2014,Core outcome variables missing.,WARNING
+0001158449,missing_core_outcomes,"ADVANCE AUTO PARTS, INC.",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001158449,missing_core_outcomes,"ADVANCE AUTO PARTS, INC.",revenue; gross_profit; operating_income,Q4,2026,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q2,2018,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q3,2018,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q1,2019,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q2,2019,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q3,2019,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",revenue; gross_profit,Q4,2019,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q2,2020,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q3,2020,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",revenue; gross_profit,Q4,2020,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q1,2021,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q2,2021,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q3,2021,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",revenue; gross_profit,Q4,2021,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q1,2022,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q2,2022,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q3,2022,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",revenue; gross_profit,Q4,2022,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q1,2023,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q2,2023,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q3,2023,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",revenue; gross_profit,Q4,2023,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q1,2024,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",gross_profit,Q3,2024,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",revenue; gross_profit,Q4,2024,Core outcome variables missing.,WARNING
+0001254699,missing_core_outcomes,"QVC, Inc.",revenue,Q4,2025,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",gross_profit; operating_income,Q1,2015,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",gross_profit; operating_income,Q2,2015,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",gross_profit; operating_income,Q3,2015,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",gross_profit; operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",gross_profit; operating_income,Q1,2016,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",gross_profit; operating_income,Q2,2016,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",gross_profit; operating_income,Q3,2016,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",gross_profit; operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",gross_profit; operating_income,Q1,2017,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",gross_profit; operating_income,Q2,2017,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",gross_profit; operating_income,Q3,2017,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",gross_profit; operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q1,2018,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q2,2018,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q3,2018,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q1,2019,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q2,2019,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q3,2019,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q1,2020,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q2,2020,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q3,2020,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q1,2021,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q2,2021,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q3,2021,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q1,2022,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q2,2022,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q3,2022,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q1,2023,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q2,2023,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q3,2023,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q1,2024,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q2,2024,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q3,2024,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q1,2025,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q2,2025,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q3,2025,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q1,2026,Core outcome variables missing.,WARNING
+0001258602,missing_core_outcomes,"NELNET, INC.",revenue; gross_profit; operating_income,Q2,2026,Core outcome variables missing.,WARNING
+0001269238,missing_core_outcomes,Trip.com Group Limited,revenue; gross_profit; operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0001269238,missing_core_outcomes,Trip.com Group Limited,revenue; gross_profit; operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0001269238,missing_core_outcomes,Trip.com Group Limited,revenue; gross_profit; operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0001269238,missing_core_outcomes,Trip.com Group Limited,revenue; gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0001269238,missing_core_outcomes,Trip.com Group Limited,revenue; gross_profit; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0001269238,missing_core_outcomes,Trip.com Group Limited,revenue; gross_profit; operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0001269238,missing_core_outcomes,Trip.com Group Limited,revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001269238,missing_core_outcomes,Trip.com Group Limited,revenue; gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0001269238,missing_core_outcomes,Trip.com Group Limited,revenue; gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0001269238,missing_core_outcomes,Trip.com Group Limited,revenue; gross_profit; operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0001269238,missing_core_outcomes,Trip.com Group Limited,revenue; gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0001314727,missing_core_outcomes,"SONOS, INC.",revenue; gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0001315098,missing_core_outcomes,Roblox Corporation,revenue; gross_profit,Q4,2022,Core outcome variables missing.,WARNING
+0001318008,missing_core_outcomes,ZUMIEZ INC,revenue; gross_profit; operating_income,Q4,2026,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",revenue; gross_profit,Q2,2018,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",revenue; gross_profit,Q3,2018,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",revenue; gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",revenue; gross_profit,Q1,2019,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",revenue; gross_profit,Q2,2019,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",revenue; gross_profit,Q4,2019,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q1,2020,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q2,2020,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q3,2020,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q4,2020,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q1,2021,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q2,2021,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q3,2021,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q4,2021,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q1,2022,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q2,2022,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q3,2022,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q4,2022,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q1,2023,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q2,2023,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q3,2023,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q4,2023,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q1,2024,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q2,2024,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q3,2024,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q4,2024,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q1,2025,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q2,2025,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q3,2025,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q4,2025,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q1,2026,Core outcome variables missing.,WARNING
+0001324424,missing_core_outcomes,"EXPEDIA GROUP, INC.",gross_profit,Q2,2026,Core outcome variables missing.,WARNING
+0001326380,missing_core_outcomes,GameStop Corp.,revenue,Q4,2022,Core outcome variables missing.,WARNING
+0001326380,missing_core_outcomes,GameStop Corp.,revenue,Q4,2023,Core outcome variables missing.,WARNING
+0001326380,missing_core_outcomes,GameStop Corp.,revenue,Q4,2024,Core outcome variables missing.,WARNING
+0001336917,missing_core_outcomes,"UNDER ARMOUR, INC.",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001336917,missing_core_outcomes,"UNDER ARMOUR, INC.",revenue; gross_profit; operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0001337634,suspicious_operating_margin,"STUBHUB HOLDINGS, INC.",-2.922775056450045,Q3,2025,Operating margin outside expected review bounds.,WARNING
+0001337634,missing_core_outcomes,"STUBHUB HOLDINGS, INC.",gross_profit,Q3,2025,Core outcome variables missing.,WARNING
+0001337634,missing_core_outcomes,"STUBHUB HOLDINGS, INC.",revenue; gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0001337634,missing_core_outcomes,"STUBHUB HOLDINGS, INC.",gross_profit,Q1,2026,Core outcome variables missing.,WARNING
+0001368458,missing_core_outcomes,"SALLY BEAUTY HOLDINGS, INC.",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001370637,missing_core_outcomes,"ETSY, INC",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q4,2019,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q1,2020,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q2,2020,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q3,2020,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q4,2020,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q1,2021,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q2,2021,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q3,2021,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q4,2021,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q1,2022,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q2,2022,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q3,2022,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q4,2022,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q1,2023,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q2,2023,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q3,2023,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q4,2023,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q1,2024,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q2,2024,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q3,2024,Core outcome variables missing.,WARNING
+0001378950,missing_core_outcomes,"CARPARTS.COM, INC.",revenue,Q4,2024,Core outcome variables missing.,WARNING
+0001397187,missing_core_outcomes,lululemon athletica inc.,revenue,Q2,2018,Core outcome variables missing.,WARNING
+0001397187,missing_core_outcomes,lululemon athletica inc.,revenue,Q3,2018,Core outcome variables missing.,WARNING
+0001397187,missing_core_outcomes,lululemon athletica inc.,revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001397187,missing_core_outcomes,lululemon athletica inc.,revenue,Q1,2019,Core outcome variables missing.,WARNING
+0001397187,missing_core_outcomes,lululemon athletica inc.,revenue,Q2,2019,Core outcome variables missing.,WARNING
+0001397187,missing_core_outcomes,lululemon athletica inc.,revenue,Q4,2019,Core outcome variables missing.,WARNING
+0001428439,missing_core_outcomes,"Roku, Inc.",revenue; gross_profit; operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0001428439,missing_core_outcomes,"Roku, Inc.",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",revenue; gross_profit; operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",revenue; gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q1,2022,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q2,2022,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q3,2022,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q4,2022,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q1,2023,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q2,2023,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q3,2023,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q4,2023,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q1,2024,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q2,2024,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q3,2024,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q4,2024,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q1,2025,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q2,2025,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q3,2025,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q4,2025,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q1,2026,Core outcome variables missing.,WARNING
+0001433195,missing_core_outcomes,"AppFolio, Inc.",gross_profit,Q2,2026,Core outcome variables missing.,WARNING
+0001484778,suspicious_gross_margin,ThredUp Inc.,1.579462898037373,Q4,2024,Gross margin outside expected review bounds.,WARNING
+0001490281,missing_core_outcomes,"Groupon, Inc.",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001493761,missing_core_outcomes,TURTLE BEACH CORPORATION,revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001493761,missing_core_outcomes,TURTLE BEACH CORPORATION,revenue,Q4,2019,Core outcome variables missing.,WARNING
+0001495320,missing_core_outcomes,"VERA BRADLEY, INC.",revenue,Q4,2019,Core outcome variables missing.,WARNING
+0001504776,missing_core_outcomes,Warby Parker Inc.,revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001523836,missing_core_outcomes,"LightInTheBox Holding Co., Ltd.",revenue; gross_profit; operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0001523836,missing_core_outcomes,"LightInTheBox Holding Co., Ltd.",revenue; gross_profit; operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0001523836,missing_core_outcomes,"LightInTheBox Holding Co., Ltd.",revenue; gross_profit; operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0001523836,missing_core_outcomes,"LightInTheBox Holding Co., Ltd.",revenue; gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0001523836,missing_core_outcomes,"LightInTheBox Holding Co., Ltd.",revenue; gross_profit; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0001523836,missing_core_outcomes,"LightInTheBox Holding Co., Ltd.",revenue; gross_profit; operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0001523836,missing_core_outcomes,"LightInTheBox Holding Co., Ltd.",revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001523836,missing_core_outcomes,"LightInTheBox Holding Co., Ltd.",revenue; gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0001523836,missing_core_outcomes,"LightInTheBox Holding Co., Ltd.",revenue; gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0001523836,missing_core_outcomes,"LightInTheBox Holding Co., Ltd.",revenue; gross_profit; operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0001523836,missing_core_outcomes,"LightInTheBox Holding Co., Ltd.",revenue; gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0001524025,missing_core_outcomes,"TILLY'S, INC.",revenue,Q4,2019,Core outcome variables missing.,WARNING
+0001524025,missing_core_outcomes,"TILLY'S, INC.",revenue,Q4,2020,Core outcome variables missing.,WARNING
+0001524025,missing_core_outcomes,"TILLY'S, INC.",revenue,Q4,2021,Core outcome variables missing.,WARNING
+0001524025,missing_core_outcomes,"TILLY'S, INC.",revenue,Q4,2022,Core outcome variables missing.,WARNING
+0001524025,missing_core_outcomes,"TILLY'S, INC.",revenue,Q4,2023,Core outcome variables missing.,WARNING
+0001524025,missing_core_outcomes,"TILLY'S, INC.",revenue,Q4,2024,Core outcome variables missing.,WARNING
+0001524025,missing_core_outcomes,"TILLY'S, INC.",revenue,Q4,2025,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q1,2015,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q2,2015,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q3,2015,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q4,2015,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q1,2016,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q2,2016,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q3,2016,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q4,2016,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q1,2017,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q2,2017,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q3,2017,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q4,2017,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q1,2018,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q2,2018,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q3,2018,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q1,2019,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q2,2019,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q3,2019,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q4,2019,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q1,2020,Core outcome variables missing.,WARNING
+0001526520,suspicious_operating_margin,"TRIPADVISOR, INC.",-2.7796610169491527,Q2,2020,Operating margin outside expected review bounds.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q2,2020,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q3,2020,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q4,2020,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q1,2021,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q2,2021,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q3,2021,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q4,2021,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q1,2022,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q2,2022,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q3,2022,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q4,2022,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q1,2023,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q2,2023,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q3,2023,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q4,2023,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q1,2024,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q2,2024,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q3,2024,Core outcome variables missing.,WARNING
+0001526520,missing_core_outcomes,"TRIPADVISOR, INC.",gross_profit,Q4,2024,Core outcome variables missing.,WARNING
+0001531152,missing_core_outcomes,"BJ’S WHOLESALE CLUB HOLDINGS, INC.",revenue; gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0001576942,missing_core_outcomes,"STITCH FIX, INC.",revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001577552,missing_core_outcomes,Alibaba Group Holding Limited,revenue; gross_profit; operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0001577552,missing_core_outcomes,Alibaba Group Holding Limited,revenue; gross_profit; operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0001577552,missing_core_outcomes,Alibaba Group Holding Limited,revenue; gross_profit; operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0001577552,missing_core_outcomes,Alibaba Group Holding Limited,revenue; gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0001577552,missing_core_outcomes,Alibaba Group Holding Limited,revenue; gross_profit; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0001577552,missing_core_outcomes,Alibaba Group Holding Limited,revenue; gross_profit; operating_income,Q2,2020,Core outcome variables missing.,WARNING
+0001577552,missing_core_outcomes,Alibaba Group Holding Limited,revenue; gross_profit; operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0001577552,missing_core_outcomes,Alibaba Group Holding Limited,revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001577552,missing_core_outcomes,Alibaba Group Holding Limited,revenue; gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0001577552,missing_core_outcomes,Alibaba Group Holding Limited,revenue; gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0001577552,missing_core_outcomes,Alibaba Group Holding Limited,revenue; gross_profit; operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0001577552,missing_core_outcomes,Alibaba Group Holding Limited,revenue; gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0001577552,missing_core_outcomes,Alibaba Group Holding Limited,revenue; gross_profit; operating_income,Q4,2026,Core outcome variables missing.,WARNING
+0001579157,missing_core_outcomes,VINCE HOLDING CORP.,revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q4,2014,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q1,2015,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",revenue; gross_profit; operating_income,Q4,2015,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q1,2016,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q2,2016,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q3,2016,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",revenue; gross_profit; operating_income,Q4,2016,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q1,2017,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q2,2017,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q3,2017,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q1,2018,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q2,2018,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q3,2018,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q1,2019,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q2,2019,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q3,2019,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q1,2020,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q2,2020,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q3,2020,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q1,2021,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q2,2021,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q3,2021,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q1,2022,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q2,2022,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q3,2022,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q1,2023,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q2,2023,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q3,2023,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q1,2024,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q2,2024,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q3,2024,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q1,2025,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q2,2025,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q3,2025,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0001579298,missing_core_outcomes,"BURLINGTON STORES, INC.",operating_income,Q1,2026,Core outcome variables missing.,WARNING
+0001616707,missing_core_outcomes,Wayfair Inc.,revenue,Q4,2018,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q1,2021,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q2,2021,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q3,2021,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q4,2021,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q1,2022,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q2,2022,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q3,2022,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q4,2022,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q1,2023,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q2,2023,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q3,2023,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q4,2023,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q1,2024,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q2,2024,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q3,2024,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q4,2024,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q1,2025,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q2,2025,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q3,2025,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q4,2025,Core outcome variables missing.,WARNING
+0001670076,missing_core_outcomes,"Frontier Group Holdings, Inc.",gross_profit,Q1,2026,Core outcome variables missing.,WARNING
+0001670592,missing_core_outcomes,"YETI Holdings, Inc.",revenue; gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0001670592,missing_core_outcomes,"YETI Holdings, Inc.",revenue; gross_profit; operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,revenue; gross_profit,Q1,2017,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,revenue; gross_profit,Q2,2017,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,revenue; gross_profit,Q3,2017,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,revenue; gross_profit,Q4,2017,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,revenue; gross_profit,Q1,2018,Core outcome variables missing.,WARNING
+0001687229,suspicious_operating_margin,Invitation Homes Inc.,2.710686542095318,Q2,2018,Operating margin outside expected review bounds.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit,Q2,2018,Core outcome variables missing.,WARNING
+0001687229,suspicious_operating_margin,Invitation Homes Inc.,2.781807312942114,Q3,2018,Operating margin outside expected review bounds.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit,Q3,2018,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q1,2019,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q2,2019,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q3,2019,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,revenue; gross_profit; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,revenue; gross_profit; operating_income,Q1,2020,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,revenue; gross_profit; operating_income,Q2,2020,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,revenue; gross_profit; operating_income,Q3,2020,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,revenue; gross_profit; operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q1,2021,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q2,2021,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q3,2021,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q1,2022,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q2,2022,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q3,2022,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q1,2023,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q2,2023,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q3,2023,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q1,2024,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q2,2024,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q3,2024,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q1,2025,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q2,2025,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q3,2025,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q1,2026,Core outcome variables missing.,WARNING
+0001687229,missing_core_outcomes,Invitation Homes Inc.,gross_profit; operating_income,Q2,2026,Core outcome variables missing.,WARNING
+0001690511,missing_core_outcomes,CANADA GOOSE HOLDINGS INC.,revenue; gross_profit; operating_income,Q4,2018,Core outcome variables missing.,WARNING
+0001690511,missing_core_outcomes,CANADA GOOSE HOLDINGS INC.,revenue; gross_profit; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0001690511,missing_core_outcomes,CANADA GOOSE HOLDINGS INC.,revenue; gross_profit; operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0001690511,missing_core_outcomes,CANADA GOOSE HOLDINGS INC.,revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001690511,missing_core_outcomes,CANADA GOOSE HOLDINGS INC.,revenue; gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0001690511,missing_core_outcomes,CANADA GOOSE HOLDINGS INC.,revenue; gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0001690511,missing_core_outcomes,CANADA GOOSE HOLDINGS INC.,revenue; gross_profit; operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0001690511,missing_core_outcomes,CANADA GOOSE HOLDINGS INC.,revenue; gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q2,2020,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q3,2020,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",revenue; gross_profit; operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q1,2021,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q2,2021,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q3,2021,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q1,2022,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q2,2022,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q3,2022,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q1,2023,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q2,2023,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q3,2023,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q1,2024,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q2,2024,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q3,2024,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q1,2025,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q2,2025,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q3,2025,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q1,2026,Core outcome variables missing.,WARNING
+0001691421,missing_core_outcomes,"Lemonade, Inc.",gross_profit; operating_income,Q2,2026,Core outcome variables missing.,WARNING
+0001701758,missing_core_outcomes,THE LOVESAC COMPANY,revenue; gross_profit; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0001701758,missing_core_outcomes,THE LOVESAC COMPANY,revenue,Q4,2020,Core outcome variables missing.,WARNING
+0001701758,missing_core_outcomes,THE LOVESAC COMPANY,revenue,Q4,2021,Core outcome variables missing.,WARNING
+0001701758,missing_core_outcomes,THE LOVESAC COMPANY,revenue,Q4,2022,Core outcome variables missing.,WARNING
+0001704711,missing_core_outcomes,"FUNKO, INC.",revenue; gross_profit; operating_income,Q3,2017,Core outcome variables missing.,WARNING
+0001704711,missing_core_outcomes,"FUNKO, INC.",revenue; gross_profit; operating_income,Q4,2017,Core outcome variables missing.,WARNING
+0001704711,missing_core_outcomes,"FUNKO, INC.",revenue; gross_profit,Q4,2018,Core outcome variables missing.,WARNING
+0001704711,missing_core_outcomes,"FUNKO, INC.",gross_profit,Q4,2024,Core outcome variables missing.,WARNING
+0001704711,missing_core_outcomes,"FUNKO, INC.",gross_profit,Q1,2025,Core outcome variables missing.,WARNING
+0001704711,missing_core_outcomes,"FUNKO, INC.",gross_profit,Q2,2025,Core outcome variables missing.,WARNING
+0001704711,missing_core_outcomes,"FUNKO, INC.",gross_profit,Q3,2025,Core outcome variables missing.,WARNING
+0001704711,missing_core_outcomes,"FUNKO, INC.",gross_profit,Q4,2025,Core outcome variables missing.,WARNING
+0001704711,missing_core_outcomes,"FUNKO, INC.",gross_profit,Q1,2026,Core outcome variables missing.,WARNING
+0001704711,missing_core_outcomes,"FUNKO, INC.",gross_profit,Q2,2026,Core outcome variables missing.,WARNING
+0001746618,missing_core_outcomes,"REVOLVE GROUP, INC.",revenue; gross_profit; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0001762301,missing_core_outcomes,Fiverr International Ltd.,revenue; gross_profit; operating_income,Q4,2019,Core outcome variables missing.,WARNING
+0001762301,missing_core_outcomes,Fiverr International Ltd.,revenue; gross_profit; operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0001762301,missing_core_outcomes,Fiverr International Ltd.,revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001762301,missing_core_outcomes,Fiverr International Ltd.,revenue; gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0001762301,missing_core_outcomes,Fiverr International Ltd.,revenue; gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0001762301,missing_core_outcomes,Fiverr International Ltd.,revenue; gross_profit; operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0001762301,missing_core_outcomes,Fiverr International Ltd.,revenue; gross_profit; operating_income,Q2,2025,Core outcome variables missing.,WARNING
+0001762301,missing_core_outcomes,Fiverr International Ltd.,revenue; gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0001792781,missing_core_outcomes,TORRID HOLDINGS INC.,revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",revenue; gross_profit; operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q1,2021,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q2,2021,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q3,2021,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q4,2021,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q1,2022,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q2,2022,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q3,2022,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q4,2022,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q1,2023,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q2,2023,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q3,2023,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q4,2023,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q1,2024,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q2,2024,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q3,2024,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q4,2024,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q1,2025,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q2,2025,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q3,2025,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q4,2025,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q1,2026,Core outcome variables missing.,WARNING
+0001792789,missing_core_outcomes,"DOORDASH, INC.",gross_profit,Q2,2026,Core outcome variables missing.,WARNING
+0001817358,missing_core_outcomes,"Academy Sports and Outdoors, Inc.",revenue; gross_profit; operating_income,Q4,2020,Core outcome variables missing.,WARNING
+0001828962,missing_core_outcomes,"Cricut, Inc.",revenue; gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0001846576,missing_core_outcomes,"FIGS, Inc.",revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q3,2021,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit,Q2,2022,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit,Q3,2022,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q1,2023,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q2,2023,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q3,2023,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q1,2024,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q2,2024,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q3,2024,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q1,2025,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q2,2025,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q3,2025,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q1,2026,Core outcome variables missing.,WARNING
+0001856031,missing_core_outcomes,Vivid Seats Inc.,gross_profit; operating_income,Q2,2026,Core outcome variables missing.,WARNING
+0001856437,missing_core_outcomes,VICTORIA'S SECRET & CO.,revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001858985,missing_core_outcomes,On Holding AG,revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001858985,missing_core_outcomes,On Holding AG,revenue; gross_profit; operating_income,Q4,2022,Core outcome variables missing.,WARNING
+0001858985,missing_core_outcomes,On Holding AG,revenue,Q2,2023,Core outcome variables missing.,WARNING
+0001858985,missing_core_outcomes,On Holding AG,revenue; gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0001858985,missing_core_outcomes,On Holding AG,revenue,Q2,2024,Core outcome variables missing.,WARNING
+0001858985,missing_core_outcomes,On Holding AG,revenue; gross_profit; operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0001858985,missing_core_outcomes,On Holding AG,revenue,Q2,2025,Core outcome variables missing.,WARNING
+0001858985,missing_core_outcomes,On Holding AG,revenue; gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0001866757,missing_core_outcomes,"Brilliant Earth Group, Inc.",revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001875444,missing_core_outcomes,"Arhaus, Inc.",revenue; gross_profit; operating_income,Q4,2021,Core outcome variables missing.,WARNING
+0001957132,missing_core_outcomes,"SHARKNINJA, INC.",revenue; gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0001957132,missing_core_outcomes,"SHARKNINJA, INC.",revenue; gross_profit; operating_income,Q4,2024,Core outcome variables missing.,WARNING
+0001957132,missing_core_outcomes,"SHARKNINJA, INC.",revenue; gross_profit; operating_income,Q4,2025,Core outcome variables missing.,WARNING
+0001977102,missing_core_outcomes,Birkenstock Holding plc,revenue; gross_profit; operating_income,Q4,2023,Core outcome variables missing.,WARNING
+0001977102,missing_core_outcomes,Birkenstock Holding plc,revenue,Q4,2025,Core outcome variables missing.,WARNING
+0001977102,missing_core_outcomes,Birkenstock Holding plc,revenue,Q1,2026,Core outcome variables missing.,WARNING
+,panel_row_count,,,,,Panel rows: 4675,INFO
