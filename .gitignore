@@ -1,35 +1,10 @@
-.venv/
-__pycache__/
-*.pyc
 .DS_Store
-.ipynb_checkpoints/
+.venv/
+node_modules/
+node_modules
+__pycache__/
+*.py[cod]
+*$py.class
+~$*
 
-# Raw scraped data and generated intermediate outputs.
-Data_Raw/*
-Data_Clean/*
-
-# Keep curated, research-ready checkpoint outputs in Git.
-!Data_Clean/final_outputs/
-!Data_Clean/final_outputs/*.xlsx
-!Data_Clean/final_outputs/*.csv
-
-# Large report archives and local caches should stay local.
-Analysis/BNPL_DiD_H1_H2/sec_cache/
-Data_Clean/Reports_SEC_2012_2026*/
-Data_Clean/financial_statement_cache_sec/
-Data_Clean/sec_report_archive_cache/
-Data_Clean/public_reference_cache/
-Data_Clean/*cache*.jsonl
-Data_Clean/*run_log*.csv
-Data_Clean/*full_run_log*.txt
-Data_Clean/~$*
-
-# Historical classifier drafts kept locally but not versioned.
-classify_merchants_from_web_only_calibrated_v2.py
-classify_merchants_from_web_only_calibrated_v3.py
-classify_merchants_from_web_only_calibrated_v4.py
-classify_merchants_from_web_only_calibrated_v5.py
-classify_merchants_from_web_only_calibrated_v6.py
-classify_merchants_from_web_only_revised.py
-full_official_web_verify.py
-full_official_web_verify_v3.py
+data/merchant_ownership/cache/

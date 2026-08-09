@@ -1,0 +1,52 @@
+{
+  "scraped_at_utc": "2026-08-09T18:26:58.633402+00:00",
+  "files": {
+    "wide_csv": "data/merchant_list_raw_data/BNPL_Merchant_List.csv",
+    "long_csv": "data/merchant_list_raw_data/BNPL_Merchant_Categories.csv",
+    "json": "data/merchant_list_raw_data/bnpl_merchants.json",
+    "summary_json": "data/merchant_list_raw_data/scrape_summary.json"
+  },
+  "providers": [
+    {
+      "provider": "affirm",
+      "raw_merchant_category_hits": 221,
+      "merchant_provider_rows": 181,
+      "merchant_category_rows": 210,
+      "error": ""
+    },
+    {
+      "provider": "klarna",
+      "raw_merchant_category_hits": 4542,
+      "merchant_provider_rows": 2790,
+      "merchant_category_rows": 4505,
+      "error": ""
+    },
+    {
+      "provider": "afterpay",
+      "raw_merchant_category_hits": 3861,
+      "merchant_provider_rows": 3030,
+      "merchant_category_rows": 3823,
+      "error": ""
+    },
+    {
+      "provider": "zip",
+      "raw_merchant_category_hits": 850,
+      "merchant_provider_rows": 398,
+      "merchant_category_rows": 520,
+      "error": ""
+    },
+    {
+      "provider": "sezzle",
+      "raw_merchant_category_hits": 6279,
+      "merchant_provider_rows": 3035,
+      "merchant_category_rows": 5569,
+      "error": ""
+    }
+  ],
+  "totals": {
+    "raw_merchant_category_hits": 15753,
+    "merchant_provider_rows": 9434,
+    "merchant_category_rows": 14627,
+    "provider_errors": {}
+  }
+}
