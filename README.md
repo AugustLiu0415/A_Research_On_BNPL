@@ -1,4 +1,4 @@
-# Research of Merchant-side Effect of Buy Now Pay Later, BNPL
+# Research of Merchant-side Effect of Buy Now Pay Later (BNPL)
 
 This repository builds a merchant-level dataset for studying the merchant-side
 effects of Buy Now Pay Later (BNPL) adoption. The current project checkpoint
