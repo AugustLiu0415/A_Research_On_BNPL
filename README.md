@@ -5,7 +5,10 @@ effects of Buy Now Pay Later (BNPL) adoption. The current checkpoint scrapes
 official BNPL merchant directories, builds provider/category overlap outputs,
 and classifies merchants by public/private ownership and public-company size.
 It also builds BNPL adoption-date evidence outputs and a public-company
-quarterly SEC financial panel for downstream empirical analysis.
+quarterly SEC financial panel for downstream empirical analysis. A matched
+control-group pipeline screens potential untreated public firms, verifies BNPL
+exposure, constructs pre-period matching variables, and produces a comparable
+quarterly SEC panel with balance and pretrend diagnostics.
 
 ## Research Question
 
@@ -26,7 +29,8 @@ heterogeneous across firms with different size and bargaining power?
 3. Built overlap workbooks showing merchants that appear on multiple BNPL platforms and category-specific merchant coverage by provider.
 4. Built a merchant ownership dataset that classifies merchants as public or private using SEC ticker data, enriches matched public companies with 2026-07-31 market data, and assigns market-cap size buckets.
 5. Built a conservative BNPL adoption-date evidence dataset for public merchants; unresolved adoption dates are flagged for manual review rather than imputed.
-6. Built a quarterly SEC financial panel for the unique public parent-company CIKs in the BNPL merchant sample.
+6. Built a quarterly SEC financial panel for BNPL-treated public merchants at the unique public-parent-company CIK level, covering pre- and post-adoption periods and collecting standardized firm-level outcomes such as revenue, profitability, assets, and other accounting measures.
+7. Built a quarterly control-group panel of comparable publicly listed firms without observed BNPL adoption, selected using industry, firm-size, and reporting-period comparability to construct credible untreated and not-yet-treated comparison groups for staggered Difference-in-Differences and event-study analysis.
 
 ## Data Sources
 
@@ -96,15 +100,32 @@ heterogeneous across firms with different size and bargaining power?
     │   ├── build_overlap_merchant_lists.mjs
     │   ├── BNPL_Merchant_Overlap_List.xlsx
     │   └── BNPL_Merchant_with_Category_List.xlsx
-    └── public_company_panel/
-        ├── build_public_company_panel.py
-        ├── build_public_company_panel_workbook.mjs
-        ├── sec_client.py
-        ├── extract_companyfacts.py
-        ├── fiscal_quarter_parser.py
-        ├── concept_mapping.py
-        ├── validate_panel.py
-        └── export_panel.py
+    ├── public_company_panel/
+    │   ├── build_public_company_panel.py
+    │   ├── build_public_company_panel_workbook.mjs
+    │   ├── sec_client.py
+    │   ├── extract_companyfacts.py
+    │   ├── fiscal_quarter_parser.py
+    │   ├── concept_mapping.py
+    │   ├── validate_panel.py
+    │   └── export_panel.py
+    └── controls_group_panel_data/
+        ├── README.md
+        ├── build_controls_group_panel.py
+        ├── build_controls_group_panel_workbook.mjs
+        ├── controls_group_panel_data_2015_2026.xlsx
+        ├── controls_group_panel_data_2015_2026.csv
+        ├── controls_group_master.csv
+        ├── controls_candidate_donor_pool.csv
+        ├── controls_matching_results.csv
+        ├── matching_balance_diagnostics.csv
+        ├── pretrend_diagnostics.csv
+        ├── bnpl_control_verification_log.csv
+        ├── controls_group_panel_source_audit.csv
+        ├── controls_group_panel_validation_report.csv
+        ├── controls_group_panel_summary.json
+        ├── cache/
+        └── logs/
 ```
 
 Generated runtime folders such as `.venv/`, `__pycache__/`, and `node_modules/`
@@ -199,6 +220,38 @@ Outputs:
 - `data/public_company_panel_data/public_company_panel_manual_review.csv`
 - `data/public_company_panel_data/public_company_panel_summary.json`
 
+### `data_processing/controls_group_panel_data/build_controls_group_panel.py`
+
+Reconstructs the 127-company treated reference sample, screens the SEC issuer
+universe for economically comparable public firms, checks candidates for BNPL
+evidence, and performs nearest-neighbor matching without replacement using
+2015-2019 industry, size, accounting, and pretrend variables. It then reuses
+the treated-panel CompanyFacts extraction and validation modules to build an
+equivalent 2015-2026 quarterly panel for the selected controls.
+
+Core outputs:
+
+- `data_processing/controls_group_panel_data/controls_group_panel_data_2015_2026.csv`
+- `data_processing/controls_group_panel_data/controls_group_master.csv`
+- `data_processing/controls_group_panel_data/controls_candidate_donor_pool.csv`
+- `data_processing/controls_group_panel_data/controls_matching_results.csv`
+- `data_processing/controls_group_panel_data/matching_balance_diagnostics.csv`
+- `data_processing/controls_group_panel_data/pretrend_diagnostics.csv`
+- `data_processing/controls_group_panel_data/bnpl_control_verification_log.csv`
+- `data_processing/controls_group_panel_data/controls_group_panel_source_audit.csv`
+- `data_processing/controls_group_panel_data/controls_group_panel_validation_report.csv`
+- `data_processing/controls_group_panel_data/controls_group_panel_summary.json`
+
+### `data_processing/controls_group_panel_data/build_controls_group_panel_workbook.mjs`
+
+Packages the control panel, master sample, donor pool, matching diagnostics,
+BNPL verification evidence, SEC source audit, validation results, and
+processing summary into a formatted multi-sheet Excel workbook.
+
+Output:
+
+- `data_processing/controls_group_panel_data/controls_group_panel_data_2015_2026.xlsx`
+
 ## Current Final Output
 
 The current raw scrape checkpoint was generated on 2026-08-09 UTC:
@@ -230,6 +283,16 @@ The current public-company SEC panel checkpoint contains:
 - Full selected-fact source audit: 67,713 rows.
 - Validation errors: 0; validation warnings are preserved for missing core fields and suspicious values that need review.
 
+The current control-group checkpoint contains:
+
+- 127 treated public parent companies used as the matching reference sample.
+- 321 SEC-based donor-pool candidates, including 318 with no identified BNPL evidence, 1 with confirmed BNPL evidence, and 2 with ambiguous evidence.
+- 158 eligible candidates and 127 preferred matched controls; 2 initially selected controls were replaced after final BNPL screening.
+- 5,598 control-company fiscal-quarter rows covering FY2015 Q1 through FY2026 Q4.
+- 100% reported/derived coverage for revenue, gross profit, operating income, and net income in the final control panel.
+- Validation errors: 0; 105 warnings and 2 foreign-issuer manual-review rows are retained for research review.
+- Historical 2019 market capitalization was not constructed for matching. FY2019 revenue scale, log revenue, and log assets are used as pre-period size proxies.
+
 Final deliverables currently tracked in the project are:
 
 - `data/merchant_list_raw_data/BNPL_Merchant_List.csv`
@@ -256,6 +319,17 @@ Final deliverables currently tracked in the project are:
 - `data/public_company_panel_data/public_company_panel_validation_report.csv`
 - `data/public_company_panel_data/public_company_panel_manual_review.csv`
 - `data/public_company_panel_data/public_company_panel_summary.json`
+- `data_processing/controls_group_panel_data/controls_group_panel_data_2015_2026.xlsx`
+- `data_processing/controls_group_panel_data/controls_group_panel_data_2015_2026.csv`
+- `data_processing/controls_group_panel_data/controls_group_master.csv`
+- `data_processing/controls_group_panel_data/controls_candidate_donor_pool.csv`
+- `data_processing/controls_group_panel_data/controls_matching_results.csv`
+- `data_processing/controls_group_panel_data/matching_balance_diagnostics.csv`
+- `data_processing/controls_group_panel_data/pretrend_diagnostics.csv`
+- `data_processing/controls_group_panel_data/bnpl_control_verification_log.csv`
+- `data_processing/controls_group_panel_data/controls_group_panel_source_audit.csv`
+- `data_processing/controls_group_panel_data/controls_group_panel_validation_report.csv`
+- `data_processing/controls_group_panel_data/controls_group_panel_summary.json`
 
 ## Setup
 
@@ -325,6 +399,18 @@ export SEC_USER_AGENT="BNPL Merchant Research your-email@example.com"
 python data_processing/public_company_panel/build_public_company_panel.py --refresh
 ```
 
+Build the matched public-company control sample and equivalent quarterly SEC
+panel after the treated panel exists:
+
+```bash
+export SEC_USER_AGENT="BNPL Merchant Research your-email@example.com"
+python data_processing/controls_group_panel_data/build_controls_group_panel.py
+```
+
+The control pipeline writes its workbook, panel CSV, donor pool, matching
+diagnostics, BNPL verification log, source audit, validation outputs, cache,
+and processing logs to `data_processing/controls_group_panel_data/`.
+
 ## File Guide
 
 - `data/merchant_list_raw_data/`: raw and category-normalized merchant lists from the official BNPL provider directories.
@@ -333,3 +419,4 @@ python data_processing/public_company_panel/build_public_company_panel.py --refr
 - `data/adoption_date_data/`: conservative adoption-date evidence, first-BNPL summaries, manual-review queues, and cached page evidence.
 - `data/public_company_panel_data/`: CIK-level quarterly SEC financial panel, source-audit table, coverage summary, validation report, manual-review file, SEC cache, and processing logs.
 - `data_processing/public_company_panel/`: reusable SEC panel-building code, including concept mapping, fiscal-quarter parsing, validation, and workbook export.
+- `data_processing/controls_group_panel_data/`: control donor pool, BNPL screening evidence, matched-control master, balance and pretrend diagnostics, 2015-2026 quarterly SEC panel, workbook, cache, and processing logs.

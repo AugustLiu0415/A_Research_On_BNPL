@@ -1,0 +1,128 @@
+CIK,balance_sheet_coverage,coverage_status,exchange,expected_available_quarters,first_available_quarter,gross_profit_coverage,input_public_parent_company,last_available_quarter,merchant_count,missingness_rate,net_income_coverage,number_of_quarters,operating_income_coverage,revenue_coverage,sec_entity_name,ticker
+0001318605,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,"Tesla, Inc.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"Tesla, Inc.",TSLA
+0001571996,1.0,post_ipo_partial_history,NYSE,40,FY2017 Q1,1.0,Dell Technologies Inc.,FY2026 Q4,0,0.0,1.0,38,1.0,1.0,Dell Technologies Inc.,DELL
+0000051143,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,INTERNATIONAL BUSINESS MACHINES CORP,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,INTERNATIONAL BUSINESS MACHINES CORPORATION,IBM
+0001137789,1.0,complete_available_history,Nasdaq,47,FY2015 Q2,1.0,Seagate Technology Holdings plc,FY2026 Q4,0,0.0,1.0,46,1.0,1.0,Seagate Technology Holdings plc,STX
+0000804328,1.0,complete_available_history,Nasdaq,46,FY2015 Q2,1.0,QUALCOMM INC/DE,FY2026 Q3,0,0.0,1.0,46,1.0,1.0,QUALCOMM INC/DE,QCOM
+0000064803,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,CVS HEALTH Corp,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,CVS HEALTH CORPORATION,CVS
+0000829224,1.0,complete_available_history,Nasdaq,46,FY2015 Q2,1.0,STARBUCKS CORP,FY2026 Q3,0,0.0,1.0,46,1.0,1.0,Starbucks Corporation,SBUX
+0001262039,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,"Fortinet, Inc.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"FORTINET, INC.",FTNT
+0000865752,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,Monster Beverage Corp,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,Monster Beverage Corp,MNST
+0001690820,1.0,post_ipo_partial_history,NYSE,37,FY2017 Q2,1.0,CARVANA CO.,FY2026 Q2,0,0.0,1.0,37,1.0,1.0,CARVANA CO.,CVNA
+0000089800,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,SHERWIN WILLIAMS CO,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,THE SHERWIN-WILLIAMS COMPANY,SHW
+0000723254,1.0,complete_available_history,Nasdaq,45,FY2015 Q3,1.0,CINTAS CORP,FY2026 Q3,0,0.0,1.0,45,1.0,1.0,Cintas Corporation,CTAS
+0000745732,1.0,complete_available_history,Nasdaq,45,FY2015 Q1,1.0,"ROSS STORES, INC.",FY2026 Q1,0,0.0,1.0,45,1.0,1.0,"Ross Stores, Inc.",ROST
+0001467858,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,General Motors Co,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,GENERAL MOTORS COMPANY,GM
+0000898173,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,O REILLY AUTOMOTIVE INC,FY2026 Q2,0,0.0,1.0,45,1.0,1.0,O Reilly Automotive Inc,ORLY
+0000068505,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,"Motorola Solutions, Inc.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"MOTOROLA SOLUTIONS, INC.",MSI
+0001585689,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,Hilton Worldwide Holdings Inc.,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,Hilton Worldwide Holdings Inc.,HLT
+0000075362,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,PACCAR INC,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,PACCAR Inc,PCAR
+0001645590,1.0,complete_available_history,NYSE,43,FY2015 Q4,1.0,Hewlett Packard Enterprise Co,FY2026 Q2,0,0.0,1.0,43,1.0,1.0,HEWLETT PACKARD ENTERPRISE COMPANY,HPE
+0000037996,1.0,complete_available_history,NYSE,45,FY2015 Q1,1.0,FORD MOTOR CO,FY2026 Q1,0,0.0,1.0,45,1.0,1.0,Ford Motor Co,F
+0000815556,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,FASTENAL CO,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,FASTENAL CO,FAST
+0000936395,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,CIENA CORP,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,Ciena Corp,CIEN
+0001058090,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,CHIPOTLE MEXICAN GRILL INC,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"CHIPOTLE MEXICAN GRILL, INC.",CMG
+0001041061,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,YUM BRANDS INC,FY2026 Q2,0,0.0,1.0,45,1.0,1.0,"YUM! BRANDS, INC.",YUM
+0000100517,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,"United Airlines Holdings, Inc.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"United Airlines Holdings, Inc.",UAL
+0000815097,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,Carnival Corp Ltd.,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,Carnival Corporation Ltd.,CCL
+0001002047,1.0,complete_available_history,Nasdaq,46,FY2015 Q3,1.0,"NetApp, Inc.",FY2026 Q4,0,0.0,1.0,44,1.0,1.0,"NetApp, Inc.",NTAP
+0001511737,1.0,complete_available_history,NYSE,45,FY2015 Q3,1.0,Ubiquiti Inc.,FY2026 Q3,0,0.0,1.0,43,1.0,1.0,UBIQUITI INC.,UI
+0000726958,1.0,complete_available_history,Nasdaq,46,FY2015 Q3,1.0,CASEYS GENERAL STORES INC,FY2026 Q4,0,0.0,1.0,46,1.0,1.0,"CASEY'S GENERAL STORES, INC.",CASY
+0000935703,1.0,complete_available_history,Nasdaq,45,FY2015 Q1,1.0,"DOLLAR TREE, INC.",FY2026 Q1,0,0.0,1.0,45,1.0,1.0,"DOLLAR TREE, INC.",DLTR
+0000940944,1.0,complete_available_history,NYSE,46,FY2015 Q3,1.0,DARDEN RESTAURANTS INC,FY2026 Q4,0,0.0,1.0,46,1.0,1.0,"DARDEN RESTAURANTS, INC.",DRI
+0000092380,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,SOUTHWEST AIRLINES CO,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,SOUTHWEST AIRLINES CO.,LUV
+0000746515,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,EXPEDITORS INTERNATIONAL OF WASHINGTON INC,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"EXPEDITORS INTERNATIONAL OF WASHINGTON, INC.",EXPD
+0001375365,1.0,complete_available_history,Nasdaq,45,FY2015 Q3,1.0,"Super Micro Computer, Inc.",FY2026 Q3,0,0.0,1.0,41,1.0,1.0,"SUPER MICRO COMPUTER, INC.",SMCI
+0001043277,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,"C. H. ROBINSON WORLDWIDE, INC.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"C. H. ROBINSON WORLDWIDE, INC.",CHRW
+0001673358,1.0,post_ipo_partial_history,NYSE,39,FY2016 Q3,1.0,"Yum China Holdings, Inc.",FY2026 Q1,0,0.0,1.0,39,1.0,1.0,"Yum China Holdings, Inc.",YUMC
+0001019849,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,"PENSKE AUTOMOTIVE GROUP, INC.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"Penske Automotive Group, Inc.",PAG
+0001206264,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,SOMNIGROUP INTERNATIONAL INC.,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,SOMNIGROUP INTERNATIONAL INC.,SGI
+0001289460,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,"Texas Roadhouse, Inc.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"Texas Roadhouse, Inc.",TXRH
+0001319161,1.0,complete_available_history,Nasdaq,46,FY2015 Q2,1.0,Warner Music Group Corp.,FY2026 Q3,0,0.0,1.0,46,1.0,1.0,Warner Music Group Corp.,WMG
+0000317540,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,"Coca-Cola Consolidated, Inc.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"COCA-COLA CONSOLIDATED, INC.",COKE
+0001521332,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,Aptiv PLC,FY2026 Q2,0,0.0,1.0,45,1.0,1.0,APTIV PLC,APTV
+0000067347,1.0,complete_available_history,NYSE,48,FY2015 Q1,1.0,MODINE MANUFACTURING CO,FY2026 Q4,0,0.0,1.0,43,1.0,1.0,MODINE MANUFACTURING CO,MOD
+0000094845,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,LEVI STRAUSS & CO,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,LEVI STRAUSS & CO.,LEVI
+0001636519,1.0,post_ipo_partial_history,NYSE,43,FY2016 Q1,1.0,Madison Square Garden Sports Corp.,FY2026 Q3,0,0.0,1.0,43,1.0,1.0,MADISON SQUARE GARDEN SPORTS CORP.,MSGS
+0001411207,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,Allison Transmission Holdings Inc,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"ALLISON TRANSMISSION HOLDINGS, INC.",ALSN
+0000703351,1.0,complete_available_history,NYSE,45,FY2015 Q3,1.0,"BRINKER INTERNATIONAL, INC",FY2026 Q3,0,0.0,1.0,45,1.0,1.0,"BRINKER INTERNATIONAL, INC.",EAT
+0001034670,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,AUTOLIV INC,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"AUTOLIV, INC.",ALV
+0001023128,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,LITHIA MOTORS INC,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"Lithia Motors, Inc.",LAD
+0001341766,1.0,post_ipo_partial_history,Nasdaq,40,FY2016 Q3,1.0,"Celsius Holdings, Inc.",FY2026 Q2,0,0.0,1.0,40,1.0,1.0,"CELSIUS HOLDINGS, INC.",CELH
+0001316835,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,"Builders FirstSource, Inc.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"BUILDERS FIRSTSOURCE, INC.",BLDR
+0000056047,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,KIRBY CORP,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,KIRBY CORPORATION,KEX
+0000350698,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,"AUTONATION, INC.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"AUTONATION, INC.",AN
+0001653653,1.0,post_ipo_partial_history,Nasdaq,41,FY2016 Q2,1.0,"Red Rock Resorts, Inc.",FY2026 Q2,0,0.0,1.0,41,1.0,1.0,"RED ROCK RESORTS, INC.",RRR
+0001507079,1.0,post_ipo_partial_history,NYSE,38,FY2017 Q1,1.0,"Floor & Decor Holdings, Inc.",FY2026 Q2,0,0.0,1.0,38,1.0,1.0,"Floor & Decor Holdings, Inc.",FND
+0000040211,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,GATX CORP,FY2026 Q2,0,0.0,1.0,42,1.0,1.0,GATX Corporation,GATX
+0001012019,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,RUSH ENTERPRISES INC \TX\,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"RUSH ENTERPRISES, INC.",RUSHA
+0000003453,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,"Matson, Inc.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"Matson, Inc.",MATX
+0001041803,1.0,complete_available_history,Nasdaq,46,FY2015 Q2,1.0,PRICESMART INC,FY2026 Q3,0,0.0,1.0,46,1.0,1.0,"PriceSmart, Inc.",PSMT
+0001735707,1.0,post_ipo_partial_history,Nasdaq,31,FY2018 Q3,1.0,Garrett Motion Inc.,FY2026 Q1,0,0.0,1.0,31,1.0,1.0,Garrett Motion Inc.,GTX
+0001722684,1.0,post_ipo_partial_history,NYSE,34,FY2018 Q1,1.0,"WYNDHAM HOTELS & RESORTS, INC.",FY2026 Q2,0,0.0,1.0,34,1.0,1.0,"Wyndham Hotels & Resorts, Inc.",WH
+0000766421,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,"ALASKA AIR GROUP, INC.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"ALASKA AIR GROUP, INC.",ALK
+0001046311,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,CHOICE HOTELS INTERNATIONAL INC /DE,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,CHOICE HOTELS INTERNATIONAL INC /DE,CHH
+0001760965,1.0,post_ipo_partial_history,NYSE,29,FY2019 Q1,1.0,"Kontoor Brands, Inc.",FY2026 Q1,0,0.0,1.0,29,1.0,1.0,"KONTOOR BRANDS, INC.",KTB
+0001610250,1.0,complete_available_history,NYSE,45,FY2015 Q4,1.0,"Boot Barn Holdings, Inc.",FY2026 Q4,0,0.0,1.0,44,1.0,1.0,"Boot Barn Holdings, Inc.",BOOT
+0001639300,1.0,complete_available_history,Nasdaq,44,FY2015 Q2,1.0,"Ollie's Bargain Outlet Holdings, Inc.",FY2026 Q1,0,0.0,1.0,43,1.0,1.0,"Ollie’s Bargain Outlet Holdings, Inc.",OLLI
+0001637207,1.0,complete_available_history,NYSE,45,FY2015 Q2,1.0,"Planet Fitness, Inc.",FY2026 Q2,0,0.0,1.0,45,1.0,1.0,"PLANET FITNESS, INC.",PLNT
+0000063276,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,MATTEL INC /DE/,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,MATTEL INC /DE/,MAT
+0001646188,1.0,post_ipo_partial_history,Nasdaq,39,FY2016 Q3,1.0,Ondas Inc.,FY2026 Q1,0,0.0,1.0,38,1.0,1.0,Ondas Inc.,ONDS
+0001385280,1.0,complete_available_history,NYSE,45,FY2015 Q1,1.0,"Cinemark Holdings, Inc.",FY2026 Q1,0,0.0,1.0,45,1.0,1.0,"Cinemark Holdings, Inc.",CNK
+0001395942,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,"OPENLANE, Inc.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"OPENLANE, Inc.",OPLN
+0000868780,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,"Dorman Products, Inc.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"Dorman Products, Inc.",DORM
+0000932696,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,INSIGHT ENTERPRISES INC,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"INSIGHT ENTERPRISES, INC.",NSIT
+0000913241,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,"STEVEN MADDEN, LTD.",FY2026 Q2,0,0.0,1.0,45,1.0,1.0,"STEVEN MADDEN, LTD.",SHOO
+0000837465,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,Callaway Golf Co,FY2026 Q2,0,0.0,1.0,45,1.0,1.0,Callaway Golf Company,CALY
+0001031203,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,GROUP 1 AUTOMOTIVE INC,FY2026 Q2,0,0.0,1.0,45,1.0,1.0,"Group 1 Automotive, Inc",GPI
+0001587523,1.0,complete_available_history,NYSE,45,FY2015 Q1,1.0,Knowles Corp,FY2026 Q1,0,0.0,1.0,45,1.0,1.0,Knowles Corporation,KN
+0000048287,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,HNI CORP,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,HNI Corporation,HNI
+0001617406,1.0,post_ipo_partial_history,NYSE,38,FY2017 Q1,1.0,Park Hotels & Resorts Inc.,FY2026 Q2,0,0.0,1.0,38,1.0,1.0,Park Hotels & Resorts Inc.,PK
+0000069891,1.0,complete_available_history,Nasdaq,46,FY2015 Q3,1.0,NATIONAL BEVERAGE CORP,FY2026 Q4,0,0.0,1.0,46,1.0,1.0,National Beverage Corp.,FIZZ
+0000940942,1.0,complete_available_history,Nasdaq,43,FY2015 Q1,1.0,"Hub Group, Inc.",FY2025 Q3,0,0.0,1.0,43,1.0,1.0,"HUB GROUP, INC.",HUBG
+0001111335,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,VISTEON CORP,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,VISTEON CORP,VC
+0000921738,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,"PENN Entertainment, Inc.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"PENN Entertainment, Inc.",PENN
+0001620533,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,Shake Shack Inc.,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,SHAKE SHACK INC.,SHAK
+0000854775,1.0,complete_available_history,Nasdaq,46,FY2015 Q2,1.0,DIGI INTERNATIONAL INC,FY2026 Q3,0,0.0,1.0,45,1.0,1.0,DIGI INTERNATIONAL INC.,DGII
+0000028823,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,"DIEBOLD NIXDORF, Inc",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"Diebold Nixdorf, Incorporated",DBD
+0001024305,1.0,complete_available_history,NYSE,45,FY2015 Q3,1.0,COTY INC.,FY2026 Q3,0,0.0,1.0,45,1.0,1.0,COTY INC.,COTY
+0001589526,1.0,complete_available_history,Nasdaq,46,FY2015 Q2,1.0,Blue Bird Corp,FY2026 Q3,0,0.0,1.0,46,1.0,1.0,BLUE BIRD CORPORATION,BLBD
+0000078814,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,PITNEY BOWES INC /DE/,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,PITNEY BOWES INC,PBI
+0001158463,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,JETBLUE AIRWAYS CORP,FY2026 Q2,0,0.0,1.0,45,1.0,1.0,JETBLUE AIRWAYS CORP,JBLU
+0000907242,1.0,complete_available_history,Nasdaq,45,FY2015 Q1,1.0,MONARCH CASINO & RESORT INC,FY2026 Q1,0,0.0,1.0,45,1.0,1.0,"MONARCH CASINO & RESORT, INC.",MCRI
+0001530721,1.0,foreign_issuer_partial_history,NYSE,45,FY2015 Q4,1.0,Capri Holdings Ltd,FY2026 Q4,0,0.0,1.0,45,1.0,1.0,CAPRI HOLDINGS LIMITED,CPRI
+0001670541,1.0,post_ipo_partial_history,NYSE,39,FY2017 Q1,1.0,Adient plc,FY2026 Q3,0,0.0,1.0,39,1.0,1.0,Adient plc,ADNT
+0000926326,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,"OMNICELL, INC.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"OMNICELL, INC",OMCL
+0000057131,1.0,complete_available_history,NYSE,46,FY2015 Q3,1.0,LA-Z-BOY INC,FY2026 Q4,0,0.0,1.0,45,1.0,1.0,La-Z-Boy Incorporated,LZB
+0000066382,1.0,complete_available_history,Nasdaq,46,FY2015 Q3,1.0,"MILLERKNOLL, INC.",FY2026 Q4,0,0.0,1.0,46,1.0,1.0,"MillerKnoll, Inc.",MLKN
+0000069633,1.0,complete_available_history,Nasdaq,45,FY2015 Q3,1.0,"NAPCO SECURITY TECHNOLOGIES, INC",FY2026 Q3,0,0.0,1.0,44,1.0,1.0,"NAPCO SECURITY TECHNOLOGIES, INC",NSSC
+0000851310,1.0,complete_available_history,Nasdaq,44,FY2015 Q1,1.0,HARMONIC INC.,FY2025 Q4,0,0.0,1.0,44,1.0,1.0,HARMONIC INC.,HLIT
+0001096752,1.0,complete_available_history,NYSE,46,FY2015 Q2,1.0,EDGEWELL PERSONAL CARE Co,FY2026 Q3,0,0.0,1.0,45,1.0,1.0,EDGEWELL PERSONAL CARE COMPANY,EPC
+0000901491,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,PAPA JOHNS INTERNATIONAL INC,FY2026 Q2,0,0.0,1.0,45,1.0,1.0,"PAPA JOHN’S INTERNATIONAL, INC.",PZZA
+0000062234,1.0,complete_available_history,NYSE,44,FY2015 Q3,1.0,MARCUS CORP,FY2026 Q2,0,0.0,1.0,44,1.0,1.0,MARCUS CORP,MCS
+0001682745,1.0,post_ipo_partial_history,Nasdaq,38,FY2017 Q1,1.0,VERRA MOBILITY Corp,FY2026 Q2,0,0.0,1.0,38,1.0,1.0,VERRA MOBILITY CORPORATION,VRRM
+0001345126,1.0,complete_available_history,NYSE,45,FY2015 Q1,1.0,Compass Diversified Holdings,FY2026 Q1,0,0.0,1.0,44,1.0,1.0,COMPASS DIVERSIFIED HOLDINGS,CODI
+0001547459,1.0,complete_available_history,NYSE,46,FY2015 Q2,1.0,"Natural Grocers by Vitamin Cottage, Inc.",FY2026 Q3,0,0.0,1.0,41,1.0,1.0,"Natural Grocers by Vitamin Cottage, Inc.",NGVC
+0001546417,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,"Bloomin' Brands, Inc.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"BLOOMIN’ BRANDS, INC.",BLMN
+0000926282,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,"ADTRAN Holdings, Inc.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"ADTRAN Holdings, Inc.",ADTN
+0001517396,1.0,foreign_issuer_partial_history,Nasdaq,44,FY2015 Q1,1.0,STRATASYS LTD.,FY2025 Q4,0,0.0,1.0,37,1.0,1.0,STRATASYS LTD.,SSYS
+0001747079,1.0,post_ipo_partial_history,NYSE,29,FY2019 Q1,1.0,Bally's Corp,FY2026 Q1,0,0.0,1.0,26,1.0,1.0,BALLY'S CORPORATION,BALY
+0001122904,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,"NETGEAR, INC.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"NETGEAR, Inc.",NTGR
+0000075288,1.0,complete_available_history,NYSE,45,FY2015 Q1,1.0,OXFORD INDUSTRIES INC,FY2026 Q1,0,0.0,1.0,45,1.0,1.0,"OXFORD INDUSTRIES, INC.",OXM
+0000896156,1.0,complete_available_history,NYSE,45,FY2015 Q3,1.0,ETHAN ALLEN INTERIORS INC,FY2026 Q3,0,0.0,1.0,41,1.0,1.0,Ethan Allen Interiors Inc.,ETD
+0000701719,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,Envela Corp,FY2026 Q2,0,0.0,1.0,45,1.0,1.0,ENVELA CORPORATION,ELA
+0001318484,1.0,complete_available_history,Nasdaq,45,FY2015 Q1,1.0,Citi Trends Inc,FY2026 Q1,0,0.0,1.0,45,1.0,1.0,"CITI TRENDS, INC.",CTRN
+0001473334,1.0,complete_available_history,Nasdaq,45,FY2015 Q1,1.0,XMax Inc.,FY2026 Q1,0,0.0,1.0,45,1.0,1.0,XMAX INC.,XMAX
+0001606909,1.0,complete_available_history,Nasdaq,45,FY2015 Q1,1.0,Pangaea Logistics Solutions Ltd.,FY2026 Q1,0,0.0,1.0,45,1.0,1.0,PANGAEA LOGISTICS SOLUTIONS LTD.,PANL
+0000912728,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,FORWARD AIR CORP,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,FORWARD AIR CORPORATION,FWRD
+0000895447,1.0,complete_available_history,Nasdaq,45,FY2015 Q1,1.0,SHOE STATION GROUP INC,FY2026 Q1,0,0.0,1.0,43,1.0,1.0,"Shoe Carnival, Inc.",SHOE
+0000216085,1.0,complete_available_history,NYSE,46,FY2015 Q1,1.0,HAVERTY FURNITURE COMPANIES INC,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"HAVERTY FURNITURE COMPANIES, INC",HVT
+0001669779,1.0,post_ipo_partial_history,NYSE,39,FY2016 Q4,1.0,"Camping World Holdings, Inc.",FY2026 Q2,0,0.0,1.0,39,1.0,1.0,"CAMPING WORLD HOLDINGS, INC.",CWH
+0000933034,1.0,complete_available_history,Nasdaq,45,FY2015 Q3,1.0,STRATTEC SECURITY CORP,FY2026 Q3,0,0.0,1.0,44,1.0,1.0,STRATTEC SECURITY CORP,STRT
+0000895456,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,"ROCKY BRANDS, INC.",FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"ROCKY BRANDS, INC.",RCKY
+0000807882,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,JACK IN THE BOX INC,FY2026 Q2,0,0.0,1.0,45,1.0,1.0,JACK IN THE BOX INC.,JACK
+0001319947,1.0,complete_available_history,NYSE,45,FY2015 Q1,1.0,Designer Brands Inc.,FY2026 Q1,0,0.0,1.0,45,1.0,1.0,DESIGNER BRANDS INC.,DBI
+0000002186,1.0,complete_available_history,NYSE,45,FY2015 Q1,1.0,BK Technologies Corp,FY2026 Q1,0,0.0,1.0,43,1.0,1.0,BK Technologies Corp,BKTI
+0000037472,1.0,complete_available_history,Nasdaq,42,FY2015 Q3,1.0,FLEXSTEEL INDUSTRIES INC,FY2025 Q4,0,0.0,1.0,42,1.0,1.0,"FLEXSTEEL INDUSTRIES, INC.",FLXS
+0001009829,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,JAKKS PACIFIC INC,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"JAKKS Pacific, Inc.",JAKK
+0000033488,1.0,complete_available_history,Nasdaq,46,FY2015 Q1,1.0,ESCALADE INC,FY2026 Q2,0,0.0,1.0,46,1.0,1.0,"ESCALADE, INCORPORATED",ESCA

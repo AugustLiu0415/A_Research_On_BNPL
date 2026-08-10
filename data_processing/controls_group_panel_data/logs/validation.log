@@ -1,0 +1,612 @@
+2026-08-09 20:50:53,132 INFO INFO panel_row_count Panel rows: 352
+2026-08-09 20:50:53,132 INFO INFO treated_overlap_check Controls overlapping treated CIKs: 0
+2026-08-09 20:50:53,132 INFO INFO duplicate_control_cik_check Duplicate preferred control CIKs: 0
+2026-08-09 20:50:53,132 INFO INFO preferred_control_bnpl_status_check Preferred controls without NO_BNPL_EVIDENCE: 0
+2026-08-09 20:50:53,132 INFO INFO matching_uses_pre_2020_check Matching variables are all constructed from fiscal years 2015-2019.
+2026-08-09 20:50:53,132 INFO INFO panel_unique_key_check Duplicate CIK x fiscal_year x fiscal_quarter keys: 0
+2026-08-09 20:50:53,132 INFO WARNING match_count_check Preferred matched controls: 8
+2026-08-09 21:13:22,546 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,546 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,546 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,546 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,546 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,546 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,546 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,546 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,546 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,546 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,546 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:13:22,546 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,546 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,547 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,547 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,548 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,548 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,549 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,549 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,549 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,549 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:13:22,549 INFO INFO panel_row_count Panel rows: 5570
+2026-08-09 21:13:22,549 INFO INFO treated_overlap_check Controls overlapping treated CIKs: 0
+2026-08-09 21:13:22,549 INFO INFO duplicate_control_cik_check Duplicate preferred control CIKs: 0
+2026-08-09 21:13:22,549 INFO INFO preferred_control_bnpl_status_check Preferred controls without NO_BNPL_EVIDENCE: 0
+2026-08-09 21:13:22,549 INFO INFO matching_uses_pre_2020_check Matching variables are all constructed from fiscal years 2015-2019.
+2026-08-09 21:13:22,549 INFO INFO panel_unique_key_check Duplicate CIK x fiscal_year x fiscal_quarter keys: 0
+2026-08-09 21:13:22,549 INFO INFO match_count_check Preferred matched controls: 127
+2026-08-09 21:26:27,310 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,311 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,312 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,312 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,312 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:26:27,312 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:26:27,312 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,312 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,312 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,312 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:26:27,312 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:26:27,312 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:26:27,312 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:26:27,312 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:26:27,312 INFO INFO panel_row_count Panel rows: 5546
+2026-08-09 21:26:27,312 INFO INFO treated_overlap_check Controls overlapping treated CIKs: 0
+2026-08-09 21:26:27,312 INFO INFO duplicate_control_cik_check Duplicate preferred control CIKs: 0
+2026-08-09 21:26:27,312 INFO INFO preferred_control_bnpl_status_check Preferred controls without NO_BNPL_EVIDENCE: 0
+2026-08-09 21:26:27,312 INFO INFO matching_uses_pre_2020_check Matching variables are all constructed from fiscal years 2015-2019.
+2026-08-09 21:26:27,312 INFO INFO panel_unique_key_check Duplicate CIK x fiscal_year x fiscal_quarter keys: 0
+2026-08-09 21:26:27,312 INFO INFO match_count_check Preferred matched controls: 125
+2026-08-09 21:34:40,450 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,451 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,451 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,452 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:34:40,452 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:34:40,452 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,452 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:34:40,452 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,452 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,452 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,452 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:34:40,452 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:34:40,452 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,452 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,452 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,452 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,452 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:34:40,452 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:34:40,452 INFO WARNING extreme_revenue_growth_yoy Extreme YoY revenue growth flagged.
+2026-08-09 21:34:40,452 INFO WARNING negative_revenue Negative revenue flagged for review.
+2026-08-09 21:34:40,452 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,452 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:34:40,452 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,452 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:34:40,452 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,452 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:34:40,452 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:34:40,452 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,452 INFO WARNING suspicious_gross_margin Gross margin outside expected review bounds.
+2026-08-09 21:34:40,452 INFO WARNING suspicious_operating_margin Operating margin outside expected review bounds.
+2026-08-09 21:34:40,452 INFO INFO panel_row_count Panel rows: 5598
+2026-08-09 21:34:40,452 INFO INFO treated_overlap_check Controls overlapping treated CIKs: 0
+2026-08-09 21:34:40,452 INFO INFO duplicate_control_cik_check Duplicate preferred control CIKs: 0
+2026-08-09 21:34:40,452 INFO INFO preferred_control_bnpl_status_check Preferred controls without NO_BNPL_EVIDENCE: 0
+2026-08-09 21:34:40,452 INFO INFO matching_uses_pre_2020_check Matching variables are all constructed from fiscal years 2015-2019.
+2026-08-09 21:34:40,452 INFO INFO panel_unique_key_check Duplicate CIK x fiscal_year x fiscal_quarter keys: 0
+2026-08-09 21:34:40,452 INFO INFO match_count_check Preferred matched controls: 127
