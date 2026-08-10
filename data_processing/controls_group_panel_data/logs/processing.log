@@ -1,0 +1,163 @@
+2026-08-09 20:50:05,400 INFO STEP 1/14: loading treated public-company universe
+2026-08-09 20:50:34,790 INFO Treated CIKs detected: 127
+2026-08-09 20:50:34,796 INFO STEP 2/14: treated profile written
+2026-08-09 20:50:34,797 INFO STEP 3/14: building candidate donor pool from SEC ticker universe
+2026-08-09 20:50:38,637 INFO Candidate donor pool created: 8 relevant firms from 11 scanned SEC issuers
+2026-08-09 20:50:38,638 INFO STEP 4/14: verifying BNPL exposure for 8 candidates
+2026-08-09 20:50:43,737 INFO STEP 7/14: extracting SEC CompanyFacts panels for 8 candidate-pre-matching candidates
+2026-08-09 20:50:47,526 INFO STEP 9/14: performing transparent nearest-neighbor matching
+2026-08-09 20:50:47,527 INFO STEP 11/14: final BNPL screening pass for 8 preferred controls
+2026-08-09 20:50:47,575 INFO STEP 4/14: verifying BNPL exposure for 8 candidates
+2026-08-09 20:50:52,741 INFO STEP 7/14: extracting SEC CompanyFacts panels for 8 preferred-control-final-panel candidates
+2026-08-09 20:50:53,175 INFO STEP 14/14: writing Excel workbook
+2026-08-09 20:51:34,463 INFO STEP 1/14: loading treated public-company universe
+2026-08-09 20:51:34,693 INFO Treated CIKs detected: 127
+2026-08-09 20:51:34,695 INFO STEP 2/14: treated profile written
+2026-08-09 20:51:34,695 INFO STEP 3/14: building candidate donor pool from SEC ticker universe
+2026-08-09 20:52:43,409 INFO SEC submissions scanned=250 relevant_candidates=85
+2026-08-09 20:53:51,552 INFO SEC submissions scanned=500 relevant_candidates=155
+2026-08-09 20:54:58,802 INFO SEC submissions scanned=750 relevant_candidates=227
+2026-08-09 20:56:10,089 INFO SEC submissions scanned=1000 relevant_candidates=315
+2026-08-09 20:57:46,076 INFO SEC submissions scanned=1250 relevant_candidates=396
+2026-08-09 20:59:10,442 INFO SEC submissions scanned=1500 relevant_candidates=496
+2026-08-09 21:00:34,013 INFO SEC submissions scanned=1750 relevant_candidates=601
+2026-08-09 21:01:51,503 INFO SEC submissions scanned=2000 relevant_candidates=685
+2026-08-09 21:03:08,897 INFO SEC submissions scanned=2250 relevant_candidates=781
+2026-08-09 21:04:27,456 INFO SEC submissions scanned=2500 relevant_candidates=888
+2026-08-09 21:04:27,461 INFO Candidate donor pool created: 420 selected relevant firms from 2500 scanned SEC issuers
+2026-08-09 21:04:27,466 INFO STEP 4/14: verifying BNPL exposure for 420 candidates
+2026-08-09 21:04:57,955 INFO BNPL verification progress: 50/420 candidates checked
+2026-08-09 21:05:31,547 INFO BNPL verification progress: 100/420 candidates checked
+2026-08-09 21:06:05,017 INFO BNPL verification progress: 150/420 candidates checked
+2026-08-09 21:06:38,563 INFO BNPL verification progress: 200/420 candidates checked
+2026-08-09 21:07:12,108 INFO BNPL verification progress: 250/420 candidates checked
+2026-08-09 21:07:45,745 INFO BNPL verification progress: 300/420 candidates checked
+2026-08-09 21:08:19,259 INFO BNPL verification progress: 350/420 candidates checked
+2026-08-09 21:08:52,747 INFO BNPL verification progress: 400/420 candidates checked
+2026-08-09 21:09:06,180 INFO STEP 7/14: extracting SEC CompanyFacts panels for 419 candidate-pre-matching candidates
+2026-08-09 21:09:14,278 INFO CompanyFacts progress for candidate-pre-matching: 25/419
+2026-08-09 21:09:24,137 INFO CompanyFacts progress for candidate-pre-matching: 50/419
+2026-08-09 21:09:35,544 INFO CompanyFacts progress for candidate-pre-matching: 75/419
+2026-08-09 21:09:45,938 INFO CompanyFacts progress for candidate-pre-matching: 100/419
+2026-08-09 21:09:57,293 INFO CompanyFacts progress for candidate-pre-matching: 125/419
+2026-08-09 21:10:06,750 INFO CompanyFacts progress for candidate-pre-matching: 150/419
+2026-08-09 21:10:17,412 INFO CompanyFacts progress for candidate-pre-matching: 175/419
+2026-08-09 21:10:26,672 INFO CompanyFacts progress for candidate-pre-matching: 200/419
+2026-08-09 21:10:37,482 INFO CompanyFacts progress for candidate-pre-matching: 225/419
+2026-08-09 21:10:46,869 INFO CompanyFacts progress for candidate-pre-matching: 250/419
+2026-08-09 21:10:56,051 INFO CompanyFacts progress for candidate-pre-matching: 275/419
+2026-08-09 21:11:06,715 INFO CompanyFacts progress for candidate-pre-matching: 300/419
+2026-08-09 21:11:16,699 INFO CompanyFacts progress for candidate-pre-matching: 325/419
+2026-08-09 21:11:25,956 INFO CompanyFacts progress for candidate-pre-matching: 350/419
+2026-08-09 21:11:35,672 INFO CompanyFacts progress for candidate-pre-matching: 375/419
+2026-08-09 21:11:44,626 INFO CompanyFacts progress for candidate-pre-matching: 400/419
+2026-08-09 21:11:52,269 INFO STEP 9/14: performing transparent nearest-neighbor matching
+2026-08-09 21:11:52,324 INFO STEP 11/14: final BNPL screening pass for 127 preferred controls
+2026-08-09 21:11:52,371 INFO STEP 4/14: verifying BNPL exposure for 127 candidates
+2026-08-09 21:12:23,092 INFO BNPL verification progress: 50/127 candidates checked
+2026-08-09 21:12:58,884 INFO BNPL verification progress: 100/127 candidates checked
+2026-08-09 21:13:17,219 INFO STEP 7/14: extracting SEC CompanyFacts panels for 127 preferred-control-final-panel candidates
+2026-08-09 21:13:18,385 INFO CompanyFacts progress for preferred-control-final-panel: 25/127
+2026-08-09 21:13:19,480 INFO CompanyFacts progress for preferred-control-final-panel: 50/127
+2026-08-09 21:13:20,472 INFO CompanyFacts progress for preferred-control-final-panel: 75/127
+2026-08-09 21:13:21,484 INFO CompanyFacts progress for preferred-control-final-panel: 100/127
+2026-08-09 21:13:22,381 INFO CompanyFacts progress for preferred-control-final-panel: 125/127
+2026-08-09 21:13:22,961 INFO STEP 14/14: writing Excel workbook
+2026-08-09 21:15:21,181 INFO STEP 1/14: loading treated public-company universe
+2026-08-09 21:15:21,494 INFO Treated CIKs detected: 127
+2026-08-09 21:15:21,495 INFO STEP 2/14: treated profile written
+2026-08-09 21:15:21,495 INFO STEP 3/14: building candidate donor pool from SEC ticker universe
+2026-08-09 21:15:59,086 INFO SEC submissions scanned=250 relevant_candidates=33
+2026-08-09 21:16:41,547 INFO SEC submissions scanned=500 relevant_candidates=56
+2026-08-09 21:17:22,164 INFO SEC submissions scanned=750 relevant_candidates=84
+2026-08-09 21:18:04,327 INFO SEC submissions scanned=1000 relevant_candidates=113
+2026-08-09 21:18:40,215 INFO SEC submissions scanned=1250 relevant_candidates=158
+2026-08-09 21:19:14,500 INFO SEC submissions scanned=1500 relevant_candidates=194
+2026-08-09 21:19:51,381 INFO SEC submissions scanned=1750 relevant_candidates=220
+2026-08-09 21:20:31,559 INFO SEC submissions scanned=2000 relevant_candidates=249
+2026-08-09 21:21:06,303 INFO SEC submissions scanned=2250 relevant_candidates=283
+2026-08-09 21:21:54,822 INFO SEC submissions scanned=2500 relevant_candidates=321
+2026-08-09 21:21:54,824 INFO Candidate donor pool created: 321 selected relevant firms from 2500 scanned SEC issuers
+2026-08-09 21:21:54,834 INFO STEP 4/14: verifying BNPL exposure for 321 candidates
+2026-08-09 21:22:12,720 INFO BNPL verification progress: 50/321 candidates checked
+2026-08-09 21:22:28,029 INFO BNPL verification progress: 100/321 candidates checked
+2026-08-09 21:22:44,812 INFO BNPL verification progress: 150/321 candidates checked
+2026-08-09 21:23:04,869 INFO BNPL verification progress: 200/321 candidates checked
+2026-08-09 21:23:25,398 INFO BNPL verification progress: 250/321 candidates checked
+2026-08-09 21:23:45,776 INFO BNPL verification progress: 300/321 candidates checked
+2026-08-09 21:23:59,689 INFO STEP 7/14: extracting SEC CompanyFacts panels for 320 candidate-pre-matching candidates
+2026-08-09 21:24:06,880 INFO CompanyFacts progress for candidate-pre-matching: 25/320
+2026-08-09 21:24:12,844 INFO CompanyFacts progress for candidate-pre-matching: 50/320
+2026-08-09 21:24:18,976 INFO CompanyFacts progress for candidate-pre-matching: 75/320
+2026-08-09 21:24:24,303 INFO CompanyFacts progress for candidate-pre-matching: 100/320
+2026-08-09 21:24:32,654 INFO CompanyFacts progress for candidate-pre-matching: 125/320
+2026-08-09 21:24:37,732 INFO CompanyFacts progress for candidate-pre-matching: 150/320
+2026-08-09 21:24:45,568 INFO CompanyFacts progress for candidate-pre-matching: 175/320
+2026-08-09 21:24:51,651 INFO CompanyFacts progress for candidate-pre-matching: 200/320
+2026-08-09 21:24:58,939 INFO CompanyFacts progress for candidate-pre-matching: 225/320
+2026-08-09 21:25:06,115 INFO CompanyFacts progress for candidate-pre-matching: 250/320
+2026-08-09 21:25:14,782 INFO CompanyFacts progress for candidate-pre-matching: 275/320
+2026-08-09 21:25:20,150 INFO CompanyFacts progress for candidate-pre-matching: 300/320
+2026-08-09 21:25:28,874 INFO STEP 9/14: performing transparent nearest-neighbor matching
+2026-08-09 21:25:28,924 INFO STEP 11/14: final BNPL screening pass for 127 preferred controls
+2026-08-09 21:25:28,968 INFO STEP 4/14: verifying BNPL exposure for 127 candidates
+2026-08-09 21:25:44,749 INFO BNPL verification progress: 50/127 candidates checked
+2026-08-09 21:26:07,465 INFO BNPL verification progress: 100/127 candidates checked
+2026-08-09 21:26:20,841 WARNING Final screening removed 2 selected controls for contamination/review: ['0000020212', '0001590895']
+2026-08-09 21:26:20,849 INFO STEP 7/14: extracting SEC CompanyFacts panels for 125 preferred-control-final-panel candidates
+2026-08-09 21:26:22,144 INFO CompanyFacts progress for preferred-control-final-panel: 25/125
+2026-08-09 21:26:23,374 INFO CompanyFacts progress for preferred-control-final-panel: 50/125
+2026-08-09 21:26:24,460 INFO CompanyFacts progress for preferred-control-final-panel: 75/125
+2026-08-09 21:26:25,627 INFO CompanyFacts progress for preferred-control-final-panel: 100/125
+2026-08-09 21:26:27,138 INFO CompanyFacts progress for preferred-control-final-panel: 125/125
+2026-08-09 21:26:27,845 INFO STEP 14/14: writing Excel workbook
+2026-08-09 21:27:51,420 INFO STEP 1/14: loading treated public-company universe
+2026-08-09 21:27:51,680 INFO Treated CIKs detected: 127
+2026-08-09 21:27:51,681 INFO STEP 2/14: treated profile written
+2026-08-09 21:27:51,681 INFO STEP 3/14: building candidate donor pool from SEC ticker universe
+2026-08-09 21:28:28,172 INFO SEC submissions scanned=250 relevant_candidates=33
+2026-08-09 21:29:08,710 INFO SEC submissions scanned=500 relevant_candidates=56
+2026-08-09 21:29:47,970 INFO SEC submissions scanned=750 relevant_candidates=84
+2026-08-09 21:30:28,402 INFO SEC submissions scanned=1000 relevant_candidates=113
+2026-08-09 21:31:10,230 INFO SEC submissions scanned=1250 relevant_candidates=158
+2026-08-09 21:31:47,532 INFO SEC submissions scanned=1500 relevant_candidates=194
+2026-08-09 21:32:21,154 INFO SEC submissions scanned=1750 relevant_candidates=220
+2026-08-09 21:32:58,043 INFO SEC submissions scanned=2000 relevant_candidates=249
+2026-08-09 21:33:38,996 INFO SEC submissions scanned=2250 relevant_candidates=283
+2026-08-09 21:34:22,376 INFO SEC submissions scanned=2500 relevant_candidates=321
+2026-08-09 21:34:22,378 INFO Candidate donor pool created: 321 selected relevant firms from 2500 scanned SEC issuers
+2026-08-09 21:34:22,391 INFO STEP 4/14: verifying BNPL exposure for 321 candidates
+2026-08-09 21:34:22,557 INFO BNPL verification progress: 50/321 candidates checked
+2026-08-09 21:34:22,599 INFO BNPL verification progress: 100/321 candidates checked
+2026-08-09 21:34:22,632 INFO BNPL verification progress: 150/321 candidates checked
+2026-08-09 21:34:22,664 INFO BNPL verification progress: 200/321 candidates checked
+2026-08-09 21:34:22,695 INFO BNPL verification progress: 250/321 candidates checked
+2026-08-09 21:34:22,727 INFO BNPL verification progress: 300/321 candidates checked
+2026-08-09 21:34:22,744 INFO STEP 7/14: extracting SEC CompanyFacts panels for 320 candidate-pre-matching candidates
+2026-08-09 21:34:23,805 INFO CompanyFacts progress for candidate-pre-matching: 25/320
+2026-08-09 21:34:24,592 INFO CompanyFacts progress for candidate-pre-matching: 50/320
+2026-08-09 21:34:25,382 INFO CompanyFacts progress for candidate-pre-matching: 75/320
+2026-08-09 21:34:26,199 INFO CompanyFacts progress for candidate-pre-matching: 100/320
+2026-08-09 21:34:26,909 INFO CompanyFacts progress for candidate-pre-matching: 125/320
+2026-08-09 21:34:27,552 INFO CompanyFacts progress for candidate-pre-matching: 150/320
+2026-08-09 21:34:28,290 INFO CompanyFacts progress for candidate-pre-matching: 175/320
+2026-08-09 21:34:28,925 INFO CompanyFacts progress for candidate-pre-matching: 200/320
+2026-08-09 21:34:29,762 INFO CompanyFacts progress for candidate-pre-matching: 225/320
+2026-08-09 21:34:30,440 INFO CompanyFacts progress for candidate-pre-matching: 250/320
+2026-08-09 21:34:31,159 INFO CompanyFacts progress for candidate-pre-matching: 275/320
+2026-08-09 21:34:31,894 INFO CompanyFacts progress for candidate-pre-matching: 300/320
+2026-08-09 21:34:32,769 INFO STEP 9/14: performing transparent nearest-neighbor matching
+2026-08-09 21:34:32,814 INFO STEP 11/14: final BNPL screening pass for 127 preferred controls
+2026-08-09 21:34:32,861 INFO STEP 4/14: verifying BNPL exposure for 127 candidates
+2026-08-09 21:34:32,991 INFO BNPL verification progress: 50/127 candidates checked
+2026-08-09 21:34:33,023 INFO BNPL verification progress: 100/127 candidates checked
+2026-08-09 21:34:33,041 WARNING Final screening removed 2 selected controls for contamination/review: ['0000020212', '0001590895']
+2026-08-09 21:34:33,076 INFO STEP 4/14: verifying BNPL exposure for 1 candidates
+2026-08-09 21:34:33,603 INFO STEP 4/14: verifying BNPL exposure for 1 candidates
+2026-08-09 21:34:34,527 INFO STEP 7/14: extracting SEC CompanyFacts panels for 127 preferred-control-final-panel candidates
+2026-08-09 21:34:35,747 INFO CompanyFacts progress for preferred-control-final-panel: 25/127
+2026-08-09 21:34:36,940 INFO CompanyFacts progress for preferred-control-final-panel: 50/127
+2026-08-09 21:34:37,972 INFO CompanyFacts progress for preferred-control-final-panel: 75/127
+2026-08-09 21:34:39,147 INFO CompanyFacts progress for preferred-control-final-panel: 100/127
+2026-08-09 21:34:40,221 INFO CompanyFacts progress for preferred-control-final-panel: 125/127
+2026-08-09 21:34:40,857 INFO STEP 14/14: writing Excel workbook

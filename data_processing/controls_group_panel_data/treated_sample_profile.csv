@@ -1,0 +1,43 @@
+firm_count,profile_type,value
+127,number_of_firms,treated_public_parent_companies
+63,broad_bnpl_category,Apparel & Personal Care
+18,broad_bnpl_category,Electronics & Technology
+13,broad_bnpl_category,Home & Appliances
+9,broad_bnpl_category,Entertainment
+9,broad_bnpl_category,Kids & Toys
+7,broad_bnpl_category,Unclassified
+4,broad_bnpl_category,Automotive
+4,broad_bnpl_category,Sports & Leisure
+56,detailed_bnpl_category,Clothing & Accessories
+10,detailed_bnpl_category,Home & Appliances
+9,detailed_bnpl_category,Gaming & Entertainment
+9,detailed_bnpl_category,TV & Audio
+8,detailed_bnpl_category,Computers & Tablets
+7,detailed_bnpl_category,Unclassified
+7,detailed_bnpl_category,Health & Beauty
+7,detailed_bnpl_category,Toys & Hobbies
+4,detailed_bnpl_category,Automotive
+4,detailed_bnpl_category,Sports & Outdoor
+3,detailed_bnpl_category,Home Improvement
+2,detailed_bnpl_category,Kids & Family
+1,detailed_bnpl_category,Phones & Smartwatches
+30,size_bucket,Large-scale revenue proxy
+30,size_bucket,Mid-scale revenue proxy
+24,size_bucket,Unclassified
+21,size_bucket,Small-scale revenue proxy
+16,size_bucket,Unclassified
+6,size_bucket,Micro-scale revenue proxy
+70,category_confidence,MEDIUM
+26,category_confidence,HIGH
+24,category_confidence,LOW
+7,category_confidence,REVIEW
+6313000000.0,baseline_revenue_median,median
+26570550402.29885,baseline_revenue_mean,mean
+4863872000.0,baseline_assets_median,median
+297897243158.30096,baseline_assets_mean,mean
+0.40762679934779683,average_gross_margin_pre_median,median
+0.43814258690735514,average_gross_margin_pre_mean,mean
+0.06560821846927989,average_operating_margin_pre_median,median
+0.09607998127153855,average_operating_margin_pre_mean,mean
+0.04463484690988423,average_net_margin_pre_median,median
+0.0467055507037935,average_net_margin_pre_mean,mean

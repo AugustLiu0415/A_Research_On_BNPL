@@ -1,0 +1,391 @@
+2026-08-09 20:50:47,527 INFO Matched American Airlines Group Inc. to JOHNSON & JOHNSON distance=1.0197 quality=LOW
+2026-08-09 20:50:47,527 INFO Matched CANON INC to Alphabet Inc. distance=1.6950 quality=LOW
+2026-08-09 20:50:47,527 INFO Matched CATO CORP to AbbVie Inc. distance=2.0600 quality=LOW
+2026-08-09 20:50:47,527 INFO Matched TARGET CORP to CISCO SYSTEMS, INC. distance=1.5181 quality=LOW
+2026-08-09 20:50:47,527 INFO Matched DILLARD'S, INC. to INTEL CORP distance=2.0313 quality=LOW
+2026-08-09 20:50:47,527 INFO Matched DOLLAR GENERAL CORP to Broadcom Inc. distance=1.7147 quality=LOW
+2026-08-09 20:50:47,527 INFO Matched GAP INC to Meta Platforms, Inc. distance=2.4189 quality=REVIEW
+2026-08-09 20:50:47,527 INFO Matched GEORGIA POWER CO to Tesla, Inc. distance=999.9000 quality=REVIEW
+2026-08-09 21:11:52,271 INFO Matched American Airlines Group Inc. to SOUTHWEST AIRLINES CO distance=0.2043 quality=HIGH
+2026-08-09 21:11:52,273 INFO Matched CANON INC to Alphabet Inc. distance=1.7205 quality=LOW
+2026-08-09 21:11:52,273 INFO Matched CATO CORP to Citi Trends Inc distance=0.1182 quality=HIGH
+2026-08-09 21:11:52,274 INFO Matched TARGET CORP to ABBOTT LABORATORIES distance=0.1724 quality=HIGH
+2026-08-09 21:11:52,274 INFO Matched DILLARD'S, INC. to INSIGHT ENTERPRISES INC distance=0.1624 quality=HIGH
+2026-08-09 21:11:52,275 INFO Matched DOLLAR GENERAL CORP to DOLLAR TREE, INC. distance=0.0601 quality=HIGH
+2026-08-09 21:11:52,276 INFO Matched GAP INC to ROSS STORES, INC. distance=0.1401 quality=HIGH
+2026-08-09 21:11:52,276 INFO Matched GEORGIA POWER CO to Meta Platforms, Inc. distance=999.9000 quality=REVIEW
+2026-08-09 21:11:52,277 INFO Matched GOODYEAR TIRE & RUBBER CO /OH/ to Adient plc distance=0.1331 quality=HIGH
+2026-08-09 21:11:52,277 INFO Matched HP INC to DXC Technology Co distance=0.1903 quality=HIGH
+2026-08-09 21:11:52,278 INFO Matched LOWES COMPANIES INC to Builders FirstSource, Inc. distance=0.6862 quality=HIGH
+2026-08-09 21:11:52,278 INFO Matched TRAVELERS COMPANIES, INC. to Hilton Worldwide Holdings Inc. distance=0.7583 quality=HIGH
+2026-08-09 21:11:52,279 INFO Matched V F CORP to ECOLAB INC. distance=0.1408 quality=HIGH
+2026-08-09 21:11:52,279 INFO Matched Walmart Inc. to CVS HEALTH Corp distance=0.1190 quality=HIGH
+2026-08-09 21:11:52,280 INFO Matched WHIRLPOOL CORP /DE/ to APPLIED MATERIALS INC /DE distance=0.4253 quality=MEDIUM
+2026-08-09 21:11:52,281 INFO Matched Spectrum Brands Holdings, Inc. to Capri Holdings Ltd distance=0.4210 quality=HIGH
+2026-08-09 21:11:52,281 INFO Matched WOLVERINE WORLD WIDE INC /DE/ to Kontoor Brands, Inc. distance=0.1078 quality=HIGH
+2026-08-09 21:11:52,282 INFO Matched Sony Group Corp to INTERNATIONAL BUSINESS MACHINES CORP distance=1.5462 quality=MEDIUM
+2026-08-09 21:11:52,282 INFO Matched NIKE, Inc. to JOHNSON & JOHNSON distance=0.4286 quality=HIGH
+2026-08-09 21:11:52,283 INFO Matched Apple Inc. to CISCO SYSTEMS, INC. distance=0.2982 quality=HIGH
+2026-08-09 21:11:52,283 INFO Matched HOME DEPOT, INC. to SOMNIGROUP INTERNATIONAL INC. distance=0.8098 quality=HIGH
+2026-08-09 21:11:52,284 INFO Matched Bath & Body Works, Inc. to PERRIGO Co plc distance=0.0798 quality=HIGH
+2026-08-09 21:11:52,284 INFO Matched WILLIAMS SONOMA INC to Floor & Decor Holdings, Inc. distance=0.3006 quality=HIGH
+2026-08-09 21:11:52,285 INFO Matched AT&T INC. to FORD MOTOR CO distance=0.9428 quality=LOW
+2026-08-09 21:11:52,285 INFO Matched BEST BUY CO INC to ADOBE INC. distance=0.2139 quality=HIGH
+2026-08-09 21:11:52,286 INFO Matched Autodesk, Inc. to AMKOR TECHNOLOGY, INC. distance=0.0921 quality=HIGH
+2026-08-09 21:11:52,287 INFO Matched MICROSOFT CORP to Hewlett Packard Enterprise Co distance=0.5166 quality=HIGH
+2026-08-09 21:11:52,287 INFO Matched HARLEY-DAVIDSON, INC. to AUTOLIV INC distance=0.3743 quality=MEDIUM
+2026-08-09 21:11:52,288 INFO Matched Macy's, Inc. to TEVA PHARMACEUTICAL INDUSTRIES LTD distance=0.1691 quality=HIGH
+2026-08-09 21:11:52,288 INFO Matched LANDS' END, INC. to OXFORD INDUSTRIES INC distance=0.0429 quality=HIGH
+2026-08-09 21:11:52,289 INFO Matched NEWELL BRANDS INC. to AVIS BUDGET GROUP, INC. distance=0.8394 quality=LOW
+2026-08-09 21:11:52,289 INFO Matched WASTE MANAGEMENT INC to PACCAR INC distance=0.8640 quality=LOW
+2026-08-09 21:11:52,290 INFO Matched SCHOLASTIC CORP to STEVEN MADDEN, LTD. distance=0.8437 quality=LOW
+2026-08-09 21:11:52,291 INFO Matched AUTOZONE INC to O REILLY AUTOMOTIVE INC distance=0.0413 quality=HIGH
+2026-08-09 21:11:52,291 INFO Matched Fossil Group, Inc. to AMN HEALTHCARE SERVICES INC distance=0.2235 quality=HIGH
+2026-08-09 21:11:52,292 INFO Matched ROYAL CARIBBEAN CRUISES LTD to Park Hotels & Resorts Inc. distance=0.4617 quality=HIGH
+2026-08-09 21:11:52,292 INFO Matched BUCKLE INC to Alkermes plc. distance=0.3801 quality=HIGH
+2026-08-09 21:11:52,293 INFO Matched KOHLS Corp to COTY INC. distance=0.3599 quality=HIGH
+2026-08-09 21:11:52,296 INFO Matched ALLSTATE CORP to QUALCOMM INC/DE distance=1.0685 quality=LOW
+2026-08-09 21:11:52,297 INFO Matched SIRIUS XM HOLDINGS INC. to GoDaddy Inc. distance=0.1987 quality=HIGH
+2026-08-09 21:11:52,297 INFO Matched COSTCO WHOLESALE CORP /NEW to BIOMARIN PHARMACEUTICAL INC distance=0.9266 quality=MEDIUM
+2026-08-09 21:11:52,298 INFO Matched DECKERS OUTDOOR CORP to BIO-TECHNE Corp distance=0.3156 quality=HIGH
+2026-08-09 21:11:52,298 INFO Matched URBAN OUTFITTERS INC to OPKO HEALTH, INC. distance=0.5008 quality=HIGH
+2026-08-09 21:11:52,299 INFO Matched TRACTOR SUPPLY CO /DE/ to MILLERKNOLL, INC. distance=0.3425 quality=HIGH
+2026-08-09 21:11:52,299 INFO Matched AMERICAN EAGLE OUTFITTERS INC to PHIBRO ANIMAL HEALTH CORP distance=0.5184 quality=HIGH
+2026-08-09 21:11:52,300 INFO Matched ESTEE LAUDER COMPANIES INC to IONIS PHARMACEUTICALS INC distance=0.6795 quality=HIGH
+2026-08-09 21:11:52,300 INFO Matched AMAZON COM INC to MERCURY SYSTEMS INC distance=1.3185 quality=MEDIUM
+2026-08-09 21:11:52,300 INFO Matched ABERCROMBIE & FITCH CO /DE/ to Boot Barn Holdings, Inc. distance=0.6547 quality=HIGH
+2026-08-09 21:11:52,301 INFO Matched LOGITECH INTERNATIONAL S.A. to DIEBOLD NIXDORF, Inc distance=0.1551 quality=HIGH
+2026-08-09 21:11:52,301 INFO Matched RALPH LAUREN CORP to LEXICON PHARMACEUTICALS, INC. distance=0.8524 quality=HIGH
+2026-08-09 21:11:52,302 INFO Matched Childrens Place, Inc. to PRECIGEN, INC. distance=0.6032 quality=HIGH
+2026-08-09 21:11:52,302 INFO Matched NVIDIA CORP to Sabre Corp distance=0.2720 quality=HIGH
+2026-08-09 21:11:52,303 INFO Matched MARRIOTT INTERNATIONAL INC /MD/ to Travel & Leisure Co. distance=0.5407 quality=HIGH
+2026-08-09 21:11:52,303 INFO Matched COLUMBIA SPORTSWEAR CO to USANA HEALTH SCIENCES INC distance=0.7279 quality=HIGH
+2026-08-09 21:11:52,304 INFO Matched CARTERS INC to Theravance Biopharma, Inc. distance=0.7857 quality=HIGH
+2026-08-09 21:11:52,304 INFO Matched EBAY INC to AUTOMATIC DATA PROCESSING INC distance=0.4779 quality=MEDIUM
+2026-08-09 21:11:52,305 INFO Matched Booking Holdings Inc. to C. H. ROBINSON WORLDWIDE, INC. distance=0.4867 quality=HIGH
+2026-08-09 21:11:52,305 INFO Matched 1 800 FLOWERS COM INC to HAVERTY FURNITURE COMPANIES INC distance=0.3719 quality=HIGH
+2026-08-09 21:11:52,305 INFO Matched DICK'S SPORTING GOODS, INC. to LITHIA MOTORS INC distance=0.8104 quality=LOW
+2026-08-09 21:11:52,306 INFO Matched BUILD-A-BEAR WORKSHOP INC to Envela Corp distance=0.8977 quality=MEDIUM
+2026-08-09 21:11:52,306 INFO Matched TAPESTRY, INC. to ON SEMICONDUCTOR CORP distance=0.8880 quality=LOW
+2026-08-09 21:11:52,307 INFO Matched GARMIN LTD to Qorvo, Inc. distance=0.2552 quality=HIGH
+2026-08-09 21:11:52,307 INFO Matched BED BATH & BEYOND, INC. to Savara Inc distance=0.7316 quality=HIGH
+2026-08-09 21:11:52,308 INFO Matched SPORTSMAN'S WAREHOUSE HOLDINGS, INC. to OMEROS CORP distance=0.5337 quality=HIGH
+2026-08-09 21:11:52,308 INFO Matched ADVANCE AUTO PARTS INC to RYDER SYSTEM INC distance=0.1619 quality=HIGH
+2026-08-09 21:11:52,308 INFO Matched FIVE BELOW, INC to ENANTA PHARMACEUTICALS INC distance=0.8586 quality=HIGH
+2026-08-09 21:11:52,309 INFO Matched QVC INC to CACI INTERNATIONAL INC /DE/ distance=0.9324 quality=LOW
+2026-08-09 21:11:52,309 INFO Matched NELNET INC to PENSKE AUTOMOTIVE GROUP, INC. distance=1.1273 quality=LOW
+2026-08-09 21:11:52,309 INFO Matched Trip.com Group Ltd to Gen Digital Inc. distance=0.7432 quality=MEDIUM
+2026-08-09 21:11:52,310 INFO Matched Sonos Inc to EXTREME NETWORKS INC distance=0.0461 quality=HIGH
+2026-08-09 21:11:52,310 INFO Matched Roblox Corp to ELECTRONIC ARTS INC. distance=999.4000 quality=REVIEW
+2026-08-09 21:11:52,311 INFO Matched Zumiez Inc to Dorman Products, Inc. distance=0.7854 quality=LOW
+2026-08-09 21:11:52,311 INFO Matched Expedia Group, Inc. to GATX CORP distance=0.7061 quality=HIGH
+2026-08-09 21:11:52,311 INFO Matched GameStop Corp. to NetApp, Inc. distance=0.2726 quality=HIGH
+2026-08-09 21:11:52,312 INFO Matched Crocs, Inc. to ADMA BIOLOGICS, INC. distance=0.8094 quality=HIGH
+2026-08-09 21:11:52,312 INFO Matched Under Armour, Inc. to Palo Alto Networks Inc distance=0.9210 quality=LOW
+2026-08-09 21:11:52,312 INFO Matched StubHub Holdings, Inc. to CHIPOTLE MEXICAN GRILL INC distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,313 INFO Matched Sally Beauty Holdings, Inc. to CRACKER BARREL OLD COUNTRY STORE, INC distance=0.8140 quality=LOW
+2026-08-09 21:11:52,313 INFO Matched ETSY INC to DOCUSIGN, INC. distance=0.4195 quality=MEDIUM
+2026-08-09 21:11:52,313 INFO Matched CarParts.com, Inc. to Celsius Holdings, Inc. distance=0.6452 quality=HIGH
+2026-08-09 21:11:52,314 INFO Matched lululemon athletica inc. to HEALTHEQUITY, INC. distance=0.6321 quality=HIGH
+2026-08-09 21:11:52,314 INFO Matched Ulta Beauty, Inc. to Science Applications International Corp distance=0.8890 quality=LOW
+2026-08-09 21:11:52,314 INFO Matched ROKU, INC to RingCentral, Inc. distance=1.0851 quality=LOW
+2026-08-09 21:11:52,315 INFO Matched APPFOLIO INC to QUALYS, INC. distance=0.2782 quality=HIGH
+2026-08-09 21:11:52,315 INFO Matched ThredUp Inc. to ALNYLAM PHARMACEUTICALS, INC. distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,315 INFO Matched Groupon, Inc. to COMMVAULT SYSTEMS INC distance=0.6749 quality=MEDIUM
+2026-08-09 21:11:52,316 INFO Matched Turtle Beach Corp to NVE CORP /NEW/ distance=0.2747 quality=HIGH
+2026-08-09 21:11:52,316 INFO Matched Vera Bradley, Inc. to SUTRO BIOPHARMA, INC. distance=0.8720 quality=HIGH
+2026-08-09 21:11:52,316 INFO Matched GoPro, Inc. to ICHOR HOLDINGS, LTD. distance=0.1456 quality=HIGH
+2026-08-09 21:11:52,317 INFO Matched Warby Parker Inc. to INSMED Inc distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,317 INFO Matched LightInTheBox Holding Co., Ltd. to Forte Biosciences, Inc. distance=0.5777 quality=HIGH
+2026-08-09 21:11:52,317 INFO Matched TILLY'S, INC. to Pangaea Logistics Solutions Ltd. distance=0.8497 quality=LOW
+2026-08-09 21:11:52,317 INFO Matched TripAdvisor, Inc. to SILICON LABORATORIES INC. distance=0.1489 quality=HIGH
+2026-08-09 21:11:52,318 INFO Matched BJ's Wholesale Club Holdings, Inc. to AUTONATION, INC. distance=0.8812 quality=LOW
+2026-08-09 21:11:52,318 INFO Matched Airbnb, Inc. to Warner Music Group Corp. distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,318 INFO Matched Samsonite International SA/ADR to Ascendis Pharma A/S distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,318 INFO Matched Stitch Fix, Inc. to Alarm.com Holdings, Inc. distance=0.9528 quality=LOW
+2026-08-09 21:11:52,319 INFO Matched Alibaba Group Holding Ltd to Block, Inc. distance=1.4632 quality=MEDIUM
+2026-08-09 21:11:52,319 INFO Matched VINCE HOLDING CORP. to MANNKIND CORP distance=0.9248 quality=MEDIUM
+2026-08-09 21:11:52,319 INFO Matched Burlington Stores, Inc. to OPENLANE, Inc. distance=0.9541 quality=LOW
+2026-08-09 21:11:52,320 INFO Matched Wayfair Inc. to BRINKER INTERNATIONAL, INC distance=1.1385 quality=LOW
+2026-08-09 21:11:52,320 INFO Matched Coursera, Inc. to Arista Networks, Inc. distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,320 INFO Matched Frontier Group Holdings, Inc. to Madison Square Garden Sports Corp. distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,320 INFO Matched YETI Holdings, Inc. to FORWARD AIR CORP distance=0.8765 quality=LOW
+2026-08-09 21:11:52,320 INFO Matched Invitation Homes Inc. to Compass Diversified Holdings distance=0.9090 quality=MEDIUM
+2026-08-09 21:11:52,321 INFO Matched J.Jill, Inc. to PROGRESS SOFTWARE CORP /MA distance=0.8492 quality=LOW
+2026-08-09 21:11:52,321 INFO Matched Canada Goose Holdings Inc. to RIGEL PHARMACEUTICALS INC distance=0.7084 quality=HIGH
+2026-08-09 21:11:52,321 INFO Matched Lemonade, Inc. to Fortinet, Inc. distance=999.9000 quality=REVIEW
+2026-08-09 21:11:52,321 INFO Matched Lovesac Co to APPIAN CORP distance=1.2929 quality=LOW
+2026-08-09 21:11:52,322 INFO Matched Funko, Inc. to REPUBLIC AIRWAYS HOLDINGS INC. distance=0.8881 quality=LOW
+2026-08-09 21:11:52,322 INFO Matched Revolve Group, Inc. to ACADIA PHARMACEUTICALS INC distance=0.4736 quality=HIGH
+2026-08-09 21:11:52,322 INFO Matched Fiverr International Ltd. to UPWORK, INC distance=0.6384 quality=MEDIUM
+2026-08-09 21:11:52,322 INFO Matched Chewy, Inc. to TIDEWATER INC distance=1.4153 quality=LOW
+2026-08-09 21:11:52,322 INFO Matched Reformation Inc. to ARROWHEAD PHARMACEUTICALS, INC. distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,322 INFO Matched Torrid Holdings Inc. to ImmunityBio, Inc. distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,323 INFO Matched DoorDash, Inc. to Workday, Inc. distance=999.4000 quality=REVIEW
+2026-08-09 21:11:52,323 INFO Matched Academy Sports & Outdoors, Inc. to CARVANA CO. distance=999.9000 quality=REVIEW
+2026-08-09 21:11:52,323 INFO Matched Cricut, Inc. to CIENA CORP distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,323 INFO Matched FIGS, Inc. to Ultragenyx Pharmaceutical Inc. distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,323 INFO Matched Vivid Seats Inc. to Red Rock Resorts, Inc. distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,323 INFO Matched Victoria's Secret & Co. to Vericel Corp distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,323 INFO Matched On Holding AG to Eton Pharmaceuticals, Inc. distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,324 INFO Matched Brilliant Earth Group, Inc. to COLLEGIUM PHARMACEUTICAL, INC distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,324 INFO Matched Arhaus, Inc. to VEEVA SYSTEMS INC distance=999.9000 quality=REVIEW
+2026-08-09 21:11:52,324 INFO Matched SharkNinja, Inc. to FIRST SOLAR, INC. distance=999.4000 quality=REVIEW
+2026-08-09 21:11:52,324 INFO Matched Birkenstock Holding plc to MeiraGTx Holdings plc distance=999.1500 quality=REVIEW
+2026-08-09 21:11:52,324 INFO Matched Bob's Discount Furniture, Inc. to TWILIO INC distance=999.9000 quality=REVIEW
+2026-08-09 21:25:28,877 INFO Matched American Airlines Group Inc. to United Airlines Holdings, Inc. distance=0.0356 quality=HIGH
+2026-08-09 21:25:28,878 INFO Matched CANON INC to General Motors Co distance=1.9661 quality=LOW
+2026-08-09 21:25:28,878 INFO Matched CATO CORP to SHOE STATION GROUP INC distance=0.2257 quality=HIGH
+2026-08-09 21:25:28,879 INFO Matched TARGET CORP to DOLLAR TREE, INC. distance=0.3260 quality=HIGH
+2026-08-09 21:25:28,879 INFO Matched DILLARD'S, INC. to Designer Brands Inc. distance=0.2794 quality=HIGH
+2026-08-09 21:25:28,880 INFO Matched DOLLAR GENERAL CORP to CINTAS CORP distance=0.5227 quality=HIGH
+2026-08-09 21:25:28,881 INFO Matched GAP INC to ROSS STORES, INC. distance=0.3000 quality=HIGH
+2026-08-09 21:25:28,881 INFO Matched GEORGIA POWER CO to Tesla, Inc. distance=3.4000 quality=REVIEW
+2026-08-09 21:25:28,881 INFO Matched GOODYEAR TIRE & RUBBER CO /OH/ to Aptiv PLC distance=0.1302 quality=HIGH
+2026-08-09 21:25:28,882 INFO Matched HP INC to Seagate Technology Holdings plc distance=0.7561 quality=HIGH
+2026-08-09 21:25:28,883 INFO Matched LOWES COMPANIES INC to SHERWIN WILLIAMS CO distance=0.4345 quality=HIGH
+2026-08-09 21:25:28,883 INFO Matched TRAVELERS COMPANIES, INC. to Carnival Corp Ltd. distance=0.2663 quality=HIGH
+2026-08-09 21:25:28,884 INFO Matched V F CORP to Capri Holdings Ltd distance=0.4200 quality=HIGH
+2026-08-09 21:25:28,884 INFO Matched Walmart Inc. to CVS HEALTH Corp distance=0.3409 quality=HIGH
+2026-08-09 21:25:28,885 INFO Matched WHIRLPOOL CORP /DE/ to Builders FirstSource, Inc. distance=0.8059 quality=HIGH
+2026-08-09 21:25:28,885 INFO Matched Spectrum Brands Holdings, Inc. to EDGEWELL PERSONAL CARE Co distance=0.4678 quality=HIGH
+2026-08-09 21:25:28,886 INFO Matched WOLVERINE WORLD WIDE INC /DE/ to Kontoor Brands, Inc. distance=0.1209 quality=HIGH
+2026-08-09 21:25:28,886 INFO Matched Sony Group Corp to INTERNATIONAL BUSINESS MACHINES CORP distance=1.6525 quality=LOW
+2026-08-09 21:25:28,887 INFO Matched NIKE, Inc. to LEVI STRAUSS & CO distance=0.6896 quality=HIGH
+2026-08-09 21:25:28,887 INFO Matched Apple Inc. to Dell Technologies Inc. distance=0.5917 quality=HIGH
+2026-08-09 21:25:28,888 INFO Matched HOME DEPOT, INC. to FASTENAL CO distance=0.9115 quality=MEDIUM
+2026-08-09 21:25:28,888 INFO Matched Bath & Body Works, Inc. to INSIGHT ENTERPRISES INC distance=0.4811 quality=HIGH
+2026-08-09 21:25:28,889 INFO Matched WILLIAMS SONOMA INC to MILLERKNOLL, INC. distance=0.3651 quality=HIGH
+2026-08-09 21:25:28,889 INFO Matched AT&T INC. to SOUTHWEST AIRLINES CO distance=1.5475 quality=LOW
+2026-08-09 21:25:28,890 INFO Matched BEST BUY CO INC to DIEBOLD NIXDORF, Inc distance=0.6605 quality=HIGH
+2026-08-09 21:25:28,890 INFO Matched Autodesk, Inc. to PITNEY BOWES INC /DE/ distance=0.1698 quality=HIGH
+2026-08-09 21:25:28,890 INFO Matched MICROSOFT CORP to Motorola Solutions, Inc. distance=0.9872 quality=MEDIUM
+2026-08-09 21:25:28,891 INFO Matched HARLEY-DAVIDSON, INC. to GATX CORP distance=0.5533 quality=HIGH
+2026-08-09 21:25:28,891 INFO Matched Macy's, Inc. to COTY INC. distance=0.7954 quality=HIGH
+2026-08-09 21:25:28,892 INFO Matched LANDS' END, INC. to Citi Trends Inc distance=0.2238 quality=HIGH
+2026-08-09 21:25:28,892 INFO Matched NEWELL BRANDS INC. to MATTEL INC /DE/ distance=0.4545 quality=HIGH
+2026-08-09 21:25:28,893 INFO Matched WASTE MANAGEMENT INC to PACCAR INC distance=0.9289 quality=LOW
+2026-08-09 21:25:28,893 INFO Matched SCHOLASTIC CORP to Callaway Golf Co distance=0.4934 quality=HIGH
+2026-08-09 21:25:28,894 INFO Matched AUTOZONE INC to O REILLY AUTOMOTIVE INC distance=0.0646 quality=HIGH
+2026-08-09 21:25:28,894 INFO Matched Fossil Group, Inc. to PRICESMART INC distance=0.2759 quality=HIGH
+2026-08-09 21:25:28,895 INFO Matched ROYAL CARIBBEAN CRUISES LTD to ALASKA AIR GROUP, INC. distance=0.3678 quality=HIGH
+2026-08-09 21:25:28,895 INFO Matched BUCKLE INC to STEVEN MADDEN, LTD. distance=0.3283 quality=HIGH
+2026-08-09 21:25:28,896 INFO Matched KOHLS Corp to Ollie's Bargain Outlet Holdings, Inc. distance=0.8324 quality=HIGH
+2026-08-09 21:25:28,896 INFO Matched ALLSTATE CORP to FORD MOTOR CO distance=1.1201 quality=LOW
+2026-08-09 21:25:28,896 INFO Matched SIRIUS XM HOLDINGS INC. to PENN Entertainment, Inc. distance=0.9569 quality=LOW
+2026-08-09 21:25:28,897 INFO Matched COSTCO WHOLESALE CORP /NEW to Adient plc distance=1.4498 quality=LOW
+2026-08-09 21:25:28,897 INFO Matched DECKERS OUTDOOR CORP to OXFORD INDUSTRIES INC distance=0.4448 quality=HIGH
+2026-08-09 21:25:28,898 INFO Matched URBAN OUTFITTERS INC to Boot Barn Holdings, Inc. distance=0.7863 quality=HIGH
+2026-08-09 21:25:28,898 INFO Matched TRACTOR SUPPLY CO /DE/ to SOMNIGROUP INTERNATIONAL INC. distance=0.3177 quality=HIGH
+2026-08-09 21:25:28,899 INFO Matched AMERICAN EAGLE OUTFITTERS INC to Natural Grocers by Vitamin Cottage, Inc. distance=0.7583 quality=HIGH
+2026-08-09 21:25:28,899 INFO Matched ESTEE LAUDER COMPANIES INC to JETBLUE AIRWAYS CORP distance=1.0599 quality=LOW
+2026-08-09 21:25:28,899 INFO Matched AMAZON COM INC to STARBUCKS CORP distance=1.5543 quality=LOW
+2026-08-09 21:25:28,900 INFO Matched ABERCROMBIE & FITCH CO /DE/ to Monster Beverage Corp distance=0.9441 quality=LOW
+2026-08-09 21:25:28,900 INFO Matched LOGITECH INTERNATIONAL S.A. to CIENA CORP distance=0.2957 quality=HIGH
+2026-08-09 21:25:28,901 INFO Matched RALPH LAUREN CORP to CHIPOTLE MEXICAN GRILL INC distance=0.9781 quality=LOW
+2026-08-09 21:25:28,901 INFO Matched Childrens Place, Inc. to ROCKY BRANDS, INC. distance=0.7676 quality=HIGH
+2026-08-09 21:25:28,901 INFO Matched NVIDIA CORP to OMNICELL, INC. distance=0.9068 quality=MEDIUM
+2026-08-09 21:25:28,902 INFO Matched MARRIOTT INTERNATIONAL INC /MD/ to Hilton Worldwide Holdings Inc. distance=0.5407 quality=HIGH
+2026-08-09 21:25:28,902 INFO Matched COLUMBIA SPORTSWEAR CO to Floor & Decor Holdings, Inc. distance=1.0872 quality=LOW
+2026-08-09 21:25:28,903 INFO Matched CARTERS INC to Cinemark Holdings, Inc. distance=0.9040 quality=LOW
+2026-08-09 21:25:28,903 INFO Matched EBAY INC to Bloomin' Brands, Inc. distance=1.2951 quality=LOW
+2026-08-09 21:25:28,903 INFO Matched Booking Holdings Inc. to EXPEDITORS INTERNATIONAL OF WASHINGTON INC distance=0.5744 quality=HIGH
+2026-08-09 21:25:28,904 INFO Matched 1 800 FLOWERS COM INC to LA-Z-BOY INC distance=0.5807 quality=HIGH
+2026-08-09 21:25:28,904 INFO Matched DICK'S SPORTING GOODS, INC. to CASEYS GENERAL STORES INC distance=0.9489 quality=LOW
+2026-08-09 21:25:28,904 INFO Matched BUILD-A-BEAR WORKSHOP INC to ESCALADE INC distance=0.4550 quality=HIGH
+2026-08-09 21:25:28,905 INFO Matched TAPESTRY, INC. to OPENLANE, Inc. distance=1.1123 quality=LOW
+2026-08-09 21:25:28,905 INFO Matched GARMIN LTD to NetApp, Inc. distance=0.5345 quality=HIGH
+2026-08-09 21:25:28,906 INFO Matched BED BATH & BEYOND, INC. to Envela Corp distance=0.8860 quality=HIGH
+2026-08-09 21:25:28,906 INFO Matched SPORTSMAN'S WAREHOUSE HOLDINGS, INC. to MARCUS CORP distance=1.1224 quality=LOW
+2026-08-09 21:25:28,906 INFO Matched ADVANCE AUTO PARTS INC to Camping World Holdings, Inc. distance=0.3974 quality=HIGH
+2026-08-09 21:25:28,907 INFO Matched FIVE BELOW, INC to Compass Diversified Holdings distance=0.9972 quality=LOW
+2026-08-09 21:25:28,907 INFO Matched QVC INC to Park Hotels & Resorts Inc. distance=0.9940 quality=LOW
+2026-08-09 21:25:28,907 INFO Matched NELNET INC to PENSKE AUTOMOTIVE GROUP, INC. distance=1.1121 quality=LOW
+2026-08-09 21:25:28,908 INFO Matched Trip.com Group Ltd to DARDEN RESTAURANTS INC distance=0.6714 quality=HIGH
+2026-08-09 21:25:28,908 INFO Matched Sonos Inc to Ubiquiti Inc. distance=0.7177 quality=HIGH
+2026-08-09 21:25:28,908 INFO Matched Roblox Corp to JAKKS PACIFIC INC distance=2.6500 quality=REVIEW
+2026-08-09 21:25:28,908 INFO Matched Zumiez Inc to Dorman Products, Inc. distance=0.8973 quality=LOW
+2026-08-09 21:25:28,909 INFO Matched Expedia Group, Inc. to VERRA MOBILITY Corp distance=1.0406 quality=MEDIUM
+2026-08-09 21:25:28,909 INFO Matched GameStop Corp. to Super Micro Computer, Inc. distance=0.5953 quality=HIGH
+2026-08-09 21:25:28,909 INFO Matched Crocs, Inc. to CHOICE HOTELS INTERNATIONAL INC /DE distance=0.9991 quality=LOW
+2026-08-09 21:25:28,910 INFO Matched Under Armour, Inc. to Warner Music Group Corp. distance=1.1734 quality=LOW
+2026-08-09 21:25:28,910 INFO Matched StubHub Holdings, Inc. to YUM BRANDS INC distance=2.6500 quality=REVIEW
+2026-08-09 21:25:28,910 INFO Matched Sally Beauty Holdings, Inc. to Matson, Inc. distance=0.9483 quality=LOW
+2026-08-09 21:25:28,911 INFO Matched ETSY INC to Planet Fitness, Inc. distance=0.9306 quality=LOW
+2026-08-09 21:25:28,911 INFO Matched CarParts.com, Inc. to STRATTEC SECURITY CORP distance=0.5725 quality=HIGH
+2026-08-09 21:25:28,911 INFO Matched lululemon athletica inc. to Madison Square Garden Sports Corp. distance=1.0555 quality=LOW
+2026-08-09 21:25:28,911 INFO Matched Ulta Beauty, Inc. to Texas Roadhouse, Inc. distance=1.0596 quality=LOW
+2026-08-09 21:25:28,912 INFO Matched ROKU, INC to Bally's Corp distance=1.6182 quality=LOW
+2026-08-09 21:25:28,912 INFO Matched APPFOLIO INC to NAPCO SECURITY TECHNOLOGIES, INC distance=0.6969 quality=HIGH
+2026-08-09 21:25:28,912 INFO Matched ThredUp Inc. to QUALCOMM INC/DE distance=3.4000 quality=REVIEW
+2026-08-09 21:25:28,912 INFO Matched Groupon, Inc. to JACK IN THE BOX INC distance=1.4368 quality=LOW
+2026-08-09 21:25:28,913 INFO Matched Turtle Beach Corp to BK Technologies Corp distance=0.5120 quality=HIGH
+2026-08-09 21:25:28,913 INFO Matched Vera Bradley, Inc. to DIGI INTERNATIONAL INC distance=1.1175 quality=LOW
+2026-08-09 21:25:28,913 INFO Matched GoPro, Inc. to NETGEAR, INC. distance=0.3214 quality=HIGH
+2026-08-09 21:25:28,913 INFO Matched Warby Parker Inc. to Fortinet, Inc. distance=3.4000 quality=REVIEW
+2026-08-09 21:25:28,914 INFO Matched LightInTheBox Holding Co., Ltd. to NATIONAL BEVERAGE CORP distance=1.4136 quality=LOW
+2026-08-09 21:25:28,914 INFO Matched TILLY'S, INC. to Pangaea Logistics Solutions Ltd. distance=0.9671 quality=LOW
+2026-08-09 21:25:28,914 INFO Matched TripAdvisor, Inc. to STRATASYS LTD. distance=0.3462 quality=HIGH
+2026-08-09 21:25:28,914 INFO Matched BJ's Wholesale Club Holdings, Inc. to GROUP 1 AUTOMOTIVE INC distance=0.8154 quality=LOW
+2026-08-09 21:25:28,915 INFO Matched Airbnb, Inc. to Yum China Holdings, Inc. distance=2.6500 quality=REVIEW
+2026-08-09 21:25:28,915 INFO Matched Samsonite International SA/ADR to CARVANA CO. distance=3.4000 quality=REVIEW
+2026-08-09 21:25:28,915 INFO Matched Stitch Fix, Inc. to HARMONIC INC. distance=1.4231 quality=LOW
+2026-08-09 21:25:28,915 INFO Matched Alibaba Group Holding Ltd to Hewlett Packard Enterprise Co distance=1.7093 quality=LOW
+2026-08-09 21:25:28,915 INFO Matched VINCE HOLDING CORP. to ETHAN ALLEN INTERIORS INC distance=1.0287 quality=LOW
+2026-08-09 21:25:28,916 INFO Matched Burlington Stores, Inc. to Allison Transmission Holdings Inc distance=1.0681 quality=LOW
+2026-08-09 21:25:28,916 INFO Matched Wayfair Inc. to RUSH ENTERPRISES INC \TX\ distance=1.1911 quality=LOW
+2026-08-09 21:25:28,916 INFO Matched Coursera, Inc. to Ondas Inc. distance=2.6500 quality=REVIEW
+2026-08-09 21:25:28,916 INFO Matched Frontier Group Holdings, Inc. to BRINKER INTERNATIONAL, INC distance=2.6500 quality=REVIEW
+2026-08-09 21:25:28,916 INFO Matched YETI Holdings, Inc. to FORWARD AIR CORP distance=0.9221 quality=LOW
+2026-08-09 21:25:28,917 INFO Matched Invitation Homes Inc. to XMax Inc. distance=1.2685 quality=MEDIUM
+2026-08-09 21:25:28,917 INFO Matched J.Jill, Inc. to PAPA JOHNS INTERNATIONAL INC distance=0.9715 quality=LOW
+2026-08-09 21:25:28,917 INFO Matched Canada Goose Holdings Inc. to MONARCH CASINO & RESORT INC distance=0.9644 quality=LOW
+2026-08-09 21:25:28,917 INFO Matched Lemonade, Inc. to C. H. ROBINSON WORLDWIDE, INC. distance=3.4000 quality=REVIEW
+2026-08-09 21:25:28,917 INFO Matched Lovesac Co to Celsius Holdings, Inc. distance=1.2550 quality=LOW
+2026-08-09 21:25:28,917 INFO Matched Funko, Inc. to Shake Shack Inc. distance=0.8828 quality=LOW
+2026-08-09 21:25:28,918 INFO Matched Revolve Group, Inc. to ADTRAN Holdings, Inc. distance=1.7603 quality=LOW
+2026-08-09 21:25:28,918 INFO Matched Fiverr International Ltd. to Blue Bird Corp distance=1.1251 quality=LOW
+2026-08-09 21:25:28,918 INFO Matched Chewy, Inc. to VISTEON CORP distance=1.1477 quality=LOW
+2026-08-09 21:25:28,918 INFO Matched Reformation Inc. to Coca-Cola Consolidated, Inc. distance=3.4000 quality=REVIEW
+2026-08-09 21:25:28,918 INFO Matched Torrid Holdings Inc. to MODINE MANUFACTURING CO distance=3.4000 quality=REVIEW
+2026-08-09 21:25:28,918 INFO Matched DoorDash, Inc. to AUTOLIV INC distance=3.4000 quality=REVIEW
+2026-08-09 21:25:28,918 INFO Matched Academy Sports & Outdoors, Inc. to Hub Group, Inc. distance=2.6500 quality=REVIEW
+2026-08-09 21:25:28,918 INFO Matched Cricut, Inc. to Knowles Corp distance=2.6500 quality=REVIEW
+2026-08-09 21:25:28,919 INFO Matched FIGS, Inc. to LITHIA MOTORS INC distance=3.4000 quality=REVIEW
+2026-08-09 21:25:28,919 INFO Matched Vivid Seats Inc. to KIRBY CORP distance=2.6500 quality=REVIEW
+2026-08-09 21:25:28,919 INFO Matched Victoria's Secret & Co. to AUTONATION, INC. distance=3.4000 quality=REVIEW
+2026-08-09 21:25:28,919 INFO Matched On Holding AG to Red Rock Resorts, Inc. distance=3.4000 quality=REVIEW
+2026-08-09 21:25:28,919 INFO Matched Brilliant Earth Group, Inc. to Caesars Entertainment, Inc. distance=3.4000 quality=REVIEW
+2026-08-09 21:25:28,919 INFO Matched Arhaus, Inc. to HNI CORP distance=2.6500 quality=REVIEW
+2026-08-09 21:25:28,919 INFO Matched SharkNinja, Inc. to HAVERTY FURNITURE COMPANIES INC distance=2.6500 quality=REVIEW
+2026-08-09 21:25:28,919 INFO Matched Birkenstock Holding plc to Churchill Downs Inc distance=3.4000 quality=REVIEW
+2026-08-09 21:25:28,919 INFO Matched Bob's Discount Furniture, Inc. to FLEXSTEEL INDUSTRIES INC distance=2.6500 quality=REVIEW
+2026-08-09 21:34:32,771 INFO Matched American Airlines Group Inc. to United Airlines Holdings, Inc. distance=0.0356 quality=HIGH
+2026-08-09 21:34:32,772 INFO Matched CANON INC to General Motors Co distance=1.9661 quality=LOW
+2026-08-09 21:34:32,773 INFO Matched CATO CORP to SHOE STATION GROUP INC distance=0.2257 quality=HIGH
+2026-08-09 21:34:32,773 INFO Matched TARGET CORP to DOLLAR TREE, INC. distance=0.3260 quality=HIGH
+2026-08-09 21:34:32,774 INFO Matched DILLARD'S, INC. to Designer Brands Inc. distance=0.2794 quality=HIGH
+2026-08-09 21:34:32,775 INFO Matched DOLLAR GENERAL CORP to CINTAS CORP distance=0.5227 quality=HIGH
+2026-08-09 21:34:32,775 INFO Matched GAP INC to ROSS STORES, INC. distance=0.3000 quality=HIGH
+2026-08-09 21:34:32,775 INFO Matched GEORGIA POWER CO to Tesla, Inc. distance=3.4000 quality=REVIEW
+2026-08-09 21:34:32,776 INFO Matched GOODYEAR TIRE & RUBBER CO /OH/ to Aptiv PLC distance=0.1302 quality=HIGH
+2026-08-09 21:34:32,776 INFO Matched HP INC to Seagate Technology Holdings plc distance=0.7561 quality=HIGH
+2026-08-09 21:34:32,777 INFO Matched LOWES COMPANIES INC to SHERWIN WILLIAMS CO distance=0.4345 quality=HIGH
+2026-08-09 21:34:32,777 INFO Matched TRAVELERS COMPANIES, INC. to Carnival Corp Ltd. distance=0.2663 quality=HIGH
+2026-08-09 21:34:32,778 INFO Matched V F CORP to Capri Holdings Ltd distance=0.4200 quality=HIGH
+2026-08-09 21:34:32,779 INFO Matched Walmart Inc. to CVS HEALTH Corp distance=0.3409 quality=HIGH
+2026-08-09 21:34:32,779 INFO Matched WHIRLPOOL CORP /DE/ to Builders FirstSource, Inc. distance=0.8059 quality=HIGH
+2026-08-09 21:34:32,780 INFO Matched Spectrum Brands Holdings, Inc. to EDGEWELL PERSONAL CARE Co distance=0.4678 quality=HIGH
+2026-08-09 21:34:32,780 INFO Matched WOLVERINE WORLD WIDE INC /DE/ to Kontoor Brands, Inc. distance=0.1209 quality=HIGH
+2026-08-09 21:34:32,781 INFO Matched Sony Group Corp to INTERNATIONAL BUSINESS MACHINES CORP distance=1.6525 quality=LOW
+2026-08-09 21:34:32,781 INFO Matched NIKE, Inc. to LEVI STRAUSS & CO distance=0.6896 quality=HIGH
+2026-08-09 21:34:32,782 INFO Matched Apple Inc. to Dell Technologies Inc. distance=0.5917 quality=HIGH
+2026-08-09 21:34:32,782 INFO Matched HOME DEPOT, INC. to FASTENAL CO distance=0.9115 quality=MEDIUM
+2026-08-09 21:34:32,783 INFO Matched Bath & Body Works, Inc. to INSIGHT ENTERPRISES INC distance=0.4811 quality=HIGH
+2026-08-09 21:34:32,783 INFO Matched WILLIAMS SONOMA INC to MILLERKNOLL, INC. distance=0.3651 quality=HIGH
+2026-08-09 21:34:32,784 INFO Matched AT&T INC. to SOUTHWEST AIRLINES CO distance=1.5475 quality=LOW
+2026-08-09 21:34:32,784 INFO Matched BEST BUY CO INC to DIEBOLD NIXDORF, Inc distance=0.6605 quality=HIGH
+2026-08-09 21:34:32,784 INFO Matched Autodesk, Inc. to PITNEY BOWES INC /DE/ distance=0.1698 quality=HIGH
+2026-08-09 21:34:32,785 INFO Matched MICROSOFT CORP to Motorola Solutions, Inc. distance=0.9872 quality=MEDIUM
+2026-08-09 21:34:32,785 INFO Matched HARLEY-DAVIDSON, INC. to GATX CORP distance=0.5533 quality=HIGH
+2026-08-09 21:34:32,786 INFO Matched Macy's, Inc. to COTY INC. distance=0.7954 quality=HIGH
+2026-08-09 21:34:32,786 INFO Matched LANDS' END, INC. to Citi Trends Inc distance=0.2238 quality=HIGH
+2026-08-09 21:34:32,787 INFO Matched NEWELL BRANDS INC. to MATTEL INC /DE/ distance=0.4545 quality=HIGH
+2026-08-09 21:34:32,787 INFO Matched WASTE MANAGEMENT INC to PACCAR INC distance=0.9289 quality=LOW
+2026-08-09 21:34:32,788 INFO Matched SCHOLASTIC CORP to Callaway Golf Co distance=0.4934 quality=HIGH
+2026-08-09 21:34:32,788 INFO Matched AUTOZONE INC to O REILLY AUTOMOTIVE INC distance=0.0646 quality=HIGH
+2026-08-09 21:34:32,789 INFO Matched Fossil Group, Inc. to PRICESMART INC distance=0.2759 quality=HIGH
+2026-08-09 21:34:32,789 INFO Matched ROYAL CARIBBEAN CRUISES LTD to ALASKA AIR GROUP, INC. distance=0.3678 quality=HIGH
+2026-08-09 21:34:32,790 INFO Matched BUCKLE INC to STEVEN MADDEN, LTD. distance=0.3283 quality=HIGH
+2026-08-09 21:34:32,790 INFO Matched KOHLS Corp to Ollie's Bargain Outlet Holdings, Inc. distance=0.8324 quality=HIGH
+2026-08-09 21:34:32,790 INFO Matched ALLSTATE CORP to FORD MOTOR CO distance=1.1201 quality=LOW
+2026-08-09 21:34:32,791 INFO Matched SIRIUS XM HOLDINGS INC. to PENN Entertainment, Inc. distance=0.9569 quality=LOW
+2026-08-09 21:34:32,791 INFO Matched COSTCO WHOLESALE CORP /NEW to Adient plc distance=1.4498 quality=LOW
+2026-08-09 21:34:32,792 INFO Matched DECKERS OUTDOOR CORP to OXFORD INDUSTRIES INC distance=0.4448 quality=HIGH
+2026-08-09 21:34:32,792 INFO Matched URBAN OUTFITTERS INC to Boot Barn Holdings, Inc. distance=0.7863 quality=HIGH
+2026-08-09 21:34:32,793 INFO Matched TRACTOR SUPPLY CO /DE/ to SOMNIGROUP INTERNATIONAL INC. distance=0.3177 quality=HIGH
+2026-08-09 21:34:32,793 INFO Matched AMERICAN EAGLE OUTFITTERS INC to Natural Grocers by Vitamin Cottage, Inc. distance=0.7583 quality=HIGH
+2026-08-09 21:34:32,793 INFO Matched ESTEE LAUDER COMPANIES INC to JETBLUE AIRWAYS CORP distance=1.0599 quality=LOW
+2026-08-09 21:34:32,794 INFO Matched AMAZON COM INC to STARBUCKS CORP distance=1.5543 quality=LOW
+2026-08-09 21:34:32,794 INFO Matched ABERCROMBIE & FITCH CO /DE/ to Monster Beverage Corp distance=0.9441 quality=LOW
+2026-08-09 21:34:32,795 INFO Matched LOGITECH INTERNATIONAL S.A. to CIENA CORP distance=0.2957 quality=HIGH
+2026-08-09 21:34:32,795 INFO Matched RALPH LAUREN CORP to CHIPOTLE MEXICAN GRILL INC distance=0.9781 quality=LOW
+2026-08-09 21:34:32,795 INFO Matched Childrens Place, Inc. to ROCKY BRANDS, INC. distance=0.7676 quality=HIGH
+2026-08-09 21:34:32,796 INFO Matched NVIDIA CORP to OMNICELL, INC. distance=0.9068 quality=MEDIUM
+2026-08-09 21:34:32,796 INFO Matched MARRIOTT INTERNATIONAL INC /MD/ to Hilton Worldwide Holdings Inc. distance=0.5407 quality=HIGH
+2026-08-09 21:34:32,797 INFO Matched COLUMBIA SPORTSWEAR CO to Floor & Decor Holdings, Inc. distance=1.0872 quality=LOW
+2026-08-09 21:34:32,797 INFO Matched CARTERS INC to Cinemark Holdings, Inc. distance=0.9040 quality=LOW
+2026-08-09 21:34:32,797 INFO Matched EBAY INC to Bloomin' Brands, Inc. distance=1.2951 quality=LOW
+2026-08-09 21:34:32,798 INFO Matched Booking Holdings Inc. to EXPEDITORS INTERNATIONAL OF WASHINGTON INC distance=0.5744 quality=HIGH
+2026-08-09 21:34:32,798 INFO Matched 1 800 FLOWERS COM INC to LA-Z-BOY INC distance=0.5807 quality=HIGH
+2026-08-09 21:34:32,799 INFO Matched DICK'S SPORTING GOODS, INC. to CASEYS GENERAL STORES INC distance=0.9489 quality=LOW
+2026-08-09 21:34:32,799 INFO Matched BUILD-A-BEAR WORKSHOP INC to ESCALADE INC distance=0.4550 quality=HIGH
+2026-08-09 21:34:32,799 INFO Matched TAPESTRY, INC. to OPENLANE, Inc. distance=1.1123 quality=LOW
+2026-08-09 21:34:32,800 INFO Matched GARMIN LTD to NetApp, Inc. distance=0.5345 quality=HIGH
+2026-08-09 21:34:32,800 INFO Matched BED BATH & BEYOND, INC. to Envela Corp distance=0.8860 quality=HIGH
+2026-08-09 21:34:32,800 INFO Matched SPORTSMAN'S WAREHOUSE HOLDINGS, INC. to MARCUS CORP distance=1.1224 quality=LOW
+2026-08-09 21:34:32,801 INFO Matched ADVANCE AUTO PARTS INC to Camping World Holdings, Inc. distance=0.3974 quality=HIGH
+2026-08-09 21:34:32,801 INFO Matched FIVE BELOW, INC to Compass Diversified Holdings distance=0.9972 quality=LOW
+2026-08-09 21:34:32,802 INFO Matched QVC INC to Park Hotels & Resorts Inc. distance=0.9940 quality=LOW
+2026-08-09 21:34:32,802 INFO Matched NELNET INC to PENSKE AUTOMOTIVE GROUP, INC. distance=1.1121 quality=LOW
+2026-08-09 21:34:32,802 INFO Matched Trip.com Group Ltd to DARDEN RESTAURANTS INC distance=0.6714 quality=HIGH
+2026-08-09 21:34:32,802 INFO Matched Sonos Inc to Ubiquiti Inc. distance=0.7177 quality=HIGH
+2026-08-09 21:34:32,803 INFO Matched Roblox Corp to JAKKS PACIFIC INC distance=2.6500 quality=REVIEW
+2026-08-09 21:34:32,803 INFO Matched Zumiez Inc to Dorman Products, Inc. distance=0.8973 quality=LOW
+2026-08-09 21:34:32,803 INFO Matched Expedia Group, Inc. to VERRA MOBILITY Corp distance=1.0406 quality=MEDIUM
+2026-08-09 21:34:32,804 INFO Matched GameStop Corp. to Super Micro Computer, Inc. distance=0.5953 quality=HIGH
+2026-08-09 21:34:32,804 INFO Matched Crocs, Inc. to CHOICE HOTELS INTERNATIONAL INC /DE distance=0.9991 quality=LOW
+2026-08-09 21:34:32,804 INFO Matched Under Armour, Inc. to Warner Music Group Corp. distance=1.1734 quality=LOW
+2026-08-09 21:34:32,804 INFO Matched StubHub Holdings, Inc. to YUM BRANDS INC distance=2.6500 quality=REVIEW
+2026-08-09 21:34:32,805 INFO Matched Sally Beauty Holdings, Inc. to Matson, Inc. distance=0.9483 quality=LOW
+2026-08-09 21:34:32,805 INFO Matched ETSY INC to Planet Fitness, Inc. distance=0.9306 quality=LOW
+2026-08-09 21:34:32,805 INFO Matched CarParts.com, Inc. to STRATTEC SECURITY CORP distance=0.5725 quality=HIGH
+2026-08-09 21:34:32,806 INFO Matched lululemon athletica inc. to Madison Square Garden Sports Corp. distance=1.0555 quality=LOW
+2026-08-09 21:34:32,806 INFO Matched Ulta Beauty, Inc. to Texas Roadhouse, Inc. distance=1.0596 quality=LOW
+2026-08-09 21:34:32,806 INFO Matched ROKU, INC to Bally's Corp distance=1.6182 quality=LOW
+2026-08-09 21:34:32,807 INFO Matched APPFOLIO INC to NAPCO SECURITY TECHNOLOGIES, INC distance=0.6969 quality=HIGH
+2026-08-09 21:34:32,807 INFO Matched ThredUp Inc. to QUALCOMM INC/DE distance=3.4000 quality=REVIEW
+2026-08-09 21:34:32,807 INFO Matched Groupon, Inc. to JACK IN THE BOX INC distance=1.4368 quality=LOW
+2026-08-09 21:34:32,807 INFO Matched Turtle Beach Corp to BK Technologies Corp distance=0.5120 quality=HIGH
+2026-08-09 21:34:32,808 INFO Matched Vera Bradley, Inc. to DIGI INTERNATIONAL INC distance=1.1175 quality=LOW
+2026-08-09 21:34:32,808 INFO Matched GoPro, Inc. to NETGEAR, INC. distance=0.3214 quality=HIGH
+2026-08-09 21:34:32,808 INFO Matched Warby Parker Inc. to Fortinet, Inc. distance=3.4000 quality=REVIEW
+2026-08-09 21:34:32,808 INFO Matched LightInTheBox Holding Co., Ltd. to NATIONAL BEVERAGE CORP distance=1.4136 quality=LOW
+2026-08-09 21:34:32,809 INFO Matched TILLY'S, INC. to Pangaea Logistics Solutions Ltd. distance=0.9671 quality=LOW
+2026-08-09 21:34:32,809 INFO Matched TripAdvisor, Inc. to STRATASYS LTD. distance=0.3462 quality=HIGH
+2026-08-09 21:34:32,809 INFO Matched BJ's Wholesale Club Holdings, Inc. to GROUP 1 AUTOMOTIVE INC distance=0.8154 quality=LOW
+2026-08-09 21:34:32,809 INFO Matched Airbnb, Inc. to Yum China Holdings, Inc. distance=2.6500 quality=REVIEW
+2026-08-09 21:34:32,809 INFO Matched Samsonite International SA/ADR to CARVANA CO. distance=3.4000 quality=REVIEW
+2026-08-09 21:34:32,810 INFO Matched Stitch Fix, Inc. to HARMONIC INC. distance=1.4231 quality=LOW
+2026-08-09 21:34:32,810 INFO Matched Alibaba Group Holding Ltd to Hewlett Packard Enterprise Co distance=1.7093 quality=LOW
+2026-08-09 21:34:32,810 INFO Matched VINCE HOLDING CORP. to ETHAN ALLEN INTERIORS INC distance=1.0287 quality=LOW
+2026-08-09 21:34:32,810 INFO Matched Burlington Stores, Inc. to Allison Transmission Holdings Inc distance=1.0681 quality=LOW
+2026-08-09 21:34:32,810 INFO Matched Wayfair Inc. to RUSH ENTERPRISES INC \TX\ distance=1.1911 quality=LOW
+2026-08-09 21:34:32,811 INFO Matched Coursera, Inc. to Ondas Inc. distance=2.6500 quality=REVIEW
+2026-08-09 21:34:32,811 INFO Matched Frontier Group Holdings, Inc. to BRINKER INTERNATIONAL, INC distance=2.6500 quality=REVIEW
+2026-08-09 21:34:32,811 INFO Matched YETI Holdings, Inc. to FORWARD AIR CORP distance=0.9221 quality=LOW
+2026-08-09 21:34:32,811 INFO Matched Invitation Homes Inc. to XMax Inc. distance=1.2685 quality=MEDIUM
+2026-08-09 21:34:32,811 INFO Matched J.Jill, Inc. to PAPA JOHNS INTERNATIONAL INC distance=0.9715 quality=LOW
+2026-08-09 21:34:32,812 INFO Matched Canada Goose Holdings Inc. to MONARCH CASINO & RESORT INC distance=0.9644 quality=LOW
+2026-08-09 21:34:32,812 INFO Matched Lemonade, Inc. to C. H. ROBINSON WORLDWIDE, INC. distance=3.4000 quality=REVIEW
+2026-08-09 21:34:32,812 INFO Matched Lovesac Co to Celsius Holdings, Inc. distance=1.2550 quality=LOW
+2026-08-09 21:34:32,812 INFO Matched Funko, Inc. to Shake Shack Inc. distance=0.8828 quality=LOW
+2026-08-09 21:34:32,812 INFO Matched Revolve Group, Inc. to ADTRAN Holdings, Inc. distance=1.7603 quality=LOW
+2026-08-09 21:34:32,812 INFO Matched Fiverr International Ltd. to Blue Bird Corp distance=1.1251 quality=LOW
+2026-08-09 21:34:32,813 INFO Matched Chewy, Inc. to VISTEON CORP distance=1.1477 quality=LOW
+2026-08-09 21:34:32,813 INFO Matched Reformation Inc. to Coca-Cola Consolidated, Inc. distance=3.4000 quality=REVIEW
+2026-08-09 21:34:32,813 INFO Matched Torrid Holdings Inc. to MODINE MANUFACTURING CO distance=3.4000 quality=REVIEW
+2026-08-09 21:34:32,813 INFO Matched DoorDash, Inc. to AUTOLIV INC distance=3.4000 quality=REVIEW
+2026-08-09 21:34:32,813 INFO Matched Academy Sports & Outdoors, Inc. to Hub Group, Inc. distance=2.6500 quality=REVIEW
+2026-08-09 21:34:32,813 INFO Matched Cricut, Inc. to Knowles Corp distance=2.6500 quality=REVIEW
+2026-08-09 21:34:32,813 INFO Matched FIGS, Inc. to LITHIA MOTORS INC distance=3.4000 quality=REVIEW
+2026-08-09 21:34:32,813 INFO Matched Vivid Seats Inc. to KIRBY CORP distance=2.6500 quality=REVIEW
+2026-08-09 21:34:32,814 INFO Matched Victoria's Secret & Co. to AUTONATION, INC. distance=3.4000 quality=REVIEW
+2026-08-09 21:34:32,814 INFO Matched On Holding AG to Red Rock Resorts, Inc. distance=3.4000 quality=REVIEW
+2026-08-09 21:34:32,814 INFO Matched Brilliant Earth Group, Inc. to Caesars Entertainment, Inc. distance=3.4000 quality=REVIEW
+2026-08-09 21:34:32,814 INFO Matched Arhaus, Inc. to HNI CORP distance=2.6500 quality=REVIEW
+2026-08-09 21:34:32,814 INFO Matched SharkNinja, Inc. to HAVERTY FURNITURE COMPANIES INC distance=2.6500 quality=REVIEW
+2026-08-09 21:34:32,814 INFO Matched Birkenstock Holding plc to Churchill Downs Inc distance=3.4000 quality=REVIEW
+2026-08-09 21:34:32,814 INFO Matched Bob's Discount Furniture, Inc. to FLEXSTEEL INDUSTRIES INC distance=2.6500 quality=REVIEW
+2026-08-09 21:34:33,546 INFO Replacement matched Brilliant Earth Group, Inc. to Garrett Motion Inc. distance=3.4000 quality=REVIEW
+2026-08-09 21:34:34,516 INFO Replacement matched Birkenstock Holding plc to WYNDHAM HOTELS & RESORTS, INC. distance=3.4000 quality=REVIEW

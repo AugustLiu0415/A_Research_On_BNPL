@@ -1,0 +1,113 @@
+CIK,check_name,company,details,fiscal_quarter,fiscal_year,message,severity
+0000051143,suspicious_gross_margin,INTERNATIONAL BUSINESS MACHINES CORPORATION,1.8750383788762666,Q4,2021,Gross margin outside expected review bounds.,WARNING
+0000815097,suspicious_gross_margin,Carnival Corporation Ltd.,-2.3567567567567567,Q2,2020,Gross margin outside expected review bounds.,WARNING
+0000815097,suspicious_operating_margin,Carnival Corporation Ltd.,-5.644594594594595,Q2,2020,Operating margin outside expected review bounds.,WARNING
+0000815097,suspicious_gross_margin,Carnival Corporation Ltd.,-48.96774193548387,Q3,2020,Gross margin outside expected review bounds.,WARNING
+0000815097,suspicious_operating_margin,Carnival Corporation Ltd.,-75.25806451612904,Q3,2020,Operating margin outside expected review bounds.,WARNING
+0000815097,suspicious_operating_margin,Carnival Corporation Ltd.,-46.91428571428571,Q4,2020,Operating margin outside expected review bounds.,WARNING
+0000815097,suspicious_gross_margin,Carnival Corporation Ltd.,-19.576923076923077,Q1,2021,Gross margin outside expected review bounds.,WARNING
+0000815097,suspicious_operating_margin,Carnival Corporation Ltd.,-58.61538461538461,Q1,2021,Operating margin outside expected review bounds.,WARNING
+0000815097,suspicious_gross_margin,Carnival Corporation Ltd.,-12.62,Q2,2021,Gross margin outside expected review bounds.,WARNING
+0000815097,suspicious_operating_margin,Carnival Corporation Ltd.,-32.32,Q2,2021,Operating margin outside expected review bounds.,WARNING
+0000815097,suspicious_gross_margin,Carnival Corporation Ltd.,-1.9597069597069596,Q3,2021,Gross margin outside expected review bounds.,WARNING
+0000815097,suspicious_operating_margin,Carnival Corporation Ltd.,-3.7673992673992673,Q3,2021,Operating margin outside expected review bounds.,WARNING
+0000815097,extreme_revenue_growth_yoy,Carnival Corporation Ltd.,16.612903225806452,Q3,2021,Extreme YoY revenue growth flagged.,WARNING
+0000815097,extreme_revenue_growth_yoy,Carnival Corporation Ltd.,35.74285714285714,Q4,2021,Extreme YoY revenue growth flagged.,WARNING
+0000815097,extreme_revenue_growth_yoy,Carnival Corporation Ltd.,61.42307692307692,Q1,2022,Extreme YoY revenue growth flagged.,WARNING
+0000815097,extreme_revenue_growth_yoy,Carnival Corporation Ltd.,47.02,Q2,2022,Extreme YoY revenue growth flagged.,WARNING
+0000815097,extreme_revenue_growth_yoy,Carnival Corporation Ltd.,6.884615384615385,Q3,2022,Extreme YoY revenue growth flagged.,WARNING
+0000935703,negative_revenue,"DOLLAR TREE, INC.",,Q4,2024,Negative revenue flagged for review.,WARNING
+0001043277,extreme_revenue_growth_yoy,"C. H. ROBINSON WORLDWIDE, INC.",5.903907373990003,Q1,2018,Extreme YoY revenue growth flagged.,WARNING
+0001043277,extreme_revenue_growth_yoy,"C. H. ROBINSON WORLDWIDE, INC.",6.4522812392708815,Q2,2018,Extreme YoY revenue growth flagged.,WARNING
+0001043277,extreme_revenue_growth_yoy,"C. H. ROBINSON WORLDWIDE, INC.",6.227294618470109,Q3,2018,Extreme YoY revenue growth flagged.,WARNING
+0001043277,extreme_revenue_growth_yoy,"C. H. ROBINSON WORLDWIDE, INC.",5.548887471531964,Q4,2018,Extreme YoY revenue growth flagged.,WARNING
+0001521332,negative_revenue,APTIV PLC,,Q4,2017,Negative revenue flagged for review.,WARNING
+0001636519,extreme_revenue_growth_yoy,MADISON SQUARE GARDEN SPORTS CORP.,9.065030760140418,Q2,2022,Extreme YoY revenue growth flagged.,WARNING
+0001722684,suspicious_operating_margin,"Wyndham Hotels & Resorts, Inc.",1.2191780821917808,Q4,2021,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-24.148,Q1,2017,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_gross_margin,Ondas Inc.,-1.4361623616236163,Q2,2017,Gross margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-3.570479704797048,Q2,2017,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-17.92514395393474,Q3,2017,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-12.409751037344398,Q2,2018,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-58.91684671366841,Q3,2018,Operating margin outside expected review bounds.,WARNING
+0001646188,extreme_revenue_growth_yoy,Ondas Inc.,32.758157389635315,Q3,2018,Extreme YoY revenue growth flagged.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-158.48541524741438,Q1,2019,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-22.081954058097818,Q2,2019,Operating margin outside expected review bounds.,WARNING
+0001646188,extreme_revenue_growth_yoy,Ondas Inc.,99.18516597510373,Q2,2019,Extreme YoY revenue growth flagged.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-38.443414423818815,Q3,2019,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-382.4160294117647,Q4,2019,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-11.645610845263189,Q1,2020,Operating margin outside expected review bounds.,WARNING
+0001646188,extreme_revenue_growth_yoy,Ondas Inc.,5.199232055490184,Q1,2020,Extreme YoY revenue growth flagged.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-2.3938170670276464,Q2,2020,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-4.45113236247325,Q3,2020,Operating margin outside expected review bounds.,WARNING
+0001646188,extreme_revenue_growth_yoy,Ondas Inc.,5.967117505559842,Q3,2020,Extreme YoY revenue growth flagged.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-19.027271650156347,Q4,2020,Operating margin outside expected review bounds.,WARNING
+0001646188,extreme_revenue_growth_yoy,Ondas Inc.,27.54720588235294,Q4,2020,Extreme YoY revenue growth flagged.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-2.4737955499998283,Q1,2021,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-3.536389267008627,Q2,2021,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-17.341504046532478,Q3,2021,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-12.32494056851164,Q4,2021,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-24.357342064076374,Q1,2022,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-18.822791074097307,Q2,2022,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-21.421311674985652,Q3,2022,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-72.07259177592496,Q4,2022,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-4.873930225489996,Q1,2023,Operating margin outside expected review bounds.,WARNING
+0001646188,extreme_revenue_growth_yoy,Ondas Inc.,5.328629101068264,Q1,2023,Extreme YoY revenue growth flagged.,WARNING
+0001646188,extreme_revenue_growth_yoy,Ondas Inc.,8.051294315471708,Q2,2023,Extreme YoY revenue growth flagged.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-2.226490794277331,Q3,2023,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-2.5489233132142175,Q4,2023,Operating margin outside expected review bounds.,WARNING
+0001646188,extreme_revenue_growth_yoy,Ondas Inc.,9.359513563062865,Q4,2023,Extreme YoY revenue growth flagged.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-14.603301712455341,Q1,2024,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-8.668978786888566,Q2,2024,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-5.848704612126483,Q3,2024,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-2.0629007890934505,Q4,2024,Operating margin outside expected review bounds.,WARNING
+0001646188,suspicious_operating_margin,Ondas Inc.,-2.42702360680404,Q1,2025,Operating margin outside expected review bounds.,WARNING
+0001646188,extreme_revenue_growth_yoy,Ondas Inc.,5.796993323296144,Q1,2025,Extreme YoY revenue growth flagged.,WARNING
+0001646188,extreme_revenue_growth_yoy,Ondas Inc.,5.549440361809927,Q2,2025,Extreme YoY revenue growth flagged.,WARNING
+0001646188,extreme_revenue_growth_yoy,Ondas Inc.,5.819533060686443,Q3,2025,Extreme YoY revenue growth flagged.,WARNING
+0001646188,extreme_revenue_growth_yoy,Ondas Inc.,6.292519669211406,Q4,2025,Extreme YoY revenue growth flagged.,WARNING
+0001646188,extreme_revenue_growth_yoy,Ondas Inc.,10.79845872893393,Q1,2026,Extreme YoY revenue growth flagged.,WARNING
+0001385280,suspicious_operating_margin,"Cinemark Holdings, Inc.",-23.877312235346558,Q2,2020,Operating margin outside expected review bounds.,WARNING
+0001385280,suspicious_operating_margin,"Cinemark Holdings, Inc.",-5.941259372005186,Q3,2020,Operating margin outside expected review bounds.,WARNING
+0001385280,suspicious_operating_margin,"Cinemark Holdings, Inc.",-2.921316748437532,Q4,2020,Operating margin outside expected review bounds.,WARNING
+0001385280,extreme_revenue_growth_yoy,"Cinemark Holdings, Inc.",31.833964787162913,Q2,2021,Extreme YoY revenue growth flagged.,WARNING
+0001385280,extreme_revenue_growth_yoy,"Cinemark Holdings, Inc.",11.256074186820001,Q3,2021,Extreme YoY revenue growth flagged.,WARNING
+0001385280,extreme_revenue_growth_yoy,"Cinemark Holdings, Inc.",5.785590684228741,Q4,2021,Extreme YoY revenue growth flagged.,WARNING
+0000837465,negative_revenue,Callaway Golf Company,,Q4,2025,Negative revenue flagged for review.,WARNING
+0001617406,suspicious_operating_margin,Park Hotels & Resorts Inc.,-4.761904761904762,Q2,2020,Operating margin outside expected review bounds.,WARNING
+0001617406,suspicious_operating_margin,Park Hotels & Resorts Inc.,-2.1020408163265305,Q3,2020,Operating margin outside expected review bounds.,WARNING
+0001617406,extreme_revenue_growth_yoy,Park Hotels & Resorts Inc.,6.690476190476191,Q2,2021,Extreme YoY revenue growth flagged.,WARNING
+0001111335,negative_revenue,VISTEON CORP,,Q4,2015,Negative revenue flagged for review.,WARNING
+0001024305,negative_revenue,COTY INC.,,Q4,2020,Negative revenue flagged for review.,WARNING
+0001024305,suspicious_operating_margin,COTY INC.,1.037431693989071,Q4,2020,Operating margin outside expected review bounds.,WARNING
+0000078814,negative_revenue,PITNEY BOWES INC,,Q4,2024,Negative revenue flagged for review.,WARNING
+0000078814,extreme_revenue_growth_yoy,PITNEY BOWES INC,-5.9472261352336755,Q4,2025,Extreme YoY revenue growth flagged.,WARNING
+0001158463,extreme_revenue_growth_yoy,JETBLUE AIRWAYS CORP,10.372093023255815,Q2,2021,Extreme YoY revenue growth flagged.,WARNING
+0000907242,extreme_revenue_growth_yoy,"MONARCH CASINO & RESORT, INC.",5.447545526524149,Q2,2021,Extreme YoY revenue growth flagged.,WARNING
+0000851310,negative_revenue,HARMONIC INC.,,Q4,2025,Negative revenue flagged for review.,WARNING
+0001096752,negative_revenue,EDGEWELL PERSONAL CARE COMPANY,,Q4,2015,Negative revenue flagged for review.,WARNING
+0000062234,suspicious_operating_margin,MARCUS CORP,-6.688768435648557,Q2,2020,Operating margin outside expected review bounds.,WARNING
+0000062234,extreme_revenue_growth_yoy,MARCUS CORP,10.666078406655743,Q2,2021,Extreme YoY revenue growth flagged.,WARNING
+0001517396,suspicious_operating_margin,STRATASYS LTD.,-5.557548633488483,Q3,2015,Operating margin outside expected review bounds.,WARNING
+0001517396,suspicious_operating_margin,STRATASYS LTD.,-3.1611828730491354,Q3,2020,Operating margin outside expected review bounds.,WARNING
+0001747079,negative_revenue,BALLY'S CORPORATION,,Q4,2020,Negative revenue flagged for review.,WARNING
+0001122904,negative_revenue,"NETGEAR, Inc.",,Q4,2018,Negative revenue flagged for review.,WARNING
+0001122904,extreme_revenue_growth_yoy,"NETGEAR, Inc.",-5.722868397961279,Q4,2019,Extreme YoY revenue growth flagged.,WARNING
+0001473334,negative_revenue,XMAX INC.,,Q4,2019,Negative revenue flagged for review.,WARNING
+0001473334,suspicious_operating_margin,XMAX INC.,1.7291740779868086,Q4,2019,Operating margin outside expected review bounds.,WARNING
+0001473334,suspicious_gross_margin,XMAX INC.,-1.9875841194231156,Q3,2020,Gross margin outside expected review bounds.,WARNING
+0001473334,suspicious_operating_margin,XMAX INC.,-2.486058184869256,Q3,2020,Operating margin outside expected review bounds.,WARNING
+0001473334,suspicious_gross_margin,XMAX INC.,-4.228351286092029,Q4,2020,Gross margin outside expected review bounds.,WARNING
+0001473334,suspicious_operating_margin,XMAX INC.,-4.722983838699744,Q4,2020,Operating margin outside expected review bounds.,WARNING
+0001473334,suspicious_gross_margin,XMAX INC.,-1.128764771764409,Q2,2021,Gross margin outside expected review bounds.,WARNING
+0001473334,suspicious_gross_margin,XMAX INC.,-3.014883904812792,Q4,2021,Gross margin outside expected review bounds.,WARNING
+0001473334,suspicious_operating_margin,XMAX INC.,-3.848693346653095,Q4,2021,Operating margin outside expected review bounds.,WARNING
+0001473334,suspicious_gross_margin,XMAX INC.,-3.0667555941174536,Q4,2022,Gross margin outside expected review bounds.,WARNING
+0001473334,suspicious_operating_margin,XMAX INC.,-3.876244458332259,Q4,2022,Operating margin outside expected review bounds.,WARNING
+,panel_row_count,,,,,Panel rows: 5598,INFO
+,treated_overlap_check,,,,,Controls overlapping treated CIKs: 0,INFO
+,duplicate_control_cik_check,,,,,Duplicate preferred control CIKs: 0,INFO
+,preferred_control_bnpl_status_check,,,,,Preferred controls without NO_BNPL_EVIDENCE: 0,INFO
+,matching_uses_pre_2020_check,,log_revenue_2019; log_assets_2019; average_gross_margin_pre; average_operating_margin_pre; average_revenue_growth_pre; leverage_pre; cash_to_assets_pre; revenue_pretrend; gross_margin_pretrend; operating_margin_pretrend,,,Matching variables are all constructed from fiscal years 2015-2019.,INFO
+,panel_unique_key_check,,,,,Duplicate CIK x fiscal_year x fiscal_quarter keys: 0,INFO
+,match_count_check,,,,,Preferred matched controls: 127,INFO
