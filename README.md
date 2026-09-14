@@ -1,37 +1,101 @@
-# BNPL Platform–Merchant Partnership Announcement Event Study
+# BNPL Partnership Announcements: Shareholder Value Creation and Value Allocation
 
 ## Overview
 
-This project studies shareholder valuation responses to BNPL
-platform–merchant partnership announcements. The main empirical design pairs
-the platform and the merchant, or its event-date public parent, around the
-same information event.
+This project examines how equity markets respond when BNPL platforms and
+merchants announce partnerships. Its primary empirical design links dated
+partnership information to historical securities, local trading sessions,
+market benchmarks and contemporaneous-news audits. It estimates platform-
+and merchant-side abnormal returns and compares both sides of the same
+announcement where observable. Planned extensions examine combined abnormal
+shareholder wealth and differences across firm and partnership characteristics.
 
-The latest checkpoint is a completed **local real-data AR/CAR diagnostic**,
-dated 14 September 2026. Eligible observations have actual market-model
-estimates and abnormal returns. Other observations remain explicitly blocked
-or not applicable. Completion of this diagnostic does not imply completion
-of the full research design.
+Merchant-network datasets, accounting panels and regulatory-event work are
+retained as supporting or historical modules. Initial AR/CAR diagnostics have
+been computed, but the project has not yet established causal effects,
+realized operating gains or total welfare changes.
 
-Earlier merchant accounting DiD, private-company financial-data collection,
-merchant-directory, ownership, adoption-date and matched-control work remain
-historical or supporting modules. The regulatory-event smoke test provides
-secondary feasibility evidence, not evidence about the partnership sample.
+## Primary Research Question
 
-## Current Research Questions
+> Do BNPL platform–merchant partnership announcements create shareholder value, how are the associated gains and losses distributed between platforms and merchants, and how do these valuation responses vary with firm and partnership characteristics?
 
-1. How do platform and merchant shareholder valuations respond around
-   partnership announcements?
-2. How do the two sides of the **same event** differ, conditional on valid
-   historical security mappings, timing and comparable specifications?
-3. With future pre-event market-capitalization and FX data, what is the
-   combined abnormal shareholder wealth change?
-4. How might responses vary across partnership type, exclusivity, multi-homing,
-   platform, merchant size, industry and other pre-event characteristics?
+## Four Research Questions
 
-These are research questions, not established findings. CARs are not realized
-sales or profits, total social welfare, causal proof, or established
-value-capture shares. Adding two percentage CARs does not measure joint wealth.
+1. **RQ1 — Do BNPL partnership announcements create value?**
+
+   Are partnership announcements associated with positive or negative abnormal
+   shareholder returns for BNPL platforms and their merchant partners?
+
+2. **RQ2 — Who captures the value, or bears the loss?**
+
+   How are announcement-associated gains and losses distributed between the
+   platform and the merchant in the same partnership event?
+
+3. **RQ3 — Net combined value or redistribution?**
+
+   “Does the partnership create total economic value, or merely redistribute it?”
+
+   In this design, the measurable object is combined abnormal shareholder
+   wealth for the observed participating firms, not total economy-wide value
+   or welfare. Operationally: Are the partners’ combined abnormal wealth
+   changes consistent with net gains, net losses, or offsetting gains and
+   losses between their shareholders?
+
+4. **RQ4 — When is value creation strongest?**
+
+   How do the direction and magnitude of individual and joint valuation
+   responses vary with firm and partnership characteristics?
+
+RQ4 retains seven dimensions: **industry, BNPL platform, merchant size,
+exclusivity, multi-homing, partnership type and competitive importance**.
+Multi-homing means use of multiple BNPL providers. Competitive importance
+must be measured through observable scope, network reach, outside options
+or relative dependence, not subsequent returns. Characteristics must be known
+before or at the announcement; current directories cannot automatically be
+projected backward, and silence does not establish exclusivity.
+
+## Working Mechanisms and Planned Tests
+
+- Incremental demand and network benefits may generate value when they
+  outweigh fees, integration/financing costs and risks.
+- Bargaining power, outside options and relative dependence may shape
+  asymmetric gains and losses.
+- Exposure, merchant economics and partnership characteristics may condition
+  valuation responses.
+
+These are working propositions, not established findings or finalized
+directional hypotheses. Diagnostics have already been observed; this wording
+is dated to the current documentation revision, not preregistered or backdated.
+It is not derived from the signs of particular pilot CARs. No claim that all
+partnerships create positive value is imposed. Where direction remains
+unsettled, the project retains a research question rather than inventing a
+prediction. In particular, size may combine exposure/dilution and bargaining
+channels, and size, exclusivity and multi-homing have no imposed CAR sign.
+
+## Current Empirical Objectives and Limits
+
+| Question | Outcome/evidence | Current status | What remains |
+| --- | --- | --- | --- |
+| RQ1: Announcement value | Platform and merchant/public-parent CAR | Initial event-level diagnostics exist | Define eligible inference samples and uncertainty; no industry-wide effect established |
+| RQ2: Who captures value or bears loss? | Both sides of the same event; planned dollar wealth and mechanism evidence | Some paired percentage-return diagnostics exist | Pre-event capitalization, comparable amounts, bargaining and dependence evidence |
+| RQ3: Combined value or redistribution? | Planned combined abnormal shareholder wealth | Not calculated | Capitalization, share-class/ownership scope, pre-event FX convention and measurement/inference decisions |
+| RQ4: When is value creation strongest? | Individual and planned joint responses across seven characteristics | Heterogeneity analysis planned; some characteristics exist | Complete historical covariates, specify tests and address dependence and limited samples |
+
+Initial-information dates differ from operational rollout dates. Historical
+tradability and local calendars matter. A source-quality grade does not
+establish a clean information shock. The current price-index diagnostics are
+not the final matched-total-return specification. Repeated platforms, bundles,
+overlapping windows and the small pilot limit inference.
+
+A larger percentage CAR does not establish a larger dollar gain or contractual
+surplus share. An unobservable private-merchant return is missing, not zero.
+Opposite signs, a near-zero joint estimate or failure to reject zero would
+not establish pure redistribution. No question is treated as already answered.
+
+See the [verified checkpoint](#latest-checkpoint) for existing counts and
+[Research Questions and Design](docs/RESEARCH_QUESTIONS.md) for units,
+eligible samples, planned wealth measurement, mechanism–evidence mapping
+and the dated framing decision.
 
 ## Latest Checkpoint
 
@@ -91,6 +155,19 @@ The wider frozen inventory contains 96 records: 81 included information events
 and 15 preserved exclusions. The current diagnostic uses the already fixed
 20-shock/21-link pilot, not all 81 included events. Missing prices and
 contaminated windows do not cause replacement of pilot candidates.
+
+The analysis distinguishes three units:
+
+- **Event evidence:** a distinct partnership-information announcement/bundle,
+  with its merchant links.
+- **Market observation:** event × security/side × local reaction session/window,
+  retaining the specification and timing scenario.
+- **Paired comparison:** the same event with both securities observable and
+  eligible, retaining each side's local reaction interval.
+
+Where a platform or merchant is observed through a listed parent, the return
+measures that parent's valuation response, not a separately measured BNPL
+subsidiary or merchant-brand return.
 
 A shock is different from a partnership link, security, fitted model or
 window-specific result. The Zip–Fanatics/Fiserv bundle remains **one platform
@@ -246,7 +323,8 @@ every listed item is distributed in the GitHub checkout.
 
 | Relative path | Role and distribution status |
 | --- | --- |
-| `README.md` | Published research checkpoint and documentation |
+| `README.md` | Published current framing, research checkpoint and documentation |
+| `docs/RESEARCH_QUESTIONS.md` | Canonical active questions, evidence map and framing decision |
 | `data_partnership/merchant_stock_price/` | Supplied raw CSVs; local only |
 | `data/data_processing/AR_CAR mock test/` | Current generated results; local only |
 | `data/mock_test_#1/` | Frozen pilot and calendar snapshots; local research inputs |
@@ -315,7 +393,8 @@ runs can be resumed; changed inputs or code trigger versioned archives rather
 than silently overwriting earlier results.
 
 The run command is documented here, **not executed by this README update**.
-Only CLI help and read-only documentation checks were executed for this task.
+CLI help was verified in the preceding documentation update; the current
+framing revision uses read-only documentation and summary checks.
 The full execution and test claims above refer to the saved September 14 run.
 
 ## Missing Data and Next Steps
@@ -350,6 +429,44 @@ Next research steps are to:
    heterogeneity analysis, accounting for dependence and sample concentration.
 7. Obtain pre-event market capitalization and FX inputs before calculating
    joint abnormal shareholder wealth in consistent monetary units.
+
+## Research Evolution and Module Hierarchy
+
+**Stage A — Original merchant-accounting design.** The original question
+concerned short- and long-run revenue growth, gross margins and operating
+margins after BNPL adoption, with industry, scale/exposure and bargaining-power
+hypotheses. The researcher's supplied account reported a placebo standard
+deviation of approximately 3.06%, an implied minimum detectable revenue effect
+of approximately 8.6%, and a plausible consolidated-revenue range of 1–6%.
+The last range was a plausibility assessment, not an estimated treatment
+effect. These considerations motivated aggregation and power concerns;
+they did not prove that BNPL has no merchant effect.
+
+**Stage B — Intermediate platform-focused proposal.** The broader framework
+asked how merchant-network composition and regulatory shocks shape value
+creation, surplus allocation and risk incidence in BNPL platforms. Its three
+proposed modules were H1 Merchant Portfolio Economics, H2 Partnership Surplus
+Allocation and H3 Regulatory Incidence. This was the researcher's proposal
+and request for advice, not a claim that a supervisor approved the exact
+current wording. No email date is inferred or private correspondence reproduced.
+
+**Stage C — Current primary empirical focus.** The partnership-announcement
+event study develops **Stage B's H2—Partnership Surplus Allocation** through
+bilateral valuation responses and planned abnormal dollar wealth and
+heterogeneity analysis. The broader agenda remains, with a clear hierarchy:
+
+- **Primary:** partnership announcements, bilateral valuation responses,
+  planned joint abnormal shareholder wealth and planned heterogeneity.
+- **Supporting:** merchant-network composition and platform-quarter economics
+  as context, mechanism or robustness work if historical data permit.
+- **Secondary:** regulatory-event feasibility/robustness; earlier tests were
+  reported as mixed/noisy, not decisive partnership evidence.
+- **Legacy/exploratory:** merchant accounting DiD and private-company financial
+  recovery.
+
+The [canonical research-question document](docs/RESEARCH_QUESTIONS.md#research-evolution)
+preserves the two historical H1–H3 systems separately. They are not current
+directional CAR hypotheses, and supporting modules are not all complete.
 
 ## Historical/Supporting Modules
 
